@@ -1,0 +1,119 @@
+admin_reference,subsite_store,completed_at,state,payment_state,shipment_state,total,currency,campaign_code,customer_company,bill_city,bill_zipcode,bill_state_name,bill_company,bill_country_iso_name,ship_city,ship_zipcode,ship_state_name,ship_company,ship_country_iso_name,product_name,quantity,sku
+O571736817,,,complete,paid,shipped,1012.0,SEK,,,Kungsgården,81293,,,SE,Kungsgården,81293,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O390647165,,,complete,paid,shipped,764.0,SEK,,,Bengtsfors,66630,,,SE,Bengtsfors,66630,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O151485578,,,complete,paid,shipped,1081.0,SEK,,,Delsbo,82060,,,SE,Delsbo,82060,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,3,SÄL827025
+O066625880,,,complete,paid,shipped,556.0,SEK,,,Västerås,72233,,,SE,Västerås,72233,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O727025761,,,complete,paid,shipped,456.0,SEK,,,Åsarp,52043,,,SE,Åsarp,52043,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O494477142,,,complete,paid,shipped,634.0,SEK,,,Hova,54831,,,SE,Hova,54831,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O862482170,,,complete,paid,shipped,387.0,SEK,,,Säffle,66140,,,SE,Säffle,66140,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O816432515,,,complete,paid,shipped,567.93,DKK,,,Sejerø,4592,,,DK,Sejerø,4592,,,DK,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O691419618,,,complete,paid,shipped,4281.13,SEK,,,Ellös,47432,,,SE,Ellös,47432,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,2,SÄL827025
+O044950495,,,complete,paid,shipped,333.0,NOK,,,Vossestrand,5713,,,NO,Vossestrand,5713,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O123348012,,,complete,paid,shipped,347.32,NOK,,,Bru,4158,,,NO,Bru,4158,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O367620881,,,complete,paid,shipped,323.0,NOK,,,STØREN,7290,,,NO,STØREN,7290,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O310575068,,,complete,paid,shipped,347.0,NOK,,,OSLO,0985,,,NO,OSLO,0985,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O188194279,,,complete,paid,shipped,341.0,NOK,,,Ål,3570,,,NO,Ål,3570,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O695950443,,,complete,paid,shipped,346.0,NOK,,,Gran,2750,,,NO,Gran,2750,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O912789224,,,complete,paid,shipped,348.0,NOK,,,Finnsnes,9300,,,NO,Finnsnes,9300,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O900354130,,,complete,paid,shipped,327.43,NOK,,,Tau,4120,,,NO,Tau,4120,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O155959966,,,complete,paid,shipped,318.0,NOK,,,MOSBY,4619,,,NO,MOSBY,4619,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O794575588,,,complete,paid,shipped,338.0,NOK,,,LINDÅS,5955,,,NO,LINDÅS,5955,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O101517366,,,complete,paid,shipped,345.9,NOK,,,Hafrsfjord,4045.0,,,NO,Hafrsfjord,4045.0,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O658145590,,,complete,paid,shipped,319.89,NOK,,,Tveit,4658.0,,,NO,Tveit,4658.0,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O147949653,,,complete,paid,shipped,318.99,NOK,,,Stokmarknes,8450.0,,,NO,Stokmarknes,8450.0,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O556584960,,,complete,paid,shipped,327.0,NOK,,,Kristiansund,6512.0,,,NO,Kristiansund,6512.0,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O402854604,,,complete,paid,ready,328.0,NOK,,,LONGVA,6293,,,NO,LONGVA,6293,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O653249722,,,complete,paid,shipped,345.0,NOK,,,KVÅL,7228,,,NO,KVÅL,7228,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O004949054,,,complete,paid,shipped,325.9,NOK,,,GODVIK,5179,,,NO,GODVIK,5179,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O712107622,,,complete,paid,shipped,349.0,NOK,,,Stokmarknes,8450,,,NO,Stokmarknes,8450,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,2,SÄL827025
+O367670294,,,complete,paid,shipped,301.0,NOK,,,Ranheim,7054,,,NO,Ranheim,7054,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O357826439,,,complete,paid,shipped,317.0,NOK,,,Sævelandsvik,4275,,,NO,Sævelandsvik,4275,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O208488956,,,complete,paid,shipped,305.9,NOK,,,Nærbø,4365,,,NO,Nærbø,4365,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O454950955,,,complete,paid,shipped,379.0,NOK,,,Loddefjord,5171,,,NO,Loddefjord,5171,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O121260494,,,complete,paid,shipped,307.0,NOK,,,Saltstraumen,8056,,,NO,Saltstraumen,8056,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O189441459,,,complete,paid,shipped,377.0,NOK,,,Rykkinn,1349,,,NO,Rykkinn,1349,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O052097367,,,complete,paid,shipped,322.8,NOK,,,Ranheim,7054,,,NO,Ranheim,7054,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O024133828,,,complete,paid,shipped,325.9,NOK,,,OSLO,0464,,,NO,OSLO,0464,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O944526336,,,complete,paid,shipped,412.0,SEK,,,Tanumshede,45730,,,SE,Tanumshede,45730,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O256632231,,,complete,paid,shipped,510.41,DKK,,,gørlev,4281,,,DK,gørlev,4281,,,DK,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O276938302,,,complete,paid,shipped,356.0,NOK,,,Aure,6690,,,NO,Aure,6690,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O777897162,,,complete,paid,shipped,346.0,NOK,,,Leikanger,6863,,,NO,Leikanger,6863,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O905497916,,,complete,paid,shipped,397.0,NOK,,,KOLLTVEIT,5360,,,NO,KOLLTVEIT,5360,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,2,SÄL827025
+O420553541,,,complete,paid,shipped,322.0,NOK,,,Nærbø,4365,,,NO,Nærbø,4365,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O396881079,,,complete,paid,shipped,347.0,NOK,,,Strømmen,2010,,,NO,Strømmen,2010,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O370377820,,,complete,paid,shipped,348.9,NOK,,,Gran,2750,,,NO,Gran,2750,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O339215414,,,complete,paid,shipped,391.0,NOK,,,Gran,2750,,,NO,Gran,2750,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O663044324,,,complete,paid,shipped,1219.0,SEK,,,Svalöv,26831,,,SE,Svalöv,26831,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,2,SÄL827025
+O655421283,,,complete,paid,shipped,346.0,NOK,,,KOLLTVEIT,5360,,,NO,KOLLTVEIT,5360,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O187763371,,,complete,paid,shipped,396.9,NOK,,,GODVIK,5179,,,NO,GODVIK,5179,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O109666629,,,complete,paid,shipped,330.0,NOK,,,Nå,5776,,,NO,Nå,5776,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O085720278,,,complete,paid,shipped,441.9,NOK,,,Gran,2750,,,NO,Gran,2750,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O758428940,,,complete,paid,shipped,953.0,SEK,,,Göteborg,41563,,,SE,Göteborg,41563,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,2,SÄL827025
+O325083755,,,complete,paid,shipped,371.0,NOK,,,Stjørdal,7503,,,NO,Stjørdal,7503,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O606477104,,,complete,paid,shipped,352.0,NOK,,,Alta,9517,,,NO,Alta,9517,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O768189254,,,complete,paid,shipped,328.0,NOK,,,Tananger,4056,,,NO,Tananger,4056,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O981485820,,,complete,paid,shipped,347.0,NOK,,,Hellevik i Fjaler,6967,,,NO,Hellevik i Fjaler,6967,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O717113186,,,complete,paid,shipped,392.0,NOK,,,GODVIK,5179,,,NO,GODVIK,5179,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O312140390,,,complete,paid,shipped,361.0,SEK,,,Skänninge,59634,,,SE,Skänninge,59634,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O741321610,,,complete,paid,shipped,1024.0,SEK,,,Falköping,52192,,,SE,Falköping,52192,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O350163780,,,complete,paid,ready,340.0,NOK,,,Sandland,9585,,,NO,Sandland,9585,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O850693864,,,complete,paid,shipped,342.0,NOK,,,Gran,2750,,,NO,Gran,2750,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O435514796,,,complete,paid,shipped,423.71,DKK,,,Vordingborg,4760,,,DK,Vordingborg,4760,,,DK,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O000178152,,,complete,paid,shipped,402.0,NOK,,,Dønna,8820,,,NO,Dønna,8820,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O536259236,,,complete,paid,shipped,1798.5,SEK,,,Saltsjö-Boo,13234,,,SE,Saltsjö-Boo,13234,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O980968657,,,complete,paid,shipped,401.0,NOK,,,Gran,2750,,,NO,Gran,2750,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O221022052,,,complete,paid,shipped,327.0,SEK,,,Mjölby,59553,,,SE,Mjölby,59553,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O220025589,,,complete,paid,shipped,386.0,NOK,,,Sauda,4200,,,NO,Sauda,4200,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O613042263,,,complete,paid,shipped,198.0,NOK,,,Husnes,5460,,,NO,Husnes,5460,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O646917950,,,complete,paid,shipped,409.0,NOK,,,Farstad,6444,,,NO,Farstad,6444,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O081693995,,,complete,paid,shipped,330.0,NOK,,,Hellevik i Fjaler,6967,,,NO,Hellevik i Fjaler,6967,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O101183739,,,complete,paid,ready,2946.0,SEK,,,Vingåker,64392,,,SE,Vingåker,64392,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,2,SÄL827025
+O241688621,Godisgruvan,,complete,paid,shipped,10057.0,SEK,,,Lögdeå,91492,,,SE,Lögdeå,91492,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,2,SÄL827025
+O240643124,,,complete,paid,shipped,2182.0,SEK,,,Stockholm,11130,,,SE,Stockholm,11130,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,2,SÄL827025
+O596247512,,,complete,paid,shipped,1048.0,SEK,,,Göteborg,41563,,,SE,Göteborg,41563,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O930246556,,,complete,paid,shipped,405.0,NOK,,,Kolltveit,5360,,,NO,Kolltveit,5360,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O036639792,,,complete,paid,shipped,386.0,NOK,,,STORD,5412,,,NO,STORD,5412,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O619608535,,,complete,paid,shipped,405.0,NOK,,,Treungen,3855,,,NO,Treungen,3855,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O275612819,,,complete,paid,shipped,2820.0,SEK,,,Floda,44891,,,SE,Floda,44891,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O266779084,,,complete,paid,shipped,1163.0,SEK,,,Falköping,52192,,,SE,Falköping,52192,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,2,SÄL827025
+O623229278,,,complete,paid,shipped,419.0,NOK,,,Dale i Sunnfjord,6963,,,NO,Dale i Sunnfjord,6963,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O633616469,,,complete,paid,shipped,380.0,NOK,,,Steinkjer,7724,,,NO,Steinkjer,7724,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O428028381,,,complete,paid,shipped,397.0,NOK,,,Steinkjer,7724,,,NO,Steinkjer,7724,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O176367888,,,complete,paid,shipped,272.0,NOK,,,Gran,2750,,,NO,Gran,2750,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O017345242,,,complete,paid,shipped,398.0,NOK,,,Gran,2750,,,NO,Gran,2750,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O989932556,,,complete,paid,shipped,422.0,NOK,,,Gran,2750,,,NO,Gran,2750,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O603174880,,,complete,paid,shipped,237.0,NOK,,,Haugesund,5532,,,NO,Haugesund,5532,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O827726297,,,complete,paid,shipped,802.0,SEK,,,Kävlinge,24491,,,SE,Kävlinge,24491,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O815469008,,,complete,paid,shipped,1277.0,SEK,,,Trosa,61935,,,SE,Trosa,61935,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,2,SÄL827025
+O467075290,,,complete,paid,shipped,5051.0,SEK,ENIROKLIPP,,Ystad,27191,,,SE,Ystad,27191,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,2,SÄL827025
+O215697669,,,complete,paid,shipped,439.0,SEK,,,Stockholm,11823,,,SE,Stockholm,11823,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O604305683,,,complete,paid,shipped,416.0,NOK,,,Gran,2750,,,NO,Gran,2750,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O521773648,,,complete,paid,shipped,436.0,SEK,,,Katrineholm,64132,,,SE,Katrineholm,64132,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O882930019,,,complete,paid,shipped,423.0,NOK,,,Kjerrgarden,5314,,,NO,Kjerrgarden,5314,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O359853340,,,complete,paid,shipped,379.0,NOK,,,Erdal,5306,,,NO,Erdal,5306,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O621454065,,,complete,paid,shipped,862.0,SEK,,,Gislaved,33236,,,SE,Gislaved,33236,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O588444355,,,complete,paid,shipped,409.0,NOK,,,Kjerrgarden,5314,,,NO,Kjerrgarden,5314,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O567966686,,,complete,paid,shipped,2950.8,SEK,,,Alingsås,44192,,,SE,Alingsås,44192,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,2,SÄL827025
+O709286321,,,complete,paid,shipped,337.0,NOK,,,Tysværvåg,5565,,,NO,Tysværvåg,5565,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O043311394,,,complete,paid,shipped,398.0,NOK,,,Veavågen,4276,,,NO,Veavågen,4276,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O552249926,,,complete,paid,shipped,338.0,NOK,,,Hellevik i Fjaler,6967,,,NO,Hellevik i Fjaler,6967,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O923818865,,,complete,paid,shipped,413.5,NOK,,,Os,5208,,,NO,Os,5208,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O487695507,,,complete,paid,shipped,406.0,NOK,,,Tau,4120,,,NO,Tau,4120,,,NO,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O461753367,,,complete,paid,ready,551.9,SEK,,,Upplands Väsby,19433,,,SE,Upplands Väsby,19433,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O492821262,Klippkungen,,complete,paid,shipped,3550.0,SEK,,,Malung,782 91,,,SE,Malung,782 91,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O367743796,Klippkungen,,complete,paid,shipped,691.0,SEK,,,Norrsundet,817 30,,,SE,Norrsundet,817 30,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O789905359,Klippkungen,,complete,paid,shipped,739.0,SEK,,,Vinslöv,288 90,,,SE,Vinslöv,288 90,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O826192106,Klippkungen,,complete,paid,shipped,1572.0,SEK,,,Upplands Väsby,194 57,,,SE,Upplands Väsby,194 57,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O496022660,Klippkungen,,complete,paid,shipped,625.0,SEK,,,Malmö,215 81,,,SE,Malmö,215 81,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O235064095,Klippkungen,,complete,paid,shipped,490.0,SEK,,,Vikbolandet,610 25,,,SE,Vikbolandet,610 25,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O132134841,Klippkungen,,complete,paid,shipped,946.7,SEK,,,Domsjö,892 92,,,SE,Domsjö,892 92,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O813963241,Klippkungen,,complete,paid,shipped,307.0,SEK,,,Södertälje,151 63,,,SE,Södertälje,151 63,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O035979685,Klippkungen,,complete,paid,shipped,855.0,SEK,,,Malmö,215 81,,,SE,Malmö,215 81,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O712930017,Klippkungen,,complete,paid,shipped,749.0,SEK,,,Vaggeryd,56731,,,SE,Vaggeryd,56731,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O490801734,Klippkungen,,complete,paid,shipped,691.0,SEK,,,Enköping,745 96,,,SE,Enköping,745 96,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O201558051,Klippkungen,,complete,paid,shipped,651.0,SEK,,,Fjugesta,716 93,,,SE,Fjugesta,716 93,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O494960226,Klippkungen,,complete,paid,shipped,1673.0,SEK,,,Osby,283 33,,,SE,Osby,283 33,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O248835195,Klippkungen,,complete,paid,shipped,436.0,SEK,,,Ärla,635 37,,,SE,Ärla,635 37,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O740468647,Klippkungen,,complete,paid,shipped,180.0,DKK,,,Odense C,5000,,,DK,Odense C,5000,,,DK,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O333633251,Klippkungen,,complete,paid,shipped,1059.0,SEK,,,Piteå,941 42,,,SE,Piteå,941 42,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025
+O416594755,Klippkungen,,complete,paid,shipped,386.0,SEK,,,Mjölby,595 43,,,SE,Mjölby,595 43,,,SE,SMAKIS ÄPPLE KRAV BRICK 25 cl - 27 st,1,SÄL827025

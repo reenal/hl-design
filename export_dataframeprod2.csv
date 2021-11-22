@@ -1,0 +1,2196 @@
+subsite_store,shipment_state,total,currency,bill_city,bill_zipcode,bill_country_iso_name,quantity,completed_year,completed_month,completed_day
+Klippkungen,shipped,580.7,SEK,Loftahammar,59095,SE,1,2018,9,17
+Klippkungen,shipped,953.0,SEK,Uppsala,75653,SE,2,2019,2,14
+Klippkungen,shipped,297.0,SEK,Anderstorp,33433,SE,1,2018,9,24
+Klippkungen,shipped,426.0,SEK,MALMÖ,21455,SE,1,2018,10,6
+Klippkungen,shipped,847.0,SEK,SORUNDA,14897,SE,1,2018,5,23
+Klippkungen,ready,1632.0,SEK,TIMMELE,52392,SE,1,2018,6,17
+Klippkungen,shipped,1459.0,SEK,NYNÄSHAMN,14931,SE,1,2018,11,15
+Klippkungen,shipped,237.0,SEK,Moheda,34262,SE,1,2018,12,5
+Klippkungen,shipped,910.0,SEK,VÄSTERÅS,72591,SE,1,2018,12,17
+Klippkungen,shipped,603.91,SEK,DEJE,66930,SE,1,2018,8,17
+Klippkungen,shipped,327.0,SEK,Åstorp,26533,SE,1,2018,11,9
+Klippkungen,shipped,1652.0,SEK,Boxholm,59011,SE,1,2018,5,11
+Klippkungen,shipped,982.4,SEK,Västerljung,61075,SE,1,2018,7,3
+Klippkungen,shipped,357.0,SEK,Uddevalla,45161,SE,1,2018,12,9
+Klippkungen,shipped,829.0,SEK,Vänersborg,46250,SE,1,2018,10,3
+Klippkungen,shipped,1667.0,SEK,Djurhamn,13902,SE,1,2018,5,14
+Klippkungen,shipped,774.0,SEK,Lund,22456,SE,1,2018,7,4
+Klippkungen,ready,2457.0,SEK,Uppsala,75244,SE,1,2019,5,10
+Klippkungen,shipped,623.0,SEK,Vattholma,74350,SE,1,2018,5,22
+Klippkungen,shipped,626.44,DKK,Ålsgårde,3140,DK,1,2018,6,4
+Klippkungen,shipped,571.0,SEK,Robertsfors,91592,SE,1,2018,5,27
+Klippkungen,shipped,978.0,SEK,RONNEBY,37230,SE,1,2018,11,10
+Klippkungen,shipped,1083.0,SEK,Stockholm,11359,SE,1,2018,6,25
+Klippkungen,shipped,581.0,SEK,Brandbergen,13661,SE,1,2018,5,11
+Klippkungen,shipped,475.0,SEK,Mariestad,54293,SE,1,2018,5,26
+Klippkungen,shipped,148.0,SEK,Blentarp,27562,SE,1,2018,9,17
+Klippkungen,shipped,629.0,SEK,Umeå,90642,SE,1,2018,6,1
+Klippkungen,shipped,459.0,SEK,Karlskoga,69135,SE,1,2018,12,4
+Klippkungen,shipped,575.0,SEK,Hägersten,12678,SE,1,2018,6,13
+Klippkungen,shipped,567.0,SEK,MOTALA,59138,SE,1,2018,11,24
+Klippkungen,shipped,739.91,SEK,Granö,92295,SE,1,2018,9,23
+Klippkungen,shipped,655.41,SEK,Tyringe,28231,SE,1,2018,9,29
+Klippkungen,ready,1239.28,DKK,Køge,4600,DK,1,2018,9,29
+Klippkungen,shipped,337.91,SEK,Umeå,90751,SE,1,2018,5,10
+Klippkungen,shipped,821.0,SEK,Hälleforsnäs,64831,SE,1,2018,6,7
+Klippkungen,shipped,758.8,SEK,Göteborg,41680,SE,1,2018,9,24
+Klippkungen,shipped,466.0,SEK,Reftele,33375,SE,1,2018,9,17
+Klippkungen,shipped,643.9,SEK,Falkenberg,31135,SE,1,2018,5,20
+Klippkungen,shipped,1176.45,DKK,København S,2300,DK,1,2018,5,18
+Klippkungen,shipped,267.0,SEK,MARIESTAD,54240,SE,1,2018,5,18
+Klippkungen,shipped,3890.0,SEK,STOCKHOLM,11451,SE,1,2018,5,17
+Klippkungen,shipped,349.0,SEK,vara,53432,SE,1,2018,5,17
+Klippkungen,shipped,566.0,SEK,Löberöd,24162,SE,1,2018,5,17
+Klippkungen,shipped,585.0,SEK,SANDVIKEN,81140,SE,1,2018,5,19
+Klippkungen,shipped,525.0,SEK,Tyringe,28234,SE,1,2018,9,12
+Klippkungen,shipped,357.0,SEK,STOCKHOLM,11756,SE,1,2018,5,23
+Klippkungen,shipped,529.0,SEK,Laholm,31236,SE,1,2018,6,5
+Klippkungen,shipped,641.0,SEK,Svärdsjö,79023,SE,1,2018,7,10
+Klippkungen,shipped,327.0,SEK,Karlstad,65467,SE,1,2018,11,29
+Klippkungen,ready,316.0,SEK,Vikbolandet,61030,SE,1,2019,10,10
+Klippkungen,shipped,750.0,SEK,Linköping,58951,SE,1,2018,5,27
+Klippkungen,shipped,604.0,SEK,NÄSÅKER,88030,SE,1,2018,5,27
+Klippkungen,shipped,368.0,SEK,Holsbybrunn,57015,SE,1,2018,10,23
+Klippkungen,shipped,536.0,SEK,TIERP,81544,SE,1,2018,5,29
+Klippkungen,shipped,267.0,SEK,Katrineholm,64131,SE,1,2018,6,12
+Klippkungen,shipped,814.84,DKK,København Ø,2100,DK,4,2018,6,8
+Klippkungen,shipped,371.0,NOK,Kvaløya,9104,NO,1,2018,10,21
+Klippkungen,shipped,337.22,NOK,Jakobsli,7058,NO,1,2018,6,3
+Klippkungen,shipped,902.0,SEK,Uppsala,75597,SE,1,2018,6,5
+Klippkungen,shipped,331.05,NOK,OSLO,0575,NO,1,2018,6,6
+Klippkungen,shipped,1290.9,SEK,Lycksele,92132,SE,1,2018,11,9
+Klippkungen,shipped,318.0,NOK,FOGN,4164,NO,1,2018,8,21
+Klippkungen,shipped,337.47,NOK,LENA,2850,NO,1,2018,6,7
+Klippkungen,shipped,349.2,NOK,Sandnessjøen,8803,NO,1,2018,6,7
+Klippkungen,shipped,444.0,SEK,Floda,44837,SE,1,2018,6,8
+Klippkungen,shipped,334.25,NOK,ÅDALSBRUK,2345,NO,1,2018,6,9
+Klippkungen,shipped,415.0,SEK,MÖLNDAL,43132,SE,1,2018,7,14
+Klippkungen,shipped,325.79,NOK,ERDAL,5306,NO,1,2018,6,11
+Klippkungen,shipped,1975.0,SEK,NORSBORG,14557,SE,1,2018,6,12
+Klippkungen,shipped,336.0,NOK,Stavern,3290,NO,1,2018,11,6
+Klippkungen,shipped,349.5,NOK,Måløy,6700,NO,1,2018,6,12
+Klippkungen,shipped,348.74,NOK,Flatdal,3841,NO,1,2018,6,12
+Klippkungen,shipped,300.31,NOK,Hafrsfjord,4048,NO,1,2018,6,21
+Klippkungen,shipped,375.0,NOK,Sandsli,5258,NO,1,2018,11,24
+Klippkungen,shipped,345.25,NOK,Hafrsfjord,4046,NO,1,2018,6,13
+Klippkungen,shipped,329.14,NOK,Kragerø,3772,NO,1,2018,6,13
+Klippkungen,shipped,598.5,SEK,Bollnäs,82131,SE,1,2018,6,14
+Klippkungen,shipped,347.91,NOK,Harstad,9411,NO,1,2018,6,14
+Klippkungen,shipped,372.46,NOK,Stavanger,4029,NO,1,2018,7,19
+Klippkungen,shipped,268.0,NOK,Nærbø,4365,NO,1,2018,10,4
+Klippkungen,shipped,347.6,NOK,Indre Arna,5261,NO,1,2018,8,23
+Klippkungen,shipped,342.11,NOK,Nesttun,5228,NO,1,2018,6,16
+Klippkungen,shipped,1173.74,SEK,Umeå,90334,SE,1,2018,6,17
+Klippkungen,shipped,345.78,NOK,Sandefjord,3244,NO,1,2018,6,17
+Klippkungen,ready,314.8,SEK,Vårgårda,44730.0,SE,1,2018,6,18
+Klippkungen,ready,348.44,NOK,Varangerbotn,9840.0,NO,1,2018,6,18
+Klippkungen,shipped,348.85,NOK,MOEN,9321.0,NO,1,2018,6,22
+Klippkungen,shipped,585.8,SEK,Stockholm,11326.0,SE,1,2018,6,26
+Klippkungen,shipped,376.0,NOK,BORHAUG,4563.0,NO,1,2018,7,21
+Klippkungen,shipped,344.85,NOK,HAMNVIK,9450.0,NO,1,2018,6,20
+Klippkungen,shipped,347.0,NOK,BREISTEIN,5111.0,NO,1,2018,6,21
+Klippkungen,shipped,349.18,NOK,Varhaug,4360.0,NO,1,2018,7,3
+Klippkungen,shipped,339.25,NOK,LINDÅS,5955.0,NO,1,2018,6,21
+Klippkungen,shipped,348.05,NOK,MOEN,9321.0,NO,1,2018,6,23
+Klippkungen,shipped,327.0,NOK,Harstad,9403.0,NO,1,2018,8,8
+Klippkungen,shipped,345.25,NOK,Heimdal,7080.0,NO,1,2018,6,22
+Klippkungen,shipped,505.6,DKK,Taastrup,2630.0,DK,1,2018,9,30
+Klippkungen,shipped,394.0,NOK,Kleppe,4352.0,NO,1,2019,10,10
+Klippkungen,shipped,400.0,SEK,Skövde,54138.0,SE,1,2019,10,24
+Klippkungen,shipped,361.3,NOK,Tromsø,9013.0,NO,1,2018,9,11
+Klippkungen,shipped,754.0,SEK,Tungelsta,13754.0,SE,1,2018,7,16
+Klippkungen,shipped,343.45,NOK,RÅHOLT,2070.0,NO,1,2018,6,24
+Klippkungen,shipped,964.0,SEK,Almunge,74010.0,SE,1,2018,6,24
+Klippkungen,shipped,1062.0,SEK,Danderyd,18231.0,SE,1,2018,6,24
+Klippkungen,shipped,1062.0,SEK,Danderyd,18231.0,SE,1,2018,6,24
+Klippkungen,shipped,345.1,NOK,Vikhammer,7560.0,NO,1,2018,6,24
+Klippkungen,shipped,227.0,SEK,Skellefteå,93164.0,SE,1,2018,7,6
+Klippkungen,shipped,349.47,NOK,Gjerstad,4980.0,NO,1,2018,6,25
+Klippkungen,shipped,178.0,SEK,BORÅS,50643.0,SE,1,2018,12,7
+Klippkungen,shipped,307.0,SEK,Stockholm,11847.0,SE,1,2018,6,25
+Klippkungen,shipped,322.57,NOK,Ølen,5580.0,NO,1,2018,7,4
+Klippkungen,shipped,826.0,SEK,Gullringen,59873.0,SE,1,2018,11,20
+Klippkungen,shipped,346.11,NOK,Melbu,8445.0,NO,1,2018,6,28
+Klippkungen,shipped,197.0,NOK,Haugesund,5532.0,NO,1,2018,9,24
+Klippkungen,shipped,349.75,NOK,Verdal,7653.0,NO,1,2018,6,28
+Klippkungen,shipped,371.82,NOK,FINNSNES,9300.0,NO,1,2018,9,25
+Klippkungen,shipped,318.0,NOK,Hovsherad,4462.0,NO,1,2018,6,30
+Klippkungen,shipped,175.25,NOK,Vestskogen,3142.0,NO,1,2018,7,3
+Klippkungen,shipped,330.5,NOK,Stavanger,4008.0,NO,1,2018,7,1
+Klippkungen,shipped,1351.0,SEK,UPPSALA,75594.0,SE,1,2018,7,24
+Klippkungen,shipped,341.9,NOK,Blomsterdalen,5258.0,NO,1,2018,8,17
+Klippkungen,shipped,314.27,NOK,Rørvik,7900.0,NO,1,2018,7,3
+Klippkungen,shipped,706.7,SEK,Fjugesta,71630.0,SE,1,2018,7,4
+Klippkungen,shipped,310.84,NOK,Saupstad,7078.0,NO,1,2018,7,4
+Klippkungen,shipped,247.0,NOK,Tynset,2500.0,NO,1,2018,10,4
+Klippkungen,shipped,2083.0,SEK,Borås,50636.0,SE,1,2018,7,5
+Klippkungen,shipped,923.0,SEK,Sparsör,51350.0,SE,1,2018,7,5
+Klippkungen,shipped,376.0,NOK,NORD-TORPA,2880.0,NO,1,2018,8,6
+Klippkungen,shipped,370.9,NOK,Valldal,6210.0,NO,1,2018,9,9
+Klippkungen,shipped,378.25,NOK,Åseral,4540.0,NO,1,2018,7,7
+Klippkungen,shipped,2428.88,SEK,Tidan,54991.0,SE,1,2018,7,8
+Klippkungen,shipped,254.25,NOK,HAUGESUND,5523.0,NO,1,2018,7,8
+Klippkungen,shipped,377.01,NOK,Volda,6104.0,NO,1,2018,7,17
+Klippkungen,shipped,373.25,NOK,Rossland,5917.0,NO,1,2018,7,8
+Klippkungen,shipped,350.04,NOK,Vigrestad,4362.0,NO,1,2018,7,20
+Klippkungen,shipped,3078.0,SEK,Kumla,69237.0,SE,1,2019,9,22
+Klippkungen,shipped,1813.72,SEK,vilhelmina,91233.0,SE,1,2018,7,9
+Klippkungen,shipped,267.0,SEK,Norrköping,60387.0,SE,1,2018,7,22
+Klippkungen,shipped,647.0,SEK,STOCKHOLM,11759.0,SE,1,2018,7,9
+Klippkungen,shipped,647.0,SEK,STOCKHOLM,11759.0,SE,1,2018,7,9
+Klippkungen,shipped,1325.54,SEK,Göteborg,41511.0,SE,1,2018,7,9
+Klippkungen,shipped,327.0,SEK,GÖTEBORG,41758.0,SE,2,2018,7,10
+Klippkungen,shipped,348.0,NOK,Kvalavåg,4264.0,NO,1,2018,8,21
+Klippkungen,shipped,2064.61,SEK,Torslanda,42340.0,SE,1,2018,7,11
+Klippkungen,shipped,377.0,NOK,Eggedal,3359.0,NO,1,2018,7,13
+Klippkungen,shipped,337.0,NOK,Hafrsfjord,4045.0,NO,1,2018,8,9
+Klippkungen,shipped,337.0,NOK,Hafrsfjord,4045.0,NO,1,2018,8,9
+Klippkungen,shipped,370.01,NOK,Vadheim,6996,NO,1,2018,7,16
+Klippkungen,shipped,655.0,SEK,Nässjö,57139,SE,1,2018,7,16
+Klippkungen,shipped,348.0,NOK,Skogsvåg,5382,NO,1,2018,8,21
+Klippkungen,shipped,352.0,NOK,Viggja,7354,NO,1,2018,8,7
+Klippkungen,shipped,312.0,NOK,Sørvær,9595,NO,1,2018,7,31
+Klippkungen,shipped,328.0,NOK,OLSVIK,5183,NO,1,2018,7,23
+Klippkungen,shipped,348.7,NOK,Ålgård,4330,NO,1,2018,7,24
+Klippkungen,shipped,496.0,SEK,Malmö,21426,SE,1,2018,8,23
+Klippkungen,shipped,347.0,NOK,Skudeneshavn,4280,NO,1,2018,7,25
+Klippkungen,ready,1418.0,SEK,Fjugesta,71630,SE,1,2018,8,29
+Klippkungen,shipped,1260.0,SEK,Visby,62157,SE,1,2018,7,24
+Klippkungen,shipped,178.0,SEK,Deje,66932,SE,1,2018,7,25
+Klippkungen,shipped,361.0,NOK,Tananger,4056,NO,1,2018,9,21
+Klippkungen,shipped,319.0,NOK,Skien,3723,NO,1,2018,7,26
+Klippkungen,shipped,276.0,SEK,Svartå,69373,SE,1,2019,10,10
+Klippkungen,shipped,347.0,NOK,Fitjar,5419,NO,2,2018,9,12
+Klippkungen,shipped,348.0,NOK,MAUSUND,7284,NO,1,2018,7,27
+Klippkungen,shipped,322.0,NOK,Holum,4519,NO,1,2018,7,28
+Klippkungen,shipped,347.7,NOK,DALHOLEN,2584,NO,1,2018,8,3
+Klippkungen,shipped,348.0,NOK,KJØPSVIK,8590,NO,1,2018,8,11
+Klippkungen,shipped,287.0,NOK,Skogsvåg,5382,NO,2,2018,9,7
+Klippkungen,shipped,354.0,NOK,Krokelvdalen,9022,NO,1,2018,10,8
+Klippkungen,shipped,376.9,NOK,Flemma,6637,NO,1,2018,9,17
+Klippkungen,shipped,346.0,NOK,Åseral,4540,NO,1,2018,8,16
+Klippkungen,shipped,332.8,NOK,Grimstad,4876,NO,1,2018,8,16
+Klippkungen,shipped,90.12,EUR,Bosund,68555,FI,1,2018,8,5
+Klippkungen,shipped,371.0,SEK,Halltorp,38895,SE,1,2018,11,30
+Klippkungen,shipped,372.6,NOK,Kleppe,4352,NO,1,2018,8,6
+Klippkungen,shipped,886.0,SEK,surte,44557,SE,1,2018,8,6
+Klippkungen,shipped,339.1,NOK,Narvik,8517,NO,1,2018,8,13
+Klippkungen,shipped,366.8,NOK,Snertingdal,2838,NO,1,2018,9,9
+Klippkungen,shipped,484.0,SEK,Märsta,19557,SE,1,2018,10,8
+Klippkungen,shipped,317.0,NOK,Halden,1771,NO,1,2018,8,18
+Klippkungen,shipped,344.96,NOK,Levanger,7604,NO,1,2018,8,8
+Klippkungen,shipped,346.0,NOK,Jevnaker,3520,NO,1,2018,8,9
+Klippkungen,shipped,347.0,NOK,Kokstad,5257,NO,1,2018,12,2
+Klippkungen,shipped,332.7,NOK,Folldal,2580,NO,1,2018,12,13
+Klippkungen,shipped,317.0,NOK,Sykkylven,6230,NO,1,2018,8,10
+Klippkungen,shipped,338.0,NOK,Trondheim,7038,NO,1,2018,8,10
+Klippkungen,shipped,326.0,NOK,Storebø,5392,NO,1,2018,8,11
+Klippkungen,ready,2627.0,SEK,Malmö,21112,SE,1,2018,8,11
+Klippkungen,shipped,456.0,SEK,Täby,18362,SE,1,2018,10,4
+Klippkungen,shipped,735.0,SEK,FÖRSLÖV,26972,SE,1,2018,8,22
+Klippkungen,shipped,348.8,NOK,Bergen,5031,NO,1,2018,8,22
+Klippkungen,shipped,346.0,NOK,Nord-Torpa,2880,NO,1,2018,8,13
+Klippkungen,shipped,904.0,SEK,Falun,79174,SE,1,2018,8,14
+Klippkungen,shipped,343.0,NOK,Skien,3740,NO,1,2018,8,14
+Klippkungen,shipped,342.0,NOK,STORD,5416,NO,1,2018,8,14
+Klippkungen,shipped,329.0,NOK,Roa,2740,NO,1,2018,8,14
+Klippkungen,shipped,545.0,SEK,Backaryd,37011,SE,1,2019,4,25
+Klippkungen,shipped,437.6,SEK,MALMÖ,21773,SE,1,2018,9,27
+Klippkungen,shipped,348.64,NOK,Sørkjosen,9152,NO,1,2018,8,17
+Klippkungen,shipped,347.8,NOK,Ørsta,6150,NO,1,2018,8,17
+Klippkungen,shipped,347.0,NOK,Tønsberg,3127,NO,1,2018,8,27
+Klippkungen,shipped,331.0,NOK,Folldal,2580,NO,1,2018,8,20
+Klippkungen,shipped,292.0,NOK,FURNES,2320,NO,1,2018,8,20
+Klippkungen,shipped,286.0,NOK,Voss,5709,NO,1,2018,9,5
+Klippkungen,shipped,364.0,NOK,Hafrsfjord,4048,NO,1,2018,10,4
+Klippkungen,shipped,306.0,NOK,Skogsvåg,5382,NO,1,2018,9,24
+Klippkungen,shipped,313.0,NOK,Beitstad,7730,NO,1,2018,8,22
+Klippkungen,shipped,317.0,NOK,Stord,5412,NO,1,2018,10,2
+Klippkungen,shipped,347.0,NOK,Kirkenes,9900,NO,1,2018,8,23
+Klippkungen,shipped,345.9,NOK,Honningsvåg,9750,NO,1,2018,8,23
+Klippkungen,shipped,366.0,NOK,Kristiansand S,4638,NO,1,2018,11,14
+Klippkungen,shipped,366.0,NOK,Vadheim,6996,NO,1,2018,8,25
+Klippkungen,shipped,705.0,SEK,Glumslöv,26163,SE,1,2018,9,3
+Klippkungen,shipped,316.9,NOK,Tønsberg,3127,NO,2,2018,10,30
+Klippkungen,shipped,465.0,SEK,Mörsil,83004,SE,1,2019,1,27
+Klippkungen,shipped,376.5,NOK,JOSTEDAL,6871,NO,1,2018,9,2
+Klippkungen,shipped,336.0,NOK,Eikelandsosen,5640,NO,1,2018,8,29
+Klippkungen,shipped,377.9,NOK,Egersund,4373,NO,1,2018,8,29
+Klippkungen,shipped,500.04,DKK,Nakskov,4900,DK,3,2018,8,30
+Klippkungen,shipped,335.0,NOK,Ål,3570,NO,1,2018,8,30
+Klippkungen,shipped,505.62,DKK,Rødovre,2610,DK,1,2018,9,11
+Klippkungen,shipped,517.46,DKK,Faxe,4640,DK,1,2018,8,31
+Klippkungen,shipped,279.06,DKK,Hadsten,8370,DK,1,2018,10,1
+Klippkungen,shipped,554.89,DKK,Grenå,8500,DK,1,2018,9,3
+Klippkungen,shipped,2923.0,SEK,Höganäs,26391,SE,1,2018,9,1
+Klippkungen,shipped,356.0,NOK,Honningsvåg,9750,NO,1,2018,9,24
+Klippkungen,shipped,709.69,DKK,Aalborg SØ,9210,DK,2,2018,9,4
+Klippkungen,shipped,552.52,DKK,Silkeborg,8600,DK,1,2018,8,31
+Klippkungen,shipped,507.98,DKK,Silkeborg,8600,DK,3,2018,10,4
+Klippkungen,shipped,746.0,SEK,Karlskoga,69154,SE,1,2018,8,31
+Klippkungen,shipped,4326.8,SEK,NÄSÅKER,88030,SE,1,2018,8,31
+Klippkungen,shipped,1883.0,SEK,Täby,18351,SE,1,2018,8,31
+Klippkungen,shipped,354.8,NOK,Mjøndalen,3050,NO,1,2018,10,26
+Klippkungen,ready,2014.91,DKK,Nexø,3730,DK,1,2018,9,28
+Klippkungen,shipped,375.9,NOK,EGERSUND,4373,NO,1,2018,9,2
+Klippkungen,shipped,378.6,NOK,Flatdal,3841,NO,1,2018,9,2
+Klippkungen,shipped,615.0,SEK,BODA KYRKBY,79596,SE,1,2018,10,6
+Klippkungen,shipped,519.75,DKK,Odense m,5230,DK,1,2018,9,3
+Klippkungen,shipped,7719.0,SEK,Stockholm,11164,SE,1,2018,9,5
+Klippkungen,shipped,707.52,DKK,Esbjerg,6700,DK,1,2018,9,3
+Klippkungen,shipped,263.14,DKK,Uldum,7171,DK,1,2018,9,3
+Klippkungen,shipped,504.8,DKK,Holstebro,7500,DK,1,2018,9,3
+Klippkungen,shipped,422.8,SEK,BOLLSTABRUK,87340,SE,1,2018,9,29
+Klippkungen,shipped,590.65,DKK,Hobro,9500,DK,1,2018,9,5
+Klippkungen,shipped,356.9,SEK,Kalmar,39238,SE,1,2018,9,5
+Klippkungen,shipped,595.42,DKK,Rødkærsbro,8840,DK,1,2018,10,14
+Klippkungen,shipped,342.0,NOK,ÅKREHAMN,4270,NO,1,2018,9,5
+Klippkungen,shipped,766.17,DKK,Bagsværd,2880,DK,1,2018,9,13
+Klippkungen,shipped,261.0,NOK,Finsland,4646,NO,1,2018,9,20
+Klippkungen,shipped,301.86,DKK,Køge,4600,DK,1,2018,9,6
+Klippkungen,shipped,314.16,NOK,Bergen,5007,NO,1,2018,9,24
+Klippkungen,shipped,601.8,DKK,Ørum Djurs,8586,DK,1,2018,9,6
+Klippkungen,shipped,535.03,DKK,Odder,8300,DK,1,2018,9,6
+Klippkungen,shipped,326.0,NOK,Brøstadbotn,9311,NO,1,2018,9,24
+Klippkungen,ready,504.02,DKK,Ishøj,2635,DK,1,2018,10,3
+Klippkungen,shipped,279.04,DKK,Aarhus,8000 ,DK,1,2018,9,7
+Klippkungen,shipped,327.0,NOK,Fauske,8207,NO,1,2018,9,7
+Klippkungen,shipped,357.0,NOK,Tynset,2500,NO,1,2018,10,24
+Klippkungen,shipped,511.16,DKK,København S,2300,DK,1,2018,9,8
+Klippkungen,shipped,556.48,DKK,København S,2300,DK,1,2018,11,23
+Klippkungen,shipped,589.9,SEK,Kalix,95233,SE,2,2018,9,8
+Klippkungen,shipped,1666.99,SEK,Nordmaling,91491,SE,1,2018,9,9
+Klippkungen,shipped,342.0,NOK,Rena,2450,NO,1,2018,9,8
+Klippkungen,shipped,512.64,DKK,Jægerspris,3630,DK,1,2018,9,19
+Klippkungen,shipped,512.64,DKK,Jægerspris,3630,DK,2,2018,9,19
+Klippkungen,shipped,624.05,DKK,Eskebjerg,4593,DK,1,2018,9,10
+Klippkungen,shipped,335.0,NOK,Vossestrand,5713,NO,1,2019,3,31
+Klippkungen,ready,361.0,NOK,Hønefoss,3514,NO,1,2018,9,9
+Klippkungen,ready,6454.11,DKK,køge,4600,DK,1,2018,9,10
+Klippkungen,ready,6454.11,DKK,køge,4600,DK,1,2018,9,10
+Klippkungen,ready,6454.11,DKK,køge,4600,DK,1,2018,9,10
+Klippkungen,ready,6454.11,DKK,køge,4600,DK,1,2018,9,10
+Klippkungen,shipped,351.1,DKK,Kongens Lyngby,2800,DK,1,2019,7,13
+Klippkungen,shipped,366.0,NOK,Eikangervåg,5913,NO,1,2018,12,8
+Klippkungen,shipped,675.7,DKK,Augustenborg ,6440,DK,1,2018,9,10
+Klippkungen,shipped,842.7,DKK,Humlebæk,3050,DK,1,2018,9,10
+Klippkungen,shipped,1811.0,SEK,Mariestad,54293,SE,1,2018,9,10
+Klippkungen,shipped,320.38,DKK,Sakskøbing,4990 ,DK,1,2018,10,5
+Klippkungen,shipped,945.77,DKK,Søborg ,2860,DK,1,2018,9,11
+Klippkungen,shipped,743.0,DKK,Søborg ,2860,DK,1,2020,1,10
+Klippkungen,shipped,972.26,DKK,Vejle,7100,DK,1,2018,10,4
+Klippkungen,ready,771.9,DKK,Slangerup,3550,DK,1,2018,9,11
+Klippkungen,shipped,1012.65,DKK,københavn s.,2300,DK,1,2018,9,11
+Klippkungen,shipped,560.45,DKK,Hobro,9500,DK,1,2018,9,11
+Klippkungen,shipped,537.4,DKK,Haslev,4690,DK,1,2018,9,12
+Klippkungen,shipped,1177.58,DKK,Ballerup,2750,DK,1,2019,2,10
+Klippkungen,shipped,376.32,NOK,Bodø,8004,NO,1,2018,9,12
+Klippkungen,shipped,327.0,NOK,Sandnes,4321,NO,1,2018,9,26
+Klippkungen,shipped,356.7,NOK,Åfjord,7170,NO,1,2018,9,13
+Klippkungen,shipped,335.0,NOK,Førresfjorden,5563,NO,1,2018,9,26
+Klippkungen,ready,506.0,SEK,Sandviken,81153,SE,1,2018,10,15
+Klippkungen,shipped,720.0,SEK,Kalix,95233,SE,2,2018,11,30
+Klippkungen,ready,514.36,DKK,Ringsted,4100,DK,1,2018,9,13
+Klippkungen,shipped,371.0,NOK,RANDABERG,4070,NO,1,2018,9,24
+Klippkungen,shipped,1001.2,DKK,Spøttrup,7860,DK,1,2018,9,19
+Klippkungen,shipped,493.0,SEK,Brålanda,46462,SE,1,2018,10,8
+Klippkungen,shipped,836.0,SEK,Hallen,84591,SE,1,2018,9,15
+Klippkungen,shipped,362.0,NOK,LARVIK,3269,NO,1,2018,9,21
+Klippkungen,shipped,378.76,NOK,FØRRESFJORDEN,5563,NO,1,2018,9,15
+Klippkungen,shipped,686.88,DKK,Holbæk,4300,DK,1,2018,9,15
+Klippkungen,ready,364.7,SEK,Stockholm,11635,SE,1,2018,9,15
+Klippkungen,shipped,1072.0,SEK,Marieholm,24171,SE,1,2018,9,16
+Klippkungen,shipped,1164.47,DKK,København SV,2450,DK,1,2018,9,24
+Klippkungen,shipped,366.0,NOK,Stavanger,4028,NO,1,2018,9,19
+Klippkungen,shipped,257.0,SEK,Oxelösund,61335,SE,1,2018,11,27
+Klippkungen,shipped,579.45,DKK,Dianalund,4293,DK,1,2018,9,17
+Klippkungen,shipped,554.82,DKK,Vemmelev,4241,DK,1,2018,12,11
+Klippkungen,shipped,324.18,DKK,Vojens,6500,DK,1,2018,9,29
+Klippkungen,shipped,243.0,NOK,Orre,4343,NO,1,2018,9,19
+Klippkungen,ready,1436.5,DKK,Veflinge,5474,DK,1,2018,9,20
+Klippkungen,shipped,591.0,SEK,Vittangi,98010,SE,1,2018,9,18
+Klippkungen,shipped,375.0,NOK,Kleppestø,5322,NO,1,2018,9,24
+Klippkungen,shipped,325.96,DKK,Kalvehave,4771,DK,1,2018,9,18
+Klippkungen,shipped,584.31,DKK,Dalmose,4261,DK,1,2018,9,18
+Klippkungen,shipped,293.0,SEK,Linköping,58666,SE,1,2018,10,8
+Klippkungen,shipped,316.0,NOK,Kristiansand,4639,NO,1,2018,10,5
+Klippkungen,shipped,223.39,DKK,Tappernøje ,4733,DK,1,2018,9,19
+Klippkungen,shipped,500.0,SEK,Vilhelmina,91234,SE,1,2018,9,19
+Klippkungen,shipped,922.0,SEK,Rundvik,91441,SE,1,2019,3,18
+Klippkungen,shipped,1412.0,SEK,Sjöbo,27530,SE,1,2018,10,1
+Klippkungen,shipped,325.0,SEK,Arboga,73247,SE,1,2019,3,18
+Klippkungen,shipped,243.0,SEK,Dorotea,91731,SE,1,2018,9,20
+Klippkungen,shipped,807.73,DKK,Jægerspris,3630,DK,1,2018,11,2
+Klippkungen,shipped,416.0,SEK,Tyresö,13567,SE,1,2018,9,29
+Klippkungen,shipped,1012.69,DKK,Lyngby,2800,DK,1,2018,10,26
+Klippkungen,shipped,365.0,NOK,Trondheim,7026,NO,1,2018,9,21
+Klippkungen,shipped,550.92,DKK,Køge,4600,DK,1,2018,9,21
+Klippkungen,shipped,335.0,NOK,Snertingdal,2838,NO,2,2018,10,15
+Klippkungen,shipped,317.0,SEK,KARLSKRONA,37134,SE,1,2018,9,22
+Klippkungen,shipped,1992.16,DKK,Frederikssund,3600,DK,2,2018,9,23
+Klippkungen,shipped,364.0,NOK,Sykkylven,6230,NO,1,2018,9,23
+Klippkungen,shipped,392.23,DKK,Ry,8680,DK,1,2018,10,2
+Klippkungen,shipped,725.72,DKK,Søborg,2860,DK,1,2018,9,24
+Klippkungen,ready,1057.8,DKK,Frederikssund,DK3600,DK,1,2018,9,30
+Klippkungen,shipped,976.01,DKK,Roskilde,4000,DK,1,2019,4,7
+Klippkungen,ready,774.55,DKK,Hvalsø,4330,DK,1,2018,9,26
+Klippkungen,ready,503.59,DKK,Odense NV,5210,DK,1,2018,9,26
+Klippkungen,shipped,504.81,DKK,Havdrup,4622,DK,1,2018,10,5
+Klippkungen,ready,11540.9,SEK,NÄSÅKER,88030,SE,1,2018,10,28
+Klippkungen,shipped,337.0,NOK,Nesttun,5228,NO,1,2018,10,14
+Klippkungen,shipped,436.3,DKK,ROSKILDE,4000,DK,1,2018,9,28
+Klippkungen,shipped,1750.0,SEK,Brunflo,83433,SE,1,2018,10,21
+Klippkungen,shipped,504.79,DKK,Skærbæk,6780,DK,1,2018,12,9
+Klippkungen,shipped,317.0,NOK,Norheimsund,5600,NO,1,2018,9,29
+Klippkungen,shipped,272.0,SEK,Malmö,21741,SE,1,2019,2,19
+Klippkungen,shipped,255.19,DKK,Mørke,8543,DK,1,2018,9,29
+Klippkungen,shipped,538.0,SEK,Tyringe,28231,SE,1,2019,1,6
+Klippkungen,shipped,327.0,SEK,Rättvik,79591,SE,1,2018,9,30
+Klippkungen,shipped,605.0,SEK,Skellefteå,93151,SE,1,2018,11,22
+Klippkungen,shipped,1002.0,SEK,Kristianstad,29133,SE,1,2018,9,30
+Klippkungen,shipped,317.0,NOK,Brønnøysund,8907,NO,1,2018,9,30
+Klippkungen,shipped,1381.0,SEK,KATRINEHOLM,64145,SE,1,2018,10,1
+Klippkungen,shipped,510.01,DKK,Nyborg,5800,DK,1,2018,10,1
+Klippkungen,shipped,337.0,SEK,Mörarp,25356,SE,1,2018,10,1
+Klippkungen,shipped,460.07,DKK,Snekkersten,3070,DK,1,2018,11,16
+Klippkungen,shipped,326.0,NOK,Egersund,4374,NO,1,2018,10,2
+Klippkungen,shipped,689.24,DKK,Aakirkeby,3720,DK,1,2018,10,7
+Klippkungen,shipped,200.34,DKK,Brønderslev,9700,DK,1,2018,10,12
+Klippkungen,shipped,436.0,SEK,Östhammar,74234,SE,1,2018,10,2
+Klippkungen,shipped,570.0,SEK,Kågeröd,26876,SE,1,2018,10,3
+Klippkungen,shipped,536.6,DKK,Bedsted thy,7755,DK,1,2018,10,3
+Klippkungen,shipped,536.6,DKK,Bedsted thy,7755,DK,2,2018,10,3
+Klippkungen,shipped,536.6,DKK,Bedsted thy,7755,DK,1,2018,10,3
+Klippkungen,shipped,751.07,DKK,Vanløse,2720,DK,2,2018,10,4
+Klippkungen,shipped,983.0,SEK,Göteborg,41744,SE,1,2018,10,5
+Klippkungen,shipped,298.8,NOK,Snertingdal,2838,NO,1,2018,10,4
+Klippkungen,shipped,874.41,DKK,Viby ,8260,DK,1,2018,10,5
+Klippkungen,shipped,874.41,DKK,Viby ,8260,DK,1,2018,10,5
+Klippkungen,shipped,2171.55,DKK,Odder,8300,DK,1,2018,10,9
+Klippkungen,shipped,522.36,DKK,Silkeborg,8600,DK,3,2019,3,6
+Klippkungen,shipped,335.0,SEK,Värnamo,33140,SE,1,2018,10,4
+Klippkungen,shipped,332.79,NOK,Lillehammer,2624,NO,1,2018,10,5
+Klippkungen,shipped,371.0,NOK,Terråk,7980,NO,1,2018,10,5
+Klippkungen,shipped,371.0,NOK,Terråk,7980,NO,1,2018,10,5
+Klippkungen,shipped,499.27,DKK,Åkirkeby,3720,DK,1,2018,10,23
+Klippkungen,shipped,1146.46,DKK,Viby,8260,DK,2,2019,5,16
+Klippkungen,shipped,337.9,NOK,Buvika,7350,NO,1,2018,10,5
+Klippkungen,shipped,475.0,SEK,Trångsund,14265,SE,1,2018,10,6
+Klippkungen,shipped,295.0,NOK,Rørvik,7900,NO,1,2018,10,6
+Klippkungen,shipped,299.39,NOK,Salsbruket,7960,NO,1,2018,10,6
+Klippkungen,shipped,267.0,NOK,KJØPSVIK,8590,NO,1,2018,10,7
+Klippkungen,shipped,217.0,NOK,Fauske,8206,NO,1,2018,10,7
+Klippkungen,shipped,538.2,DKK,"Frederiksberg C, DANMARK",1826,DK,1,2018,10,7
+Klippkungen,shipped,294.94,DKK,Frederikssund,3600,DK,1,2018,10,19
+Klippkungen,shipped,376.8,NOK,Kjerrgarden,5314,NO,1,2018,10,7
+Klippkungen,ready,529.55,DKK,Værløse,3500,DK,1,2018,10,8
+Klippkungen,shipped,640.0,SEK,NORRKÖPING,60358,SE,1,2018,10,8
+Klippkungen,shipped,308.0,NOK,Arendal,4846,NO,1,2018,10,29
+Klippkungen,shipped,24.14,EUR,Hollola Kk,16710,FI,1,2018,10,8
+Klippkungen,shipped,37.1,EUR,Palus,29350,FI,1,2018,10,8
+Klippkungen,ready,694.8,DKK,Sorø,4180,DK,1,2018,10,8
+Klippkungen,shipped,339.0,NOK,Løkken Verk,7332,NO,1,2018,10,8
+Klippkungen,shipped,357.0,NOK,STORSTEINNES,9050,NO,1,2018,10,17
+Klippkungen,shipped,585.07,DKK,FREDERIKSHAVN ,9900 ,DK,1,2018,11,13
+Klippkungen,shipped,1096.8,SEK,Kalmar,39238,SE,2,2018,10,9
+Klippkungen,shipped,317.0,SEK,Östervåla,74046,SE,1,2018,10,9
+Klippkungen,shipped,525.48,DKK,Fjenneslev,4173,DK,1,2018,10,9
+Klippkungen,shipped,1411.0,SEK,Tvååker,43276,SE,1,2019,3,4
+Klippkungen,shipped,892.0,SEK,Uppsala,75597,SE,1,2018,10,9
+Klippkungen,shipped,522.3,DKK,Nykøbing F,4800,DK,1,2018,10,9
+Klippkungen,shipped,370.0,NOK,Øyer,2636,NO,1,2018,10,10
+Klippkungen,shipped,552.35,DKK,Ulfborg,6990,DK,1,2018,10,10
+Klippkungen,shipped,1531.07,DKK,Døborg,2860,DK,1,2018,10,10
+Klippkungen,shipped,610.51,DKK,Søborg ,2860,DK,1,2018,10,23
+Klippkungen,shipped,1081.13,DKK,Viborg,8800,DK,1,2018,11,28
+Klippkungen,shipped,365.69,DKK,herning ,7400,DK,1,2018,10,10
+Klippkungen,shipped,504.72,DKK,Lunderskov,6640,DK,1,2018,12,4
+Klippkungen,shipped,287.0,SEK,Dalstorp,51460,SE,1,2018,10,10
+Klippkungen,shipped,503.79,DKK,søborg ,2860,DK,1,2019,2,26
+Klippkungen,shipped,305.0,SEK,Västerås,72218,SE,1,2018,10,11
+Klippkungen,shipped,337.0,SEK,Tierp,81591,SE,1,2018,10,11
+Klippkungen,shipped,185.59,EUR,Mäntyharju,52700,FI,1,2018,10,12
+Klippkungen,shipped,543.75,DKK,Næstved,4700,DK,1,2018,10,12
+Klippkungen,shipped,495.0,SEK,Tollarp,29833,SE,1,2018,10,13
+Klippkungen,shipped,1550.0,SEK,Hedesunda,81895,SE,1,2018,11,18
+Klippkungen,shipped,1022.34,DKK,Otterup,5450,DK,1,2018,10,15
+Klippkungen,shipped,513.55,DKK,Rønne,3700,DK,1,2018,10,27
+Klippkungen,ready,4230.0,SEK,STOCKHOLM,11443,SE,1,2018,10,15
+Klippkungen,shipped,347.9,NOK,Snertingdal,2838,NO,1,2018,11,30
+Klippkungen,shipped,904.0,SEK,TÄBY,18353,SE,1,2018,10,24
+Klippkungen,shipped,340.0,NOK,Kristiansand S,4623,NO,1,2018,11,23
+Klippkungen,shipped,2124.9,SEK,Stockholm,11135,SE,1,2019,4,9
+Klippkungen,shipped,2124.9,SEK,Stockholm,11135,SE,1,2019,4,9
+Klippkungen,shipped,405.0,SEK,Åtvidaberg,59732,SE,1,2019,1,21
+Klippkungen,shipped,704.0,SEK,Karlshamn,37441,SE,1,2019,1,24
+Klippkungen,shipped,668.0,SEK,KARLSTAD,65350,SE,1,2018,10,23
+Klippkungen,shipped,377.0,NOK,Fetsund,1900,NO,1,2018,10,18
+Klippkungen,shipped,364.0,NOK,Leikanger,6863,NO,1,2018,10,18
+Klippkungen,shipped,330.0,NOK,Farsund,4550,NO,1,2018,10,20
+Klippkungen,shipped,346.0,NOK,Byglandsfjord,4741,NO,1,2018,11,2
+Klippkungen,shipped,347.0,NOK,STAVANGER,4025,NO,1,2018,10,21
+Klippkungen,shipped,371.0,NOK,Trondheim,7024,NO,1,2018,10,22
+Klippkungen,shipped,392.0,NOK,Kristiansund N,6511,NO,1,2018,10,22
+Klippkungen,shipped,803.0,SEK,Rönnäng,47141,SE,1,2018,12,8
+Klippkungen,ready,970.0,SEK,Karlstad,65350,SE,1,2018,11,15
+Klippkungen,shipped,406.0,SEK,Umeå,90642,SE,1,2018,11,1
+Klippkungen,shipped,406.0,SEK,Umeå,90642,SE,1,2018,11,1
+Klippkungen,shipped,764.0,SEK,Burseryd,33377,SE,1,2019,6,1
+Klippkungen,shipped,198.0,SEK,Storvreta,74341,SE,1,2018,10,23
+Klippkungen,shipped,307.0,SEK,Henån,47395,SE,1,2018,10,24
+Klippkungen,shipped,605.0,SEK,KUNGSBACKA,43434,SE,1,2018,10,24
+Klippkungen,shipped,1419.3,SEK,Enviken,79026,SE,1,2018,10,25
+Klippkungen,shipped,1083.0,SEK,Tärnaby,92064,SE,1,2019,4,24
+Klippkungen,shipped,1083.0,SEK,Tärnaby,92064,SE,1,2019,4,24
+Klippkungen,shipped,1083.0,SEK,Tärnaby,92064,SE,1,2019,4,24
+Klippkungen,shipped,731.13,DKK,Slagelse,4200,DK,1,2018,10,25
+Klippkungen,shipped,350.0,NOK,Terråk,7980,NO,1,2019,11,15
+Klippkungen,shipped,366.0,NOK,Smøla,6570,NO,1,2018,10,27
+Klippkungen,shipped,1268.61,DKK,Skævinge,3320,DK,1,2018,10,28
+Klippkungen,shipped,326.0,NOK,Tretten,2635,NO,1,2018,10,29
+Klippkungen,shipped,343.0,NOK,Misje,5366,NO,1,2018,10,29
+Klippkungen,shipped,326.0,NOK,Filtvet,3480,NO,1,2018,10,29
+Klippkungen,shipped,328.0,NOK,Haugesund,5518,NO,1,2018,10,29
+Klippkungen,ready,390.0,NOK,Harstad,9406,NO,1,2018,11,17
+Klippkungen,shipped,466.9,SEK,Hagfors,68392,SE,1,2018,10,29
+Klippkungen,shipped,1074.0,DKK,Jyderup,4450 ,DK,1,2020,1,31
+Klippkungen,shipped,347.0,NOK,Leknes,8370,NO,1,2018,10,29
+Klippkungen,shipped,2603.0,SEK,Grängesberg,77250,SE,1,2018,10,30
+Klippkungen,shipped,371.0,NOK,Oslo,0495,NO,1,2018,11,2
+Klippkungen,shipped,813.0,SEK,Lugnvik,87275,SE,1,2018,10,31
+Klippkungen,shipped,1154.32,DKK,Engesvang,7442,DK,1,2018,12,7
+Klippkungen,shipped,347.0,SEK,Göteborg,41841,SE,1,2018,11,17
+Klippkungen,shipped,559.16,DKK,Jægerspris,3630,DK,1,2019,2,2
+Klippkungen,shipped,854.0,SEK,Gullspång,54791,SE,1,2018,11,27
+Klippkungen,shipped,514.0,SEK,Arvika,67133,SE,1,2019,1,23
+Klippkungen,shipped,128.0,SEK,Ljungby,34140,SE,1,2019,10,10
+Klippkungen,ready,536.0,SEK,Alnö,86591,SE,1,2019,1,27
+Klippkungen,shipped,806.1,DKK,Stenløse,3660,DK,1,2018,11,7
+Klippkungen,shipped,806.1,DKK,Stenløse,3660,DK,1,2018,11,7
+Klippkungen,shipped,476.0,SEK,Holmsund,91331,SE,1,2018,11,8
+Klippkungen,shipped,1062.24,DKK,Esbjerg,6700,DK,1,2019,9,30
+Klippkungen,shipped,317.0,SEK,Huskvarna,56132,SE,1,2018,11,8
+Klippkungen,shipped,1128.88,DKK,sindal,9870,DK,1,2018,11,26
+Klippkungen,shipped,567.61,DKK,Kirkehørup,6470,DK,1,2018,11,9
+Klippkungen,shipped,3386.01,SEK,Nödinge,44931,SE,1,2018,11,10
+Klippkungen,shipped,546.01,DKK,Fjerritslev,9690,DK,1,2019,3,29
+Klippkungen,shipped,496.0,SEK,Rimforsa,59046,SE,1,2018,11,12
+Klippkungen,shipped,610.37,DKK,Ballerup,2750,DK,1,2018,11,14
+Klippkungen,shipped,330.0,SEK,Tibro,54391,SE,1,2019,6,26
+Klippkungen,shipped,297.0,SEK,Lödöse,46395,SE,1,2018,11,29
+Klippkungen,shipped,743.0,SEK,Rättvik,79591,SE,1,2019,2,14
+Klippkungen,shipped,575.0,SEK,Västerås,72593,SE,1,2018,11,15
+Klippkungen,shipped,188.0,SEK,VISKAFORS,51535,SE,1,2018,11,23
+Klippkungen,shipped,663.0,SEK,Glemmingebro,27175,SE,1,2019,5,23
+Klippkungen,shipped,537.42,DKK,Faaborg,5600,DK,1,2018,11,17
+Klippkungen,shipped,692.0,SEK,Älmhult,34334,SE,1,2019,8,7
+Klippkungen,shipped,382.0,SEK,Tived,69596,SE,1,2018,11,20
+Klippkungen,shipped,780.0,SEK,Stockholm,13230,SE,1,2018,11,20
+Klippkungen,shipped,606.0,SEK,Saltsjö-Boo,13230,SE,1,2019,2,4
+Klippkungen,shipped,503.97,DKK,Helsingør,3000,DK,1,2018,11,20
+Klippkungen,shipped,400.0,NOK,Vestfossen,3320,NO,1,2019,10,10
+Klippkungen,shipped,225.0,SEK,Åby,61691,SE,1,2019,10,10
+Klippkungen,shipped,253.0,SEK,Kungsgården,81293,SE,1,2018,11,21
+Klippkungen,shipped,385.0,SEK,Luleå,97452,SE,1,2018,11,24
+Klippkungen,shipped,1470.75,DKK,Veflinge,5474,DK,1,2018,11,22
+Klippkungen,shipped,1624.77,DKK,Veflinge,5474,DK,2,2019,2,7
+Klippkungen,shipped,466.0,SEK,Skellefteå,93155,SE,1,2019,11,27
+Klippkungen,shipped,276.0,SEK,Viskafors,51535,SE,1,2019,4,2
+Klippkungen,shipped,530.0,SEK,Tallåsen,82795,SE,1,2019,2,7
+Klippkungen,shipped,242.0,SEK,Kalmar,39235,SE,1,2018,11,23
+Klippkungen,shipped,376.0,NOK,Finnsnes,9309,NO,2,2018,11,26
+Klippkungen,shipped,324.0,NOK,Marnardal,4534,NO,1,2018,11,25
+Klippkungen,shipped,356.0,NOK,Kolvereid,7970,NO,1,2018,11,26
+Klippkungen,shipped,814.0,SEK,Stockholm,13230,SE,1,2018,12,6
+Klippkungen,shipped,814.0,SEK,Stockholm,13230,SE,2,2018,12,6
+Klippkungen,shipped,327.0,SEK,Piteå,94142,SE,2,2018,11,27
+Klippkungen,shipped,337.0,SEK,Hörnefors,90571,SE,1,2020,1,19
+Klippkungen,shipped,168.0,NOK,Norheimsund,5600,NO,1,2018,11,29
+Klippkungen,shipped,338.0,NOK,Snertingdal,2838,NO,2,2018,12,13
+Klippkungen,shipped,507.98,DKK,Greve,2670,DK,1,2018,12,8
+Klippkungen,shipped,366.0,NOK,Førresfjorden,5563,NO,1,2019,11,10
+Klippkungen,shipped,791.0,DKK,Hundested,3390,DK,1,2018,12,2
+Klippkungen,shipped,560.45,DKK,Vordingborg/Danmark,4760,DK,2,2018,12,4
+Klippkungen,shipped,325.0,SEK,Gustavsberg,13436,SE,1,2019,3,18
+Klippkungen,shipped,819.95,DKK,Hvidovre,2650,DK,1,2019,6,2
+Klippkungen,shipped,871.82,DKK,Tårs,9830,DK,1,2019,5,18
+Klippkungen,shipped,871.82,DKK,Tårs,9830,DK,1,2019,5,18
+Klippkungen,shipped,519.1,DKK,eskilstrup,4863,DK,1,2018,12,6
+Klippkungen,shipped,376.0,NOK,Tromsdalen,9021,NO,1,2018,12,7
+Klippkungen,shipped,262.0,NOK,Vuku,7660,NO,1,2018,12,8
+Klippkungen,shipped,326.0,NOK,Flateby,1911,NO,1,2018,12,9
+Klippkungen,shipped,401.0,NOK,Flatanger,7770,NO,1,2019,7,9
+Klippkungen,shipped,376.25,DKK,Svinninge,4520,DK,1,2018,12,9
+Klippkungen,shipped,588.18,DKK,Kbh s,2300,DK,1,2018,12,9
+Klippkungen,shipped,545.41,DKK,Svinninge,4520,DK,1,2019,2,6
+Klippkungen,shipped,361.0,NOK,Grimstad,4876,NO,1,2019,1,10
+Klippkungen,shipped,1044.0,SEK,Simrishamn,27295,SE,1,2018,12,11
+Klippkungen,shipped,168.0,NOK,Salsbruket,7960,NO,1,2018,12,11
+Klippkungen,shipped,317.0,NOK,Rygge,1580,NO,1,2018,12,13
+Klippkungen,shipped,338.0,NOK,Egersund,4374,NO,1,2018,12,13
+Klippkungen,shipped,336.0,NOK,Dyrvik,7270,NO,1,2018,12,13
+Klippkungen,shipped,651.0,SEK,Malmö,21762,SE,1,2019,11,29
+Klippkungen,shipped,537.5,DKK,Karup,7470,DK,1,2018,12,17
+Klippkungen,shipped,336.77,DKK,Vinderup,7830,DK,1,2019,4,15
+Klippkungen,shipped,1102.0,SEK,Fjugesta,71631,SE,1,2018,12,29
+Klippkungen,shipped,616.1,DKK,Vordingborg,4760,DK,1,2019,1,3
+Klippkungen,shipped,2001.86,DKK,Taastrup,2630,DK,1,2019,1,30
+Klippkungen,shipped,1563.05,DKK,skibby,4050,DK,1,2019,2,3
+Klippkungen,shipped,389.9,NOK,gjøvik,2838,NO,1,2019,1,6
+Klippkungen,shipped,557.0,SEK,Kungsör,73634,SE,1,2019,4,12
+Klippkungen,shipped,620.0,SEK,Täby,18770,SE,1,2019,1,6
+Klippkungen,shipped,714.0,SEK,Dalby,24756,SE,1,2019,5,11
+Klippkungen,shipped,1391.0,SEK,Saltsjö-Boo,13237,SE,1,2019,1,8
+Klippkungen,shipped,783.0,SEK,Vikmanshyttan,77670,SE,1,2019,2,5
+Klippkungen,shipped,1070.9,SEK,Söderköping,61431,SE,1,2019,1,30
+Klippkungen,shipped,1070.9,SEK,Söderköping,61431,SE,1,2019,1,30
+Klippkungen,shipped,9213.8,SEK,HÄRNÖSAND,87160,SE,1,2019,4,28
+Klippkungen,shipped,366.0,NOK,Leknes,8370,NO,1,2019,2,23
+Klippkungen,shipped,2802.0,SEK,Solna,16974,SE,8,2019,1,15
+Klippkungen,shipped,394.0,NOK,Svolvær,8300,NO,1,2019,10,1
+Klippkungen,shipped,66.2,EUR,Vaasa,65350,FI,1,2019,1,30
+Klippkungen,shipped,400.9,NOK,Oslo,1165,NO,1,2019,5,7
+Godisgruvan,shipped,307.0,SEK,Djurhamn,13973,SE,1,2019,1,16
+Klippkungen,shipped,436.0,SEK,Gällö,84394,SE,1,2019,1,16
+Klippkungen,shipped,658.29,DKK,Nexø,3730,DK,1,2019,1,18
+Klippkungen,shipped,681.62,DKK,kolind,8560,DK,1,2019,1,18
+Klippkungen,shipped,681.62,DKK,kolind,8560,DK,1,2019,1,18
+Klippkungen,shipped,6895.0,SEK,Näsåker,88030,SE,1,2019,10,25
+Klippkungen,shipped,852.0,SEK,Åkersberga,18435,SE,1,2019,1,19
+Klippkungen,shipped,827.87,DKK,Herlev,2730,DK,1,2019,1,19
+Klippkungen,shipped,1112.05,DKK,snekkersten,3070,DK,1,2019,5,17
+Klippkungen,shipped,304.22,DKK,Haslev,4690,DK,1,2019,7,4
+Klippkungen,shipped,973.52,DKK,Vanløse,2720,DK,1,2019,5,13
+Klippkungen,shipped,317.0,SEK,Ingatorp,57031,SE,1,2019,2,4
+Klippkungen,shipped,797.69,DKK,Herlev ,2730,DK,1,2019,3,1
+Klippkungen,shipped,247.24,DKK,Gentofte,2820,DK,2,2019,1,23
+Klippkungen,shipped,1103.9,SEK,Kolmården,61893,SE,1,2019,1,22
+Klippkungen,shipped,399.0,NOK,Gullaug,3427,NO,1,2019,2,14
+Klippkungen,shipped,316.0,NOK,Oslo,0685,NO,1,2019,3,13
+Klippkungen,shipped,1150.0,SEK,Järnforsen,57081,SE,1,2019,1,26
+Klippkungen,shipped,572.0,SEK,Lund,22657,SE,1,2019,7,13
+Klippkungen,shipped,1171.9,SEK,Värnamo,33131,SE,1,2019,8,7
+Klippkungen,shipped,349.0,NOK,Kristiansand S,4622,NO,1,2019,1,29
+Klippkungen,shipped,336.0,NOK,Nesttun,5228,NO,1,2019,1,29
+Klippkungen,shipped,401.0,NOK,Vinjeøra,7203,NO,1,2019,3,16
+Klippkungen,shipped,168.0,SEK,Stockholm,11825,SE,1,2019,1,30
+Klippkungen,shipped,516.0,SEK,Lerberget,26352,SE,1,2019,1,31
+Klippkungen,shipped,394.0,SEK,Svärdsjö,79023,SE,1,2019,3,30
+Klippkungen,shipped,376.0,NOK,Folldal,2580,NO,1,2019,1,31
+Godisgruvan,shipped,723.9,SEK,Storuman,92332,SE,1,2019,2,1
+Klippkungen,shipped,659.05,DKK,Thorsø,8881,DK,1,2019,2,2
+Klippkungen,shipped,925.35,DKK,Thorsø,8881,DK,3,2019,5,3
+Klippkungen,shipped,663.8,DKK,hobro,9500,DK,1,2019,2,3
+Klippkungen,shipped,399.9,SEK,Olofstorp,42471,SE,1,2019,2,5
+Klippkungen,shipped,559.58,DKK,Hundested,3390,DK,1,2019,2,4
+Klippkungen,shipped,2177.0,SEK,Strängnäs,64550,SE,1,2019,10,13
+Klippkungen,shipped,504.0,SEK,Norrköping,60376,SE,1,2020,1,13
+Klippkungen,shipped,664.0,SEK,Djurhamn,13902,SE,1,2019,2,5
+Klippkungen,shipped,327.0,SEK,Vargön,46834,SE,1,2019,2,22
+Klippkungen,shipped,500.0,SEK,Avesta,77492,SE,1,2019,2,7
+Klippkungen,shipped,337.0,SEK,Partille,43336,SE,1,2019,2,5
+Klippkungen,shipped,317.0,SEK,Skogås,14234,SE,1,2019,2,15
+Klippkungen,shipped,991.0,SEK,Skövde,54134,SE,1,2019,2,6
+Klippkungen,shipped,1750.0,SEK,Torpshammar,84013,SE,1,2019,2,6
+Klippkungen,shipped,863.0,SEK,Åsele,91931,SE,1,2019,6,25
+Klippkungen,shipped,863.0,SEK,Åsele,91931,SE,1,2019,6,25
+Klippkungen,shipped,433.0,SEK,Stjärnsund,77674,SE,1,2019,2,7
+Klippkungen,shipped,286.0,SEK,Växjö,35252,SE,1,2019,2,7
+Godisgruvan,shipped,427.0,SEK,Ronneby,37232,SE,1,2019,2,7
+Klippkungen,shipped,374.8,SEK,Täby,18762,SE,1,2019,10,10
+Klippkungen,shipped,475.0,SEK,Vännäs,91133,SE,1,2019,2,7
+Klippkungen,shipped,287.0,SEK,Ånäset,91534,SE,1,2019,2,8
+Klippkungen,shipped,277.0,SEK,Mölndal,43168,SE,1,2019,2,8
+Klippkungen,shipped,2487.0,SEK,Kristinehamn,68195,SE,1,2019,2,8
+Klippkungen,shipped,2487.0,SEK,Kristinehamn,68195,SE,1,2019,2,8
+Klippkungen,shipped,545.0,SEK,Falköping,52131,SE,1,2019,2,8
+Klippkungen,shipped,1044.0,SEK,Bastuträsk,93061,SE,1,2019,2,8
+Klippkungen,shipped,378.0,SEK,Vallentuna,18632,SE,1,2019,2,23
+Klippkungen,shipped,560.11,DKK,hammel,8450,DK,3,2019,3,21
+Klippkungen,shipped,1247.0,SEK,Saltsjö-Boo,13230,SE,1,2019,3,30
+Klippkungen,shipped,348.0,NOK,Buvika,7350,NO,1,2019,2,11
+Klippkungen,shipped,455.0,SEK,Johanneshov,12155,SE,1,2019,2,14
+Klippkungen,shipped,381.0,NOK,gjøvik,2838,NO,2,2019,3,20
+Klippkungen,shipped,809.9,SEK,Torup,31441,SE,1,2019,3,14
+Klippkungen,shipped,416.0,SEK,Grevie,26972,SE,1,2019,3,2
+Klippkungen,shipped,287.0,SEK,Tyresö,13547,SE,1,2019,3,1
+Klippkungen,shipped,840.0,SEK,Hässleholm,28148,SE,1,2019,11,15
+Klippkungen,shipped,663.0,SEK,Mörarp,25355,SE,1,2019,8,16
+Klippkungen,ready,515.0,SEK,Åsele,91932,SE,1,2020,2,2
+Klippkungen,shipped,398.0,SEK,Skärholmen,12744,SE,1,2019,10,10
+Klippkungen,shipped,398.0,SEK,Skärholmen,12744,SE,1,2019,10,10
+Klippkungen,shipped,546.0,SEK,Järnforsen,57081,SE,1,2019,4,25
+Klippkungen,shipped,453.0,SEK,Östersund,83152,SE,1,2019,3,19
+Klippkungen,shipped,852.0,SEK,Värmdö,13930,SE,1,2019,2,21
+Klippkungen,shipped,501.0,SEK,Stjärnhov,64696,SE,1,2019,3,19
+Klippkungen,shipped,825.4,DKK,Hillerød,3400,DK,1,2019,2,22
+Klippkungen,shipped,340.45,SEK,Ingatorp,57031,SE,1,2019,4,2
+Klippkungen,shipped,428.55,DKK,Odense NØ,5240,DK,1,2019,2,23
+Klippkungen,shipped,327.0,NOK,Norheimsund,5600,NO,1,2019,3,1
+Klippkungen,shipped,307.0,NOK,Engavågen,8170,NO,1,2019,3,10
+Klippkungen,shipped,356.0,NOK,Ålesund,6006,NO,1,2019,2,24
+Klippkungen,shipped,345.0,NOK,Budalen,7298,NO,1,2019,3,18
+Klippkungen,shipped,394.0,NOK,Hammerfest,9601,NO,1,2019,2,27
+Klippkungen,shipped,994.0,SEK,Sölvesborg,29493,SE,1,2019,5,11
+Klippkungen,ready,337.0,SEK,Norra Sorunda,13794,SE,1,2019,2,28
+Klippkungen,shipped,496.0,SEK,Södertälje,15243,SE,1,2019,3,1
+Klippkungen,shipped,252.25,DKK,Saeby,9300,DK,1,2019,3,2
+Klippkungen,shipped,426.0,SEK,Sorunda,14897,SE,1,2019,3,14
+Klippkungen,shipped,2149.0,SEK,Munkedal,45593,SE,1,2019,3,11
+Klippkungen,shipped,388.0,NOK,Midsund,6475,NO,1,2019,3,17
+Klippkungen,shipped,513.97,DKK,Silkeborg,8600,DK,3,2019,7,18
+Klippkungen,shipped,286.0,NOK,Verdal,7654,NO,1,2019,3,13
+Klippkungen,shipped,386.0,SEK,Upplands Väsby,19438,SE,1,2019,10,10
+Klippkungen,shipped,1006.0,SEK,Piteå,94136,SE,1,2019,6,10
+Klippkungen,shipped,753.35,DKK,Nakskov,4900,DK,2,2019,3,7
+Klippkungen,shipped,678.9,DKK,Nykøbing M ,7900,DK,1,2019,3,9
+Godisgruvan,shipped,1135.9,SEK,Vaggeryd,56730,SE,1,2019,3,10
+Klippkungen,shipped,386.0,NOK,Brønnøysund,8904,NO,1,2019,3,31
+Klippkungen,shipped,401.0,NOK,Stokmarknes,8450,NO,1,2019,5,2
+Klippkungen,shipped,532.0,SEK,Tyringe,28234,SE,1,2019,9,26
+Klippkungen,shipped,1134.0,DKK,Hirtshals,9850,DK,1,2019,5,12
+Klippkungen,shipped,287.0,SEK,Sollentuna,19143,SE,1,2019,3,13
+Klippkungen,shipped,397.0,NOK,Lesja,2665,NO,1,2019,4,3
+Klippkungen,shipped,515.0,SEK,Gullbrandstorp,30564,SE,2,2019,5,22
+Klippkungen,shipped,284.0,SEK,Lysekil,45337,SE,1,2019,3,15
+Klippkungen,shipped,1042.87,DKK,Farsø,9640,DK,1,2019,7,22
+Klippkungen,shipped,317.0,NOK,Løkken Verk,7332,NO,1,2019,3,30
+Klippkungen,shipped,22.2,EUR,Helsinki,00620,FI,1,2019,3,18
+Klippkungen,shipped,387.0,SEK,Östersund,83152,SE,1,2019,5,7
+Klippkungen,shipped,327.0,SEK,Gävle,80628,SE,1,2019,5,13
+Klippkungen,shipped,178.0,SEK,Älmhult,34332,SE,1,2019,3,19
+Klippkungen,shipped,536.0,SEK,Lidköping,53157,SE,1,2019,9,24
+Klippkungen,shipped,1151.0,SEK,Rönninge,14432,SE,1,2019,5,11
+Klippkungen,shipped,686.0,SEK,Bastuträsk,93061,SE,1,2019,3,20
+Klippkungen,shipped,394.0,NOK,Melhus,7224,NO,1,2019,5,6
+Klippkungen,shipped,526.0,SEK,Falköping,52194,SE,1,2019,4,16
+Klippkungen,shipped,320.0,NOK,Alta,9517,NO,1,2019,3,22
+Klippkungen,shipped,391.0,NOK,Fåberg,2625,NO,1,2019,3,23
+Klippkungen,shipped,328.0,NOK,Randaberg,4071,NO,1,2019,3,24
+Klippkungen,shipped,217.0,NOK,Linesøya,7176,NO,1,2019,8,7
+Klippkungen,shipped,711.0,SEK,Upplands Väsby,19471,SE,1,2019,3,25
+Klippkungen,shipped,465.0,SEK,Bräcke,84393,SE,1,2019,3,27
+Klippkungen,shipped,402.0,NOK,Sætre,3475,NO,1,2019,3,25
+Klippkungen,shipped,389.0,SEK,Säffle,66142,SE,1,2019,11,18
+Klippkungen,shipped,336.0,SEK,Nora,71330,SE,1,2019,3,27
+Klippkungen,shipped,364.0,NOK,Rygge,1580,NO,1,2019,9,6
+Klippkungen,shipped,1148.73,DKK,Præstbro,9330,DK,1,2019,3,28
+Klippkungen,shipped,734.06,DKK,Stokkemarke,4952,DK,1,2019,3,28
+Klippkungen,shipped,485.0,SEK,Trollhättan,46153,SE,1,2019,4,14
+Klippkungen,shipped,542.98,DKK,Helsingør,3000,DK,1,2019,10,28
+Klippkungen,shipped,1995.22,DKK,København N,2200,DK,1,2019,3,29
+Klippkungen,shipped,355.0,NOK,Salsbruket,7960,NO,1,2019,3,30
+Klippkungen,shipped,1163.0,SEK,Stockholm,11728,SE,1,2019,7,7
+Klippkungen,shipped,401.0,NOK,His,4817,NO,2,2019,3,30
+Klippkungen,shipped,675.0,SEK,Malmberget,98336,SE,1,2019,3,31
+Klippkungen,shipped,379.0,NOK,Stordal,6250,NO,1,2019,3,31
+Klippkungen,shipped,466.0,SEK,Älvängen,44633,SE,1,2019,4,2
+Klippkungen,shipped,545.0,SEK,Hästveda,28276,SE,1,2019,4,2
+Klippkungen,shipped,349.0,NOK,Buvika,7350,NO,1,2019,4,2
+Klippkungen,shipped,307.0,NOK,Snertingdal,2838,NO,2,2019,6,8
+Klippkungen,shipped,405.9,SEK,Alingsås,44195,SE,1,2019,4,3
+Klippkungen,shipped,400.0,NOK,Sunndalsøra,6600,NO,1,2019,4,3
+Klippkungen,shipped,627.8,SEK,Kungsängen,19636,SE,1,2019,4,3
+Klippkungen,shipped,327.0,SEK,Karlstad,65594,SE,2,2019,4,3
+Klippkungen,shipped,391.0,NOK,Bagn,2930,NO,1,2019,4,8
+Klippkungen,shipped,1883.0,SEK,Eringsboda,37298,SE,2,2019,8,7
+Klippkungen,shipped,401.0,NOK,Sandnes,4321,NO,1,2019,7,6
+Klippkungen,shipped,188.0,SEK,Vretstorp,69450,SE,1,2019,4,10
+Klippkungen,ready,1343.01,SEK,Holmsjö,37338,SE,1,2019,4,10
+Klippkungen,shipped,1032.11,DKK,Vordingborg,4760,DK,2,2019,4,11
+Klippkungen,shipped,2188.0,SEK,Norrköping,60226,SE,1,2019,4,12
+Klippkungen,shipped,277.0,SEK,Helsingborg,25441,SE,1,2019,4,13
+Klippkungen,shipped,377.0,SEK,Gustavsberg,13441,SE,1,2019,5,3
+Klippkungen,shipped,337.0,NOK,Melbu,8445,NO,1,2019,4,14
+Klippkungen,shipped,669.0,SEK,Uddevalla,45151,SE,1,2019,5,15
+Klippkungen,shipped,535.0,SEK,VÄSTERVIK,59340,SE,1,2019,4,18
+Klippkungen,shipped,394.0,NOK,Stonglandseidet,9392,NO,1,2019,4,22
+Klippkungen,shipped,1015.34,DKK,Grenaa,8500,DK,1,2019,4,22
+Klippkungen,shipped,595.0,SEK,Falkenberg,31135,SE,1,2019,8,26
+Klippkungen,shipped,546.0,SEK,Göteborg,41523,SE,2,2019,4,24
+Klippkungen,shipped,427.0,SEK,Göteborg,41523,SE,2,2019,4,30
+Klippkungen,shipped,337.0,NOK,Tinn Austbygd,3650,NO,1,2019,9,7
+Klippkungen,shipped,568.0,SEK,Hörby,24235,SE,1,2019,4,24
+Klippkungen,shipped,347.0,NOK,Hafrsfjord,4042,NO,1,2019,5,17
+Godisgruvan,shipped,985.0,SEK,Degeberga,29795,SE,1,2019,4,27
+Klippkungen,shipped,1199.9,SEK,Stockholm,11430,SE,1,2019,5,27
+Klippkungen,shipped,607.0,SEK,Slite,62448,SE,1,2019,4,30
+Klippkungen,shipped,514.9,SEK,Göteborg,41523,SE,2,2019,5,4
+Klippkungen,shipped,852.0,SEK,Göteborg,41317,SE,1,2019,5,1
+Klippkungen,shipped,400.0,NOK,RØST,8064,NO,1,2019,5,1
+Klippkungen,shipped,403.9,NOK,Honningsvåg,9750,NO,1,2019,5,4
+Klippkungen,shipped,456.0,SEK,Åtvidaberg,59732,SE,1,2019,7,3
+Klippkungen,shipped,743.0,SEK,Mörsil,83741,SE,1,2019,9,26
+Klippkungen,shipped,665.0,SEK,Älmhult,34334,SE,1,2019,6,17
+Klippkungen,shipped,277.0,NOK,Gol,3551,NO,1,2019,5,7
+Klippkungen,shipped,449.0,SEK,Bollnäs,82134,SE,1,2019,6,10
+Klippkungen,shipped,427.0,SEK,Göteborg,41523,SE,2,2019,5,13
+Godisgruvan,shipped,380.9,SEK,Älvsbyn,94231,SE,1,2019,5,9
+Klippkungen,shipped,1364.8,SEK,Linköping,58226,SE,1,2019,5,9
+Klippkungen,shipped,566.0,SEK,Eslöv,24136,SE,1,2019,7,1
+Klippkungen,shipped,394.85,NOK,Os,5211,NO,1,2019,6,3
+Klippkungen,shipped,873.91,SEK,Ronneby,37273,SE,1,2019,12,4
+Klippkungen,shipped,873.91,SEK,Ronneby,37273,SE,1,2019,12,4
+Klippkungen,shipped,400.0,NOK,Bøverbru,2846,NO,1,2019,5,15
+Klippkungen,shipped,307.0,NOK,Ålesund,6014,NO,1,2019,10,10
+Klippkungen,shipped,614.41,DKK,Højslev,7840,DK,1,2019,6,9
+Klippkungen,shipped,2034.0,DKK,Tarm,6880,DK,3,2019,5,24
+Klippkungen,shipped,1264.0,SEK,Västerås,72222,SE,1,2019,7,24
+Klippkungen,shipped,375.0,NOK,Høyanger,6993,NO,1,2019,5,14
+Klippkungen,shipped,184.53,DKK,borup,4140,DK,1,2019,5,14
+Klippkungen,shipped,1373.0,SEK,Valdemarsvik,61592,SE,1,2019,10,10
+Klippkungen,shipped,1373.0,SEK,Valdemarsvik,61592,SE,1,2019,10,10
+Klippkungen,shipped,419.74,DKK,Holbæk,4300,DK,1,2019,5,16
+Klippkungen,shipped,528.66,DKK,Nørresundby,9400,DK,3,2019,5,17
+Klippkungen,shipped,602.0,SEK,Märsta,19544,SE,1,2019,5,17
+Klippkungen,shipped,674.67,DKK,Hobro,9500,DK,1,2019,5,18
+Klippkungen,shipped,754.0,SEK,Kärna,44270,SE,1,2019,5,19
+Klippkungen,shipped,356.0,SEK,Vagnhärad,61971,SE,1,2019,9,7
+Klippkungen,shipped,427.0,SEK,Göteborg,41523,SE,2,2019,5,18
+Klippkungen,shipped,427.0,SEK,Göteborg,41523,SE,2,2019,5,28
+Klippkungen,shipped,400.0,NOK,Stokmarknes,8450,NO,1,2019,5,18
+Klippkungen,shipped,386.0,SEK,Gällivare,98235,SE,1,2020,1,7
+Godisgruvan,shipped,490.0,SEK,Vittsjö,28268,SE,1,2019,5,28
+Klippkungen,shipped,777.12,DKK,Ølsted ,3310 ,DK,1,2019,10,14
+Klippkungen,shipped,777.12,DKK,Ølsted ,3310 ,DK,1,2019,10,14
+Klippkungen,shipped,228.0,SEK,Funäsdalen,84095,SE,1,2019,6,25
+Klippkungen,shipped,622.0,SEK,Märsta,19554,SE,1,2019,7,10
+Klippkungen,shipped,622.0,SEK,Märsta,19554,SE,1,2019,7,10
+Klippkungen,shipped,168.0,SEK,Uppsala,75327,SE,1,2019,5,26
+Klippkungen,ready,447.3,DKK,Toftlund ,6520,DK,1,2019,6,11
+Klippkungen,shipped,411.35,DKK,Herfølge,4681,DK,1,2019,5,25
+Klippkungen,shipped,503.11,DKK,Herlev,2730,DK,1,2019,7,6
+Klippkungen,shipped,1468.21,DKK,Gudhjem,3760,DK,1,2019,6,6
+Klippkungen,shipped,1468.21,DKK,Gudhjem,3760,DK,1,2019,6,6
+Klippkungen,shipped,581.78,DKK,Helsinge,3209,DK,1,2019,7,6
+Klippkungen,shipped,273.68,DKK,Tranbjerg J,8310,DK,1,2019,5,27
+Klippkungen,shipped,376.0,NOK,Røst,8064,NO,1,2019,5,27
+Klippkungen,shipped,427.0,SEK,Göteborg,41523,SE,2,2019,6,4
+Klippkungen,shipped,2051.8,SEK,Borlänge,78478,SE,1,2019,5,30
+Klippkungen,shipped,396.0,NOK,Fogn,4164,NO,1,2019,6,1
+Klippkungen,shipped,900.7,DKK,Vordingborg,4760,DK,2,2019,6,1
+Godisgruvan,shipped,447.0,SEK,Ronneby,37232,SE,1,2019,6,3
+Klippkungen,shipped,427.0,SEK,Göteborg,41523,SE,2,2019,6,10
+Klippkungen,shipped,376.0,SEK,Vallentuna,18635,SE,1,2019,6,4
+Klippkungen,shipped,386.0,NOK,Vennesla,4707,NO,1,2019,6,4
+Klippkungen,shipped,402.0,NOK,TANEM,7549,NO,1,2019,6,14
+Klippkungen,shipped,193.0,SEK,Åled,31350,SE,1,2019,7,2
+Klippkungen,shipped,1090.0,SEK,Örnsköldsvik,89133,SE,1,2019,6,6
+Klippkungen,shipped,817.0,SEK,Borlänge,78454,SE,1,2019,9,26
+Klippkungen,shipped,920.0,SEK,Vännäs,91133,SE,1,2019,10,31
+Klippkungen,shipped,971.0,SEK,Tungelsta,13754,SE,1,2019,6,7
+Klippkungen,shipped,523.61,DKK,farsoe,9640,DK,1,2019,7,18
+Klippkungen,shipped,263.0,NOK,Snertingdal,2838,NO,1,2019,6,8
+Klippkungen,shipped,327.0,NOK,Snertingdal,2838,NO,1,2019,7,31
+Klippkungen,shipped,513.11,DKK,Nexø,3730,DK,1,2019,8,9
+Klippkungen,shipped,371.91,SEK,Rimbo,76241,SE,1,2019,6,8
+Klippkungen,shipped,1290.19,DKK,Hjørring,9800,DK,1,2019,6,24
+Klippkungen,shipped,550.0,SEK,Göteborg,41523,SE,2,2019,7,1
+Klippkungen,shipped,553.72,DKK,Skærbæk,6780,DK,1,2019,6,11
+Klippkungen,shipped,173.6,DKK,Middelfart,5500,DK,1,2019,6,12
+Klippkungen,shipped,461.59,DKK,Helsingør,3000,DK,1,2019,7,4
+Klippkungen,shipped,511.4,DKK,Ringsted,4100,DK,1,2019,8,4
+Klippkungen,shipped,502.99,DKK,Brønshøj,2700,DK,1,2019,7,2
+Klippkungen,shipped,502.99,DKK,Brønshøj,2700,DK,1,2019,7,2
+Klippkungen,shipped,345.0,NOK,Averøy,6533,NO,1,2019,6,28
+Klippkungen,shipped,303.38,DKK,Jægerspris,3630,DK,1,2019,6,13
+Klippkungen,shipped,401.0,NOK,Fåberg,2625,NO,1,2019,6,13
+Klippkungen,shipped,347.0,NOK,Kristiansund N,6510,NO,1,2019,6,14
+Klippkungen,shipped,978.96,DKK,Kbh s,2300,DK,1,2019,6,15
+Klippkungen,shipped,487.53,DKK,Virum,2830,DK,1,2019,6,25
+Klippkungen,shipped,1042.0,SEK,Stockholm,11550,SE,1,2019,6,17
+Klippkungen,shipped,1042.0,SEK,Stockholm,11550,SE,1,2019,6,17
+Klippkungen,shipped,446.0,SEK,Åkersberga,18433,SE,1,2019,6,22
+Klippkungen,shipped,236.0,SEK,Holmsveden,82392,SE,1,2019,10,10
+Klippkungen,shipped,317.0,NOK,Rundhaug,9336,NO,1,2019,6,22
+Klippkungen,shipped,359.0,NOK,Ørsta,6150,NO,1,2019,6,23
+Klippkungen,shipped,512.0,SEK,Delsbo,82471,SE,1,2019,7,2
+Klippkungen,ready,663.0,SEK,Tåstrup,02630,SE,1,2019,6,29
+Klippkungen,shipped,218.0,SEK,Flen,64292,SE,1,2019,6,30
+Klippkungen,shipped,704.0,SEK,Grevie,26962,SE,1,2019,7,5
+Klippkungen,shipped,550.0,SEK,Göteborg,41523,SE,2,2019,6,25
+Klippkungen,shipped,262.0,NOK,Harstad,9406,NO,1,2019,6,25
+Klippkungen,shipped,555.0,SEK,Furudal,79070,SE,1,2019,7,14
+Klippkungen,shipped,555.0,SEK,Furudal,79070,SE,1,2019,7,14
+Klippkungen,shipped,470.0,SEK,Grödinge,14771,SE,1,2019,6,26
+Klippkungen,shipped,326.0,NOK,Steinsdalen,7740,NO,1,2019,6,26
+Klippkungen,shipped,344.0,SEK,Luleå,97633,SE,1,2019,9,16
+Klippkungen,shipped,506.47,DKK,Kalundborg,4400,DK,1,2019,6,28
+Klippkungen,shipped,287.0,NOK,Hitra,7240,NO,1,2019,6,28
+Klippkungen,shipped,301.0,NOK,Vadsø,9800,NO,1,2019,8,26
+Klippkungen,shipped,386.0,NOK,Stjørdal,7500,NO,1,2019,7,6
+Klippkungen,shipped,262.36,DKK,Odense SØ,5220,DK,1,2019,7,31
+Klippkungen,shipped,391.0,NOK,Skudeneshavn,4280,NO,1,2019,6,29
+Klippkungen,shipped,326.0,SEK,Hova,54831,SE,1,2019,7,28
+Klippkungen,shipped,395.0,NOK,Vallersund,7167,NO,1,2019,6,30
+Klippkungen,shipped,1454.0,SEK,Tenhult,56162,SE,1,2019,6,30
+Klippkungen,shipped,736.0,SEK,Göteborg,41523,SE,2,2019,9,3
+Klippkungen,shipped,267.0,SEK,Varberg,43244,SE,1,2019,7,1
+Klippkungen,shipped,1744.0,SEK,Forshaga,66730,SE,1,2019,7,2
+Klippkungen,shipped,1054.26,DKK,Rødby,4970,DK,1,2019,7,2
+Klippkungen,shipped,1054.26,DKK,Rødby,4970,DK,1,2019,7,2
+Klippkungen,shipped,233.0,SEK,Alfta,82231,SE,1,2019,9,9
+Klippkungen,shipped,525.66,DKK,Klarup,9270,DK,1,2019,7,7
+Klippkungen,shipped,505.66,DKK,Rødovre,2610,DK,1,2019,7,4
+Klippkungen,shipped,330.9,NOK,Hamarvik,7263,NO,1,2019,7,4
+Klippkungen,shipped,655.0,SEK,Sundsvall,85352,SE,1,2019,8,20
+Klippkungen,shipped,655.0,SEK,Sundsvall,85352,SE,1,2019,8,20
+Klippkungen,shipped,691.0,SEK,härnösand,87162,SE,1,2019,7,6
+Klippkungen,shipped,227.0,SEK,Hisings Backa,42241,SE,1,2019,10,10
+Klippkungen,shipped,326.0,NOK,Odda,5750,NO,1,2019,10,4
+Klippkungen,shipped,951.0,SEK,Åsele,91932,SE,1,2019,7,8
+Klippkungen,shipped,1210.6,SEK,Skänninge,59634,SE,1,2019,7,24
+Klippkungen,shipped,551.0,SEK,Vingåker,64136,SE,1,2019,9,21
+Klippkungen,shipped,9303.0,SEK,Krylbo,77550,SE,1,2019,7,8
+Klippkungen,shipped,9303.0,SEK,Krylbo,77550,SE,1,2019,7,8
+Klippkungen,shipped,9303.0,SEK,Krylbo,77550,SE,1,2019,7,8
+Klippkungen,shipped,9303.0,SEK,Krylbo,77550,SE,1,2019,7,8
+Klippkungen,shipped,1117.0,SEK,Motala,59171,SE,1,2019,7,9
+Klippkungen,shipped,276.0,SEK,Ringarum,61574,SE,1,2019,10,30
+Klippkungen,shipped,312.0,NOK,LYNGEN,9060,NO,1,2019,7,9
+Klippkungen,shipped,485.0,SEK,Marieholm,24172,SE,1,2019,8,23
+Klippkungen,shipped,827.0,DKK,Viborg,8800,DK,1,2019,12,4
+Klippkungen,shipped,1054.36,DKK,vordingborg,4760,DK,2,2019,7,14
+Klippkungen,shipped,349.0,NOK,Fyllingsdalen,5143,NO,1,2019,10,2
+Klippkungen,shipped,1099.0,SEK,Tullinge,14652,SE,1,2019,7,14
+Klippkungen,shipped,484.18,DKK,Odense Nv ,5210,DK,1,2019,8,12
+Klippkungen,shipped,1786.0,SEK,Vingåker,64393,SE,1,2019,10,10
+Klippkungen,shipped,188.0,NOK,Kristiansund N,6501,NO,1,2019,9,25
+Godisgruvan,shipped,188.0,SEK,Tyresö,13540,SE,1,2019,7,15
+Klippkungen,shipped,387.0,NOK,HASVIK,9590,NO,1,2019,7,24
+Klippkungen,shipped,612.7,DKK,jaegerspris,3630,DK,1,2019,7,22
+Klippkungen,shipped,527.3,DKK,Næstved,4700,DK,1,2019,8,1
+Klippkungen,shipped,1079.84,DKK,strandby,9970,DK,1,2019,7,16
+Klippkungen,shipped,406.0,SEK,Västervik,593 30,SE,1,2019,10,4
+Klippkungen,shipped,565.0,SEK,Krokom,83532,SE,1,2019,8,16
+Klippkungen,shipped,502.28,DKK,Herlev,2730,DK,1,2019,7,18
+Klippkungen,shipped,88.53,EUR,Vaasa,65230,FI,1,2019,8,13
+Klippkungen,shipped,288.0,NOK,Ulset,5118,NO,1,2019,7,25
+Klippkungen,shipped,1081.0,SEK,BURSERYD,33378,SE,1,2019,7,20
+Klippkungen,shipped,1081.0,SEK,BURSERYD,33378,SE,1,2019,7,20
+Klippkungen,shipped,1081.0,SEK,BURSERYD,33378,SE,1,2019,7,20
+Klippkungen,shipped,317.0,NOK,Fjellhamar,1472,NO,1,2019,7,23
+Klippkungen,shipped,773.0,SEK,Tibro,54330,SE,1,2019,8,12
+Klippkungen,shipped,385.0,NOK,Nedstrand,5560,NO,1,2019,7,20
+Klippkungen,shipped,375.0,NOK,Vadsø,9800,NO,1,2019,7,21
+Klippkungen,shipped,502.26,DKK,grevinge,4571,DK,1,2019,7,21
+Klippkungen,shipped,316.0,SEK,Ljusne,82675,SE,1,2019,10,10
+Klippkungen,shipped,934.0,SEK,Vittsjö,28267,SE,2,2019,7,23
+Klippkungen,shipped,934.0,SEK,Vittsjö,28267,SE,2,2019,7,23
+Klippkungen,shipped,296.0,SEK,Ingatorp,57031,SE,1,2019,9,21
+Klippkungen,shipped,204.61,DKK,Tølløse,4340,DK,1,2019,7,23
+Klippkungen,shipped,892.97,DKK,Helsinge,3200,DK,1,2019,7,24
+Klippkungen,shipped,789.8,DKK,Høng,4270,DK,2,2019,7,24
+Klippkungen,shipped,590.11,DKK,Hørve,4534,DK,1,2019,7,24
+Klippkungen,shipped,183.0,SEK,Mjölby,59595,SE,1,2019,10,10
+Klippkungen,shipped,1496.0,SEK,Kåge,93431,SE,1,2019,7,25
+Klippkungen,shipped,346.0,SEK,Transtrand,78068,SE,1,2019,10,19
+Klippkungen,ready,723.23,DKK,Rødovre ,2610,DK,1,2019,7,25
+Klippkungen,shipped,406.0,SEK,Ängelsberg,73790,SE,1,2019,7,25
+Klippkungen,shipped,71.01,EUR,Mustasaari,65800,FI,1,2019,10,22
+Klippkungen,shipped,188.0,SEK,Gagnef,78530,SE,1,2019,9,7
+Klippkungen,shipped,1023.66,DKK,Ringsted,4100,DK,1,2019,7,26
+Klippkungen,shipped,258.2,DKK,"Herning , snejbjerg",7400,DK,2,2019,7,28
+Klippkungen,shipped,2662.0,SEK,Hede,84093,SE,1,2019,7,26
+Klippkungen,shipped,545.0,SEK,Malmö,21437,SE,1,2020,1,21
+Klippkungen,shipped,256.0,SEK,Örsundsbro,74963,SE,1,2019,7,27
+Klippkungen,shipped,504.93,DKK,Køge,4600,DK,1,2019,7,31
+Klippkungen,shipped,366.98,DKK,Hatting,8700,DK,1,2019,7,28
+Klippkungen,shipped,615.0,SEK,Edane,67170,SE,1,2019,7,28
+Klippkungen,shipped,615.0,SEK,Edane,67170,SE,1,2019,7,28
+Klippkungen,shipped,582.0,SEK,Edane,67170,SE,1,2019,8,19
+Klippkungen,shipped,605.0,SEK,Bandhagen,12472,SE,1,2019,7,28
+Klippkungen,shipped,771.36,DKK,Horsens,8700,DK,1,2019,7,28
+Klippkungen,shipped,168.0,SEK,Eskilstuna,63228,SE,1,2019,8,8
+Klippkungen,shipped,538.24,DKK,Kastrup ,2770,DK,1,2019,7,31
+Klippkungen,shipped,685.0,SEK,Sundsvall,85731,SE,1,2019,7,30
+Klippkungen,shipped,495.0,SEK,Arvika,67152,SE,1,2019,7,29
+Klippkungen,shipped,345.0,SEK,Skelleftehamn,93232,SE,1,2019,10,2
+Klippkungen,shipped,656.0,SEK,Trollhättan,46154,SE,1,2019,7,29
+Klippkungen,shipped,416.0,SEK,Karlskrona,37191,SE,1,2019,10,10
+Klippkungen,shipped,349.0,SEK,Leksand,79330,SE,1,2019,8,20
+Klippkungen,shipped,346.0,NOK,Alversund,5911,NO,1,2019,7,30
+Klippkungen,shipped,427.0,SEK,Aplared,51696,SE,1,2019,7,30
+Klippkungen,shipped,316.0,SEK,Hässleholm,28148,SE,1,2019,7,30
+Klippkungen,shipped,549.93,DKK,Hjørring,9800,DK,1,2019,8,5
+Klippkungen,shipped,522.3,DKK,Hurup Thy,7760,DK,1,2019,7,31
+Klippkungen,shipped,391.0,NOK,Snertingdal,2838,NO,1,2019,9,22
+Klippkungen,shipped,425.0,SEK,Gunnarskog,67035,SE,1,2019,8,21
+Klippkungen,shipped,833.29,DKK,Kastrup,2770,DK,1,2019,8,29
+Klippkungen,shipped,399.0,NOK,Finnsnes,9308,NO,1,2019,8,1
+Klippkungen,shipped,801.0,SEK,Bromma,16844,SE,1,2019,8,28
+Klippkungen,shipped,724.06,DKK,Rønnede,4683,DK,1,2019,8,1
+Klippkungen,shipped,993.0,SEK,Lidingö,18158,SE,1,2019,8,2
+Klippkungen,shipped,1570.75,DKK,Valby,2500,DK,1,2019,8,2
+Klippkungen,shipped,506.66,DKK,Stenlille,4295,DK,1,2019,9,7
+Klippkungen,shipped,649.05,DKK,Jægerspris,3630,DK,1,2019,8,2
+Klippkungen,shipped,1338.42,DKK,Jægerspris,3630,DK,3,2019,8,30
+Klippkungen,shipped,602.7,SEK,Ekshärad,68361,SE,1,2019,8,3
+Klippkungen,shipped,530.0,DKK,hvidovre,2650,DK,1,2020,1,6
+Klippkungen,shipped,496.0,SEK,Lyrestad,54873,SE,1,2019,8,21
+Klippkungen,shipped,470.78,DKK,Slagelse,4200,DK,1,2019,9,6
+Klippkungen,shipped,651.79,DKK,Skanderborg,8660,DK,1,2019,8,4
+Klippkungen,shipped,813.0,SEK,Flen,64231,SE,1,2019,12,15
+Klippkungen,shipped,327.0,SEK,Orsa,79434,SE,1,2019,9,22
+Klippkungen,shipped,400.0,NOK,Trondheim,7039,NO,1,2019,8,5
+Klippkungen,shipped,400.0,NOK,Trondheim,7039,NO,1,2019,8,5
+Klippkungen,shipped,306.0,NOK,Krokelvdalen,9022,NO,1,2019,8,5
+Klippkungen,shipped,391.24,DKK,Borup,4140,DK,1,2019,9,17
+Klippkungen,shipped,1259.9,SEK,Uppsala,75752,SE,1,2019,8,6
+Klippkungen,shipped,393.0,SEK,Älvsbyn,94235,SE,1,2019,11,27
+Klippkungen,shipped,251.1,DKK,Herlev,2730,DK,1,2019,8,6
+Klippkungen,shipped,227.0,SEK,Malmberget,98334,SE,1,2019,10,10
+Klippkungen,shipped,535.0,SEK,Grevie,26962,SE,1,2019,9,18
+Klippkungen,shipped,574.0,SEK,Ånge,841 33,SE,1,2019,10,3
+Klippkungen,shipped,711.0,SEK,Alsen,83593,SE,1,2019,9,28
+Klippkungen,shipped,404.0,NOK,Mo i Rana,8614,NO,1,2019,8,8
+Klippkungen,shipped,896.0,SEK,Arvika,67192,SE,1,2019,11,1
+Klippkungen,shipped,896.0,SEK,Arvika,67192,SE,1,2019,11,1
+Klippkungen,shipped,247.0,NOK,Inndyr,8140,NO,1,2019,10,10
+Klippkungen,shipped,749.2,DKK,Fredericia,7000,DK,1,2019,8,30
+Klippkungen,shipped,641.0,SEK,Malmberget,98332,SE,1,2019,9,30
+Klippkungen,shipped,773.0,SEK,Flen,64231,SE,1,2019,11,2
+Klippkungen,shipped,216.0,SEK,Norrtälje,76175,SE,1,2019,10,10
+Klippkungen,shipped,521.25,DKK,Haslev,4690,DK,2,2019,12,26
+Klippkungen,shipped,976.0,SEK,Östersund,83139,SE,1,2019,8,10
+Klippkungen,shipped,703.38,DKK,Aakirkeby,3720,DK,1,2019,8,11
+Klippkungen,shipped,2131.9,SEK,Ljusne,82677,SE,1,2019,8,11
+Klippkungen,shipped,176.98,DKK,Fredericia,7000,DK,1,2019,8,12
+Klippkungen,shipped,521.52,DKK,"Havdrup, DK",4622,DK,1,2019,8,12
+Klippkungen,shipped,313.0,SEK,Göteborg,41478,SE,1,2019,10,10
+Klippkungen,shipped,297.0,NOK,Drammen,3046,NO,1,2019,8,14
+Klippkungen,shipped,764.8,SEK,Hälleforsnäs,64830,SE,1,2019,8,14
+Klippkungen,shipped,337.0,SEK,Vilhelmina,91292,SE,1,2019,11,24
+Klippkungen,shipped,592.0,SEK,Norsborg,14556,SE,1,2019,9,6
+Klippkungen,shipped,358.0,NOK,Alta,9517,NO,1,2019,12,13
+Klippkungen,shipped,347.0,NOK,Ålesund,6008,NO,1,2019,8,15
+Klippkungen,ready,390.0,NOK,Tveit,4658,NO,1,2019,8,16
+Klippkungen,shipped,402.0,NOK,Røst,8064,NO,1,2019,8,16
+Klippkungen,ready,377.0,SEK,Karlskoga,69135,SE,1,2020,2,2
+Klippkungen,shipped,287.0,SEK,Vargön,46830,SE,1,2020,1,18
+Klippkungen,shipped,1338.0,SEK,Simrishamn,27237,SE,1,2019,10,14
+Klippkungen,shipped,692.0,SEK,Gävle,80433,SE,1,2019,11,28
+Klippkungen,shipped,692.0,SEK,Gävle,80433,SE,1,2019,11,28
+Klippkungen,shipped,910.0,SEK,Lit,83631,SE,1,2019,10,27
+Klippkungen,shipped,384.0,NOK,Langevåg,6030,NO,1,2019,8,18
+Klippkungen,shipped,307.0,NOK,Foldereid,7985,NO,1,2019,8,19
+Klippkungen,shipped,367.0,SEK,Landskrona,26152,SE,1,2019,8,21
+Klippkungen,shipped,34.24,EUR,Haukipudas,90830,FI,1,2019,8,21
+Klippkungen,shipped,824.0,SEK,Kristinehamn,68196,SE,1,2020,1,25
+Klippkungen,shipped,790.0,SEK,Sorunda,14897,SE,1,2019,8,23
+Klippkungen,shipped,247.0,SEK,Johannishus,37295,SE,1,2019,10,10
+Klippkungen,shipped,594.0,SEK,Grängesberg,77250,SE,1,2019,10,10
+Klippkungen,shipped,387.0,NOK,Norheimsund,5600,NO,1,2019,8,22
+Klippkungen,shipped,672.8,SEK,Krylbo,77550,SE,1,2019,8,22
+Klippkungen,shipped,383.0,SEK,Gävle,80433,SE,1,2019,10,10
+Klippkungen,shipped,511.0,SEK,Uppsala,75448,SE,1,2019,10,24
+Klippkungen,shipped,187.0,SEK,Surahammar,73533,SE,1,2019,10,10
+Klippkungen,ready,1658.0,SEK,Angered,42440,SE,1,2019,12,20
+Klippkungen,shipped,754.0,SEK,Göteborg,41875,SE,1,2019,12,27
+Klippkungen,shipped,385.0,NOK,Lyngstad,6493,NO,1,2019,9,3
+Klippkungen,ready,4931.21,DKK,Ballerup,2750,DK,1,2019,10,12
+Klippkungen,shipped,528.0,SEK,Huddinge,14140,SE,1,2019,8,24
+Klippkungen,shipped,795.0,SEK,Gnesta,64691,SE,1,2019,11,12
+Klippkungen,shipped,425.0,SEK,Norrköping,60208,SE,1,2020,1,7
+Klippkungen,shipped,1269.0,SEK,Täby,18773,SE,1,2019,9,2
+Klippkungen,shipped,287.0,SEK,Norrköping,60350,SE,1,2019,8,27
+Klippkungen,shipped,188.0,SEK,Kopparberg,71432,SE,1,2019,8,27
+Klippkungen,shipped,416.0,SEK,Tidaholm,52236,SE,1,2019,8,27
+Klippkungen,shipped,335.0,SEK,Göteborg,41706,SE,1,2019,10,10
+Klippkungen,shipped,872.0,SEK,VIMMERBY,59837,SE,1,2019,8,28
+Klippkungen,shipped,545.0,SEK,Skärblacka,61730,SE,1,2019,10,10
+Klippkungen,shipped,644.0,SEK,Skummeslövsstrand,31272,SE,1,2019,8,28
+Klippkungen,shipped,855.96,DKK,Kastrup,2770,DK,1,2019,10,4
+Klippkungen,shipped,1980.0,SEK,Ronneby,37291,SE,1,2019,11,12
+Klippkungen,shipped,1980.0,SEK,Ronneby,37291,SE,1,2019,11,12
+Klippkungen,shipped,1980.0,SEK,Ronneby,37291,SE,1,2019,11,12
+Klippkungen,shipped,807.34,DKK,Rude,4243,DK,1,2019,8,30
+Klippkungen,shipped,400.0,NOK,Atna,2476,NO,1,2019,8,30
+Klippkungen,shipped,573.8,SEK,Umeå,90642,SE,1,2019,10,30
+Klippkungen,ready,466.0,SEK,Burträsk,93731,SE,1,2019,9,2
+Klippkungen,shipped,544.0,SEK,Stöde,86495,SE,1,2019,10,2
+Klippkungen,shipped,2082.0,SEK,Hjortsberga,34293,SE,1,2019,9,2
+Klippkungen,shipped,774.0,SEK,Vagnhärad,61994,SE,1,2019,9,27
+Klippkungen,shipped,774.0,SEK,Vagnhärad,61994,SE,1,2019,9,27
+Klippkungen,shipped,441.0,SEK,Göteborg,41523,SE,1,2019,9,29
+Klippkungen,shipped,287.0,NOK,Egersund,4370,NO,1,2019,9,3
+Klippkungen,shipped,396.0,NOK,Lyngstad,6493,NO,1,2019,9,9
+Klippkungen,shipped,1210.0,SEK,Orsa,79492,SE,1,2019,11,25
+Klippkungen,shipped,1210.0,SEK,Orsa,79492,SE,2,2019,11,25
+Klippkungen,shipped,391.0,NOK,Fjellhamar,1472,NO,1,2019,11,12
+Klippkungen,shipped,357.0,SEK,Ronneby,37232,SE,1,2019,10,9
+Klippkungen,shipped,524.0,SEK,Hästveda,28276,SE,1,2019,11,19
+Klippkungen,shipped,552.48,DKK,Aakirkeby,3720,DK,1,2019,9,8
+Klippkungen,shipped,344.0,NOK,Oslo,0258,NO,1,2019,10,10
+Klippkungen,shipped,188.0,SEK,Gävle,80429,SE,1,2019,9,9
+Klippkungen,shipped,395.0,NOK,Lyngstad,6493,NO,1,2019,12,2
+Klippkungen,shipped,356.0,NOK,Fiskå,6143,NO,1,2019,9,23
+Klippkungen,shipped,188.0,SEK,Vedum,53461,SE,1,2019,9,10
+Klippkungen,shipped,1885.0,SEK,Partille,43343,SE,1,2019,9,11
+Klippkungen,shipped,495.0,SEK,Landskrona,26152,SE,1,2019,9,11
+Klippkungen,shipped,809.0,SEK,Landskrona,26152,SE,1,2019,11,20
+Klippkungen,shipped,342.0,NOK,Nærbø,4365,NO,1,2019,9,11
+Klippkungen,shipped,387.0,SEK,Motala,59155,SE,1,2019,9,11
+Klippkungen,shipped,337.0,NOK,Dombås,2660,NO,1,2019,9,28
+Klippkungen,shipped,348.0,NOK,Skjervøy,9180,NO,1,2019,10,10
+Klippkungen,shipped,321.0,SEK,Arjeplog,93831,SE,1,2019,9,12
+Klippkungen,shipped,816.0,SEK,Helsingborg,25460,SE,1,2019,11,14
+Klippkungen,shipped,816.0,SEK,Helsingborg,25460,SE,1,2019,11,14
+Klippkungen,shipped,128.0,SEK,Huddinge,14149,SE,1,2019,10,10
+Klippkungen,shipped,1084.0,SEK,Borlänge,78443,SE,1,2019,10,18
+Klippkungen,shipped,382.0,NOK,Steinkjer,7712,NO,1,2019,10,10
+Klippkungen,shipped,409.0,NOK,Lindesnes,4520,NO,1,2019,10,10
+Klippkungen,shipped,403.0,NOK,Vaksdal,5725,NO,1,2019,9,15
+Klippkungen,shipped,398.0,NOK,Herøy,8850,NO,1,2019,9,16
+Klippkungen,shipped,805.0,SEK,Hällekis,53394,SE,1,2019,9,16
+Klippkungen,shipped,291.0,SEK,Sågmyra,79022,SE,1,2019,10,10
+Klippkungen,shipped,376.0,SEK,Mölndal,43126,SE,2,2019,9,17
+Klippkungen,ready,376.0,SEK,Mölndal,43133,SE,2,2019,9,23
+Klippkungen,shipped,1270.0,SEK,Borås,50762,SE,1,2019,9,19
+Klippkungen,shipped,766.82,SEK,Fjärdhundra,74970,SE,2,2019,12,5
+Klippkungen,shipped,1114.9,SEK,Saltsjö-Boo,13244,SE,1,2019,9,18
+Klippkungen,shipped,1114.9,SEK,Saltsjö-Boo,13244,SE,1,2019,9,18
+Klippkungen,shipped,557.8,DKK,Vejle,7100,DK,1,2019,9,19
+Klippkungen,shipped,796.0,SEK,Farsta,12358,SE,1,2019,10,10
+Klippkungen,shipped,326.0,SEK,Skelleftehamn,93231,SE,1,2019,9,19
+Klippkungen,shipped,640.0,SEK,Åsbro,69460,SE,1,2019,9,19
+Klippkungen,ready,1155.0,SEK,Gävle,80430,SE,1,2019,11,20
+Klippkungen,shipped,757.0,SEK,Östersund,83153,SE,1,2019,10,10
+Klippkungen,shipped,757.0,SEK,Östersund,83153,SE,1,2019,10,10
+Klippkungen,shipped,402.0,NOK,Oslo,1152,NO,1,2019,9,21
+Klippkungen,shipped,335.0,NOK,Kleppstad,8313,NO,1,2019,10,10
+Klippkungen,shipped,575.0,SEK,Falkenberg,31135,SE,1,2019,10,30
+Klippkungen,shipped,458.9,SEK,Varberg,43252,SE,1,2019,10,10
+Klippkungen,shipped,654.0,SEK,Mölndal,43133,SE,4,2019,9,23
+Klippkungen,shipped,535.0,SEK,Fellingsbro,73271,SE,1,2019,10,10
+Klippkungen,shipped,390.0,NOK,Bergen,5081,NO,1,2019,9,23
+Klippkungen,shipped,537.0,SEK,Jokkmokk,96233,SE,1,2019,9,25
+Klippkungen,shipped,829.0,SEK,Ullared,31160,SE,1,2019,10,10
+Klippkungen,shipped,128.0,SEK,Uppsala,75445,SE,1,2019,10,10
+Klippkungen,shipped,315.0,SEK,Skokloster,74696,SE,1,2019,10,10
+Klippkungen,shipped,176.0,SEK,Sundsvall,85352,SE,1,2019,10,10
+Klippkungen,shipped,441.0,SEK,Norsborg,14556,SE,1,2019,10,10
+Klippkungen,shipped,307.0,NOK,Brattvåg,6270,NO,2,2019,11,3
+Klippkungen,shipped,347.0,SEK,Borlänge,78434,SE,1,2019,12,2
+Klippkungen,shipped,297.0,SEK,Vislanda,34250,SE,1,2019,10,10
+Klippkungen,shipped,1042.0,SEK,Hofors,81333,SE,2,2019,10,15
+Klippkungen,shipped,1213.0,SEK,Gävle,80425,SE,1,2019,9,28
+Klippkungen,shipped,327.0,SEK,Sölvesborg,29439,SE,1,2019,10,11
+Klippkungen,shipped,352.0,NOK,Storslett,9151,NO,1,2019,9,28
+Klippkungen,shipped,235.0,SEK,Arvika,67152,SE,1,2019,10,10
+Klippkungen,shipped,1407.0,SEK,Alsen,83593,SE,1,2019,11,14
+Klippkungen,shipped,617.0,SEK,Göteborg,415 23,SE,1,2019,10,7
+Klippkungen,shipped,376.0,NOK,Odda,5750,NO,1,2019,9,30
+Klippkungen,shipped,138.0,SEK,Skänninge,59634,SE,1,2019,10,10
+Klippkungen,shipped,1473.0,SEK,Loftahammar,59095,SE,1,2019,9,30
+Klippkungen,shipped,374.0,NOK,Kristiansand S,4624,NO,1,2019,10,30
+Klippkungen,shipped,385.0,NOK,Trondheim,7028,NO,1,2019,10,2
+Klippkungen,shipped,975.24,DKK,Søllested,4920,DK,1,2019,10,28
+Klippkungen,shipped,2493.62,DKK,Jægerspris,3630,DK,2,2019,10,29
+Klippkungen,shipped,654.0,SEK,Värmdö,13935,SE,1,2019,12,17
+Klippkungen,shipped,257.0,SEK,Ingelstad,355 72,SE,1,2019,10,3
+Klippkungen,shipped,63.66,EUR,Lahti,15140,FI,1,2019,10,3
+Klippkungen,shipped,550.0,SEK,Gävle,80251,SE,1,2019,10,22
+Klippkungen,shipped,168.0,SEK,Falun,791 43,SE,1,2019,10,3
+Klippkungen,shipped,186.0,SEK,Flen,64292,SE,1,2019,10,10
+Klippkungen,shipped,419.0,NOK,Vestnes,6390,NO,1,2019,10,4
+Klippkungen,shipped,889.0,DKK,Kastrup,2770,DK,1,2019,11,24
+Klippkungen,shipped,394.0,SEK,Väderstad,59022,SE,1,2019,10,25
+Klippkungen,shipped,300.0,SEK,Laholm,31234,SE,1,2019,10,10
+Klippkungen,shipped,476.0,SEK,Partille,43336,SE,1,2019,10,23
+Klippkungen,shipped,2457.0,DKK,Rødby,4970,DK,1,2019,11,16
+Klippkungen,shipped,398.0,NOK,Røst,8064,NO,2,2019,10,18
+Klippkungen,shipped,515.0,SEK,Hultsfred,577 91,SE,1,2019,10,6
+Klippkungen,shipped,757.69,DKK,Brøndby,2605,DK,1,2019,10,18
+Klippkungen,shipped,757.69,DKK,Brøndby,2605,DK,1,2019,10,18
+Klippkungen,shipped,416.0,SEK,Hunnebostrand,456 92,SE,1,2019,10,6
+Klippkungen,shipped,416.0,SEK,Hunnebostrand,456 92,SE,1,2019,10,6
+Klippkungen,shipped,267.0,SEK,Vara,53495,SE,1,2019,10,30
+Klippkungen,shipped,615.0,SEK,Göteborg,41523,SE,1,2019,10,10
+Klippkungen,shipped,398.0,NOK,Gjettum,1346,NO,1,2019,10,10
+Klippkungen,shipped,397.0,NOK,Nesttun,5228,NO,1,2019,10,7
+Klippkungen,shipped,234.0,SEK,Göteborg,41531,SE,1,2019,10,10
+Klippkungen,shipped,325.0,NOK,Rasta,1476,NO,1,2019,10,10
+Klippkungen,shipped,187.0,SEK,Djura,79393,SE,1,2019,10,10
+Klippkungen,shipped,197.0,SEK,Västra Frölunda,42144,SE,1,2019,10,10
+Klippkungen,shipped,198.0,SEK,Skene,51163,SE,1,2019,10,10
+Klippkungen,shipped,278.45,DKK,Hobro,9500,DK,1,2019,11,10
+Klippkungen,shipped,269.9,SEK,Tibro,54332,SE,1,2019,10,10
+Klippkungen,shipped,128.0,SEK,Marieholm,24172,SE,1,2019,10,10
+Klippkungen,shipped,325.0,SEK,Holsljunga,51264,SE,1,2019,10,10
+Klippkungen,shipped,862.9,SEK,Holsljunga,51264,SE,1,2019,11,17
+Klippkungen,shipped,386.0,SEK,Vimmerby,59832,SE,1,2019,10,10
+Klippkungen,shipped,346.0,NOK,Trondheim,7036,NO,1,2019,10,10
+Klippkungen,shipped,247.0,SEK,Råneå,95591,SE,1,2019,10,10
+Klippkungen,shipped,584.0,SEK,Stånga,62360,SE,1,2019,10,10
+Klippkungen,shipped,484.0,SEK,Hallstahammar,73491,SE,1,2019,10,10
+Klippkungen,shipped,128.0,SEK,Karlstad,65221,SE,1,2019,10,10
+Klippkungen,shipped,128.0,SEK,Lomma,23438,SE,1,2019,10,10
+Klippkungen,shipped,619.0,SEK,Vagnhärad,61971,SE,1,2019,11,4
+Klippkungen,shipped,177.0,SEK,Ydre,57063,SE,1,2019,10,10
+Klippkungen,shipped,237.0,SEK,Mörbylånga,38662,SE,1,2019,10,10
+Klippkungen,shipped,128.0,SEK,Skellefteå,93192,SE,1,2019,10,10
+Klippkungen,shipped,253.0,SEK,Skövde,54155,SE,1,2019,10,10
+Klippkungen,shipped,379.0,SEK,Landvetter,43836,SE,1,2019,10,10
+Klippkungen,shipped,462.0,SEK,Östervåla,74046,SE,1,2019,10,10
+Klippkungen,shipped,296.0,SEK,Luleå,97441,SE,1,2019,10,10
+Klippkungen,shipped,386.0,SEK,Gusum,61571,SE,1,2019,10,10
+Klippkungen,shipped,197.0,SEK,Skurup,27433,SE,1,2019,10,10
+Klippkungen,shipped,209.0,DKK,Grindsted,7200,DK,1,2019,10,10
+Klippkungen,shipped,395.0,NOK,Hurdal,2090,NO,1,2019,10,10
+Klippkungen,shipped,539.0,SEK,Bromma,16837,SE,1,2019,10,10
+Klippkungen,shipped,177.0,SEK,Gärsnäs,27261,SE,1,2019,10,10
+Klippkungen,shipped,187.0,SEK,Ekerö,17832,SE,1,2019,10,10
+Klippkungen,shipped,277.0,SEK,Axmar,81794,SE,1,2019,10,10
+Klippkungen,shipped,277.0,SEK,Axmar,81794,SE,1,2019,10,10
+Klippkungen,shipped,276.0,SEK,Vinninga,53171,SE,1,2019,10,10
+Klippkungen,shipped,565.0,SEK,Handen,13645,SE,1,2019,10,10
+Klippkungen,shipped,565.0,SEK,Handen,13645,SE,1,2019,10,10
+Klippkungen,shipped,764.0,SEK,Handen,13645,SE,1,2020,1,25
+Klippkungen,shipped,402.0,NOK,Solbergelva,3057,NO,1,2019,10,10
+Klippkungen,shipped,446.0,SEK,Varberg,43252,SE,1,2020,1,16
+Klippkungen,shipped,314.0,SEK,Knivsta,74191,SE,1,2019,10,10
+Klippkungen,shipped,327.0,SEK,Furulund,24494,SE,1,2019,10,11
+Klippkungen,shipped,932.0,SEK,Tyresö,13555,SE,1,2019,10,20
+Klippkungen,shipped,410.0,SEK,Floda,44837,SE,1,2019,10,11
+Klippkungen,shipped,425.0,SEK,Vilhelmina,91299,SE,1,2019,11,4
+Klippkungen,shipped,665.0,SEK,Hindås,43854,SE,1,2019,10,12
+Klippkungen,shipped,536.0,SEK,Genarp,24798,SE,1,2019,12,15
+Klippkungen,shipped,945.0,SEK,Romakloster,62244,SE,1,2020,1,8
+Klippkungen,shipped,357.0,NOK,Arendal,4844,NO,1,2019,10,13
+Klippkungen,shipped,404.0,NOK,Grimstad,4885,NO,1,2019,10,26
+Klippkungen,shipped,323.0,NOK,Fyllingsdalen,5142,NO,1,2019,11,13
+Klippkungen,shipped,1402.91,DKK,Rude,4243,DK,1,2019,10,15
+Klippkungen,shipped,1092.0,SEK,Linköping,58236,SE,1,2019,10,15
+Klippkungen,shipped,673.0,SEK,Kungälv,44247,SE,1,2019,10,15
+Klippkungen,shipped,673.0,SEK,Kungälv,44247,SE,1,2019,10,15
+Klippkungen,shipped,659.8,SEK,Zinkgruvan,69676,SE,1,2019,10,16
+Klippkungen,shipped,4109.78,SEK,Upplands Väsby,19434,SE,1,2019,10,21
+Klippkungen,shipped,401.0,NOK,Hovet,3577,NO,1,2019,10,17
+Klippkungen,shipped,642.45,DKK,Slagelse,4200,DK,1,2019,10,17
+Klippkungen,shipped,386.0,NOK,Follebu,2656,NO,1,2019,10,22
+Klippkungen,shipped,401.0,NOK,Stokmarknes,8450,NO,1,2019,10,22
+Klippkungen,shipped,423.36,NOK,Hovet,3577,NO,1,2019,10,18
+Klippkungen,shipped,402.0,NOK,Hovet,3577,NO,1,2019,10,18
+Klippkungen,shipped,416.0,SEK,Fågelmara,37377,SE,1,2019,12,21
+Klippkungen,shipped,594.88,DKK,Frederiksberg,2000,DK,1,2019,10,30
+Klippkungen,shipped,594.88,DKK,Frederiksberg,2000,DK,1,2019,10,30
+Klippkungen,shipped,796.0,SEK,Göteborg,41523,SE,2,2019,10,24
+Klippkungen,shipped,384.0,SEK,Landskrona,26152,SE,1,2019,10,20
+Klippkungen,shipped,188.0,NOK,Atna,2476,NO,1,2019,10,21
+Klippkungen,shipped,1517.8,SEK,Lycksele,92146,SE,1,2019,10,27
+Klippkungen,shipped,266.0,NOK,Mehamn,9770,NO,1,2019,11,9
+Klippkungen,shipped,399.0,NOK,Klæbu,7540,NO,1,2019,10,22
+Klippkungen,shipped,485.0,SEK,Jokkmokk,96233,SE,1,2019,11,24
+Klippkungen,shipped,636.0,SEK,Sollerön,79290,SE,1,2019,12,13
+Klippkungen,shipped,784.0,SEK,Stockholm,11661,SE,3,2019,10,22
+Klippkungen,shipped,2831.03,DKK,Veflinge,5474,DK,1,2019,10,23
+Klippkungen,shipped,595.0,SEK,Backe,88050,SE,1,2019,10,24
+Klippkungen,shipped,637.0,SEK,Göteborg,41523,SE,1,2019,11,5
+Klippkungen,shipped,506.0,SEK,Östersund,83153,SE,1,2019,12,21
+Klippkungen,shipped,376.0,NOK,Kopervik,4250,NO,1,2019,10,24
+Klippkungen,shipped,514.0,SEK,Märsta,19591,SE,1,2019,10,25
+Klippkungen,shipped,914.0,SEK,Hägersten,12931,SE,1,2019,11,16
+Klippkungen,shipped,465.0,SEK,Mockfjärd,78542,SE,1,2019,10,26
+Klippkungen,shipped,306.0,SEK,Bromölla,29537,SE,1,2019,10,26
+Klippkungen,shipped,237.0,SEK,Guldsmedshyttan,71178,SE,1,2019,12,3
+Klippkungen,shipped,1697.0,SEK,Orsa,79431,SE,2,2019,10,26
+Klippkungen,shipped,207.0,SEK,Gävle,80428,SE,1,2019,10,30
+Klippkungen,shipped,745.8,SEK,Frövi,71830,SE,1,2019,10,28
+Klippkungen,shipped,1023.0,SEK,Visby,62196,SE,1,2019,10,29
+Klippkungen,shipped,31.28,EUR,Lohja,8700,FI,1,2019,10,30
+Klippkungen,shipped,1044.0,SEK,Helsingborg,25226,SE,2,2019,10,30
+Klippkungen,shipped,238.0,NOK,Fagerstrand,1454,NO,1,2019,11,16
+Klippkungen,shipped,326.0,SEK,utö,13056,SE,1,2019,12,31
+Klippkungen,shipped,327.0,NOK,Rossfjordstraumen,9302,NO,1,2019,11,24
+Klippkungen,shipped,379.0,NOK,Bodø,8072,NO,1,2019,12,17
+Klippkungen,shipped,566.0,SEK,Malmköping,64296,SE,1,2019,10,31
+Klippkungen,shipped,336.0,NOK,Kyrksæterøra,7200,NO,1,2019,11,1
+Klippkungen,ready,817.0,SEK,Arvika,67192,SE,1,2020,1,21
+Klippkungen,shipped,376.0,NOK,Stonglandseidet,9392,NO,1,2019,11,2
+Klippkungen,shipped,364.0,NOK,Deknepollen,6718,NO,1,2019,11,21
+Klippkungen,shipped,347.0,NOK,Gardermoen,2060,NO,1,2019,11,4
+Klippkungen,shipped,605.0,SEK,Luleå,97633,SE,1,2020,1,23
+Klippkungen,shipped,637.0,SEK,Göteborg,41523,SE,1,2019,11,16
+Klippkungen,shipped,1507.0,SEK,Enköping,74532,SE,1,2019,11,8
+Klippkungen,shipped,464.0,SEK,Brålanda,46462,SE,1,2019,11,16
+Klippkungen,shipped,399.0,SEK,Blattnicksele,92492,SE,1,2020,1,2
+Klippkungen,shipped,502.45,DKK,Vildbjerg,7480,DK,1,2019,11,11
+Klippkungen,shipped,386.0,NOK,Steinkjer,7715,NO,1,2019,11,11
+Klippkungen,shipped,313.0,NOK,Åfjord,7170,NO,1,2019,11,12
+Klippkungen,shipped,387.0,NOK,Andebu,3158,NO,1,2019,11,12
+Klippkungen,shipped,37390.0,SEK,Hägersten,12653,SE,8,2019,11,28
+Klippkungen,shipped,37390.0,SEK,Hägersten,12653,SE,8,2019,11,28
+Klippkungen,shipped,336.0,NOK,Steinsdalen,7740,NO,1,2019,11,24
+Klippkungen,shipped,50.6,EUR,Vöyri,66640,FI,1,2019,11,19
+Klippkungen,shipped,387.0,NOK,Verdal,7655,NO,1,2019,11,22
+Klippkungen,shipped,586.0,SEK,Lycksele,92132,SE,1,2020,1,25
+Klippkungen,shipped,586.0,SEK,Lycksele,92132,SE,1,2020,1,25
+Klippkungen,shipped,637.0,SEK,Göteborg,41523,SE,1,2019,11,26
+Klippkungen,shipped,287.0,NOK,Bodø,8011,NO,1,2019,11,16
+Klippkungen,shipped,247.0,SEK,Horndal,77498,SE,1,2019,11,17
+Klippkungen,shipped,331.0,SEK,Ingatorp,57031,SE,1,2019,11,17
+Klippkungen,shipped,386.0,SEK,Ingatorp,57031,SE,1,2020,1,7
+Klippkungen,shipped,386.0,NOK,Bosberg,7070,NO,1,2019,11,18
+Godisgruvan,shipped,575.0,SEK,Harplinge,30560,SE,1,2019,11,19
+Klippkungen,shipped,310.0,NOK,Torpo,3579,NO,1,2019,11,19
+Klippkungen,shipped,573.0,SEK,Trosa,61992,SE,1,2019,11,19
+Klippkungen,shipped,573.0,SEK,Trosa,61992,SE,1,2019,11,19
+Klippkungen,shipped,76.1,EUR,Vöyri,66640,FI,1,2020,1,17
+Klippkungen,shipped,773.0,SEK,Trosa,61992,SE,1,2020,1,26
+Klippkungen,shipped,773.0,SEK,Trosa,61992,SE,1,2020,1,26
+Klippkungen,shipped,645.0,SEK,Gärsnäs,27261,SE,1,2020,2,1
+Klippkungen,shipped,399.0,NOK,Grimstad,4885,NO,1,2019,11,20
+Klippkungen,shipped,705.0,SEK,Stockholm,11260,SE,2,2019,11,21
+Klippkungen,shipped,248.0,SEK,Tandsbyn,83499,SE,1,2019,11,21
+Klippkungen,shipped,404.0,NOK,Leinesfjord,8283,NO,1,2019,12,13
+Klippkungen,shipped,1836.0,SEK,Västra Frölunda,42135,SE,1,2019,11,22
+Klippkungen,shipped,970.9,SEK,Gävle,80424,SE,1,2019,11,23
+Klippkungen,shipped,385.0,NOK,Oppdal,7340,NO,1,2019,11,24
+Klippkungen,shipped,506.0,SEK,Östersund,83130,SE,1,2019,11,29
+Klippkungen,shipped,506.0,SEK,Östersund,83130,SE,1,2019,11,29
+Klippkungen,shipped,287.0,SEK,Göteborg,41455,SE,1,2019,11,26
+Klippkungen,shipped,178.0,SEK,Älmhult,34332,SE,1,2019,11,24
+Klippkungen,shipped,893.0,SEK,Alingsås,44195,SE,1,2020,1,15
+Klippkungen,shipped,312.0,NOK,Snertingdal,2838,NO,1,2019,11,25
+Klippkungen,shipped,881.0,SEK,Burseryd,33377,SE,1,2019,11,26
+Klippkungen,shipped,2295.0,SEK,Johannishus,37275,SE,1,2019,11,26
+Klippkungen,shipped,2295.0,SEK,Johannishus,37275,SE,1,2019,11,26
+Klippkungen,shipped,436.0,SEK,Valdemarsvik,61532,SE,1,2019,11,27
+Klippkungen,shipped,355.0,NOK,Figgjo,4332,NO,1,2019,11,27
+Klippkungen,ready,585.0,SEK,Bollnäs,82131,SE,1,2019,11,29
+Klippkungen,shipped,207.0,SEK,Piteå,94472,SE,1,2019,11,27
+Klippkungen,shipped,1424.0,SEK,Öxnevalla,51997,SE,1,2019,12,27
+Klippkungen,shipped,325.0,SEK,Angered,42443,SE,1,2019,12,2
+Klippkungen,shipped,415.0,SEK,Södertälje,15168,SE,1,2020,1,9
+Klippkungen,shipped,563.0,SEK,Hova,54831,SE,2,2019,12,27
+Klippkungen,shipped,371.0,NOK,Lyngstad,6493,NO,1,2019,12,2
+Klippkungen,shipped,227.0,SEK,Ånge,84133,SE,1,2019,12,4
+Klippkungen,shipped,344.0,NOK,Hegra,7520,NO,1,2019,12,3
+Klippkungen,shipped,337.0,SEK,Skövde,54165,SE,1,2019,12,3
+Klippkungen,shipped,545.0,SEK,Landvetter,43891,SE,1,2020,1,29
+Klippkungen,shipped,654.0,SEK,Vällingby,16247,SE,1,2020,2,3
+Klippkungen,shipped,358.0,NOK,Ellingsøy,6057,NO,1,2019,12,5
+Klippkungen,shipped,315.0,NOK,Ålesund,6006,NO,1,2019,12,6
+Klippkungen,shipped,403.0,NOK,Sauda,4200,NO,1,2019,12,8
+Klippkungen,shipped,574.0,SEK,Lindesberg,71193,SE,1,2019,12,10
+Klippkungen,shipped,724.0,SEK,Huddinge,14149,SE,1,2019,12,10
+Klippkungen,shipped,299.0,NOK,Evje,4735,NO,1,2019,12,12
+Klippkungen,shipped,1178.0,SEK,Umeå,90361,SE,1,2019,12,12
+Klippkungen,shipped,391.0,NOK,Stavanger,4029,NO,1,2019,12,14
+Klippkungen,shipped,1023.0,DKK,brønshøj,2700,DK,1,2019,12,14
+Klippkungen,shipped,910.0,SEK,Halmstad,30591,SE,1,2020,1,23
+Klippkungen,shipped,910.0,SEK,Halmstad,30591,SE,1,2020,1,23
+Klippkungen,ready,1905.3,SEK,Mariestad,54294,SE,1,2020,1,19
+Klippkungen,shipped,454.0,SEK,Kumla,69273,SE,1,2019,12,16
+Klippkungen,shipped,198.0,SEK,Ronneby,37236,SE,1,2019,12,16
+Klippkungen,shipped,346.0,SEK,Kumla,69273,SE,1,2020,1,30
+Klippkungen,shipped,374.0,NOK,Dolmøy,7252,NO,1,2019,12,16
+Klippkungen,shipped,168.0,SEK,Helsingborg,25247,SE,1,2019,12,17
+Klippkungen,shipped,246.0,SEK,Piteå,94472,SE,1,2019,12,18
+Klippkungen,ready,397.0,SEK,Ramnäs,73060,SE,1,2019,12,20
+Klippkungen,shipped,302.0,SEK,Grums,66434,SE,1,2020,1,10
+Klippkungen,shipped,217.0,SEK,Västerås,72592,SE,1,2019,12,18
+Klippkungen,shipped,744.0,SEK,Kristianstad,29138,SE,1,2019,12,19
+Klippkungen,ready,962.2,SEK,Vimmerby,59838,SE,1,2019,12,19
+Klippkungen,shipped,497.0,SEK,Askersund,69633,SE,1,2019,12,20
+Klippkungen,shipped,894.0,SEK,Saltsjöbaden,13342,SE,1,2019,12,25
+Klippkungen,shipped,445.0,SEK,Göteborg,41875,SE,1,2020,1,31
+Klippkungen,shipped,871.0,SEK,Vingåker,64331,SE,1,2019,12,28
+Klippkungen,shipped,506.0,SEK,Enköping,74532,SE,2,2019,12,29
+Klippkungen,shipped,306.0,SEK,utö,13056,SE,1,2020,1,6
+Klippkungen,shipped,565.0,SEK,Säffle,66133,SE,1,2020,1,26
+Klippkungen,shipped,486.0,SEK,Ramnäs,73060,SE,1,2020,1,16
+Klippkungen,shipped,840.0,SEK,Helsingborg,25460,SE,1,2020,1,13
+Klippkungen,shipped,2048.0,SEK,Ramvik,87016,SE,1,2020,1,6
+Klippkungen,shipped,516.0,SEK,Silverdalen,57751,SE,1,2020,2,6
+Klippkungen,shipped,475.0,SEK,Sölvesborg,29433,SE,1,2020,1,8
+Klippkungen,shipped,510.0,SEK,Sundsvall,85730,SE,1,2020,1,9
+Klippkungen,shipped,376.0,SEK,Vansbro,78633,SE,1,2020,1,14
+Klippkungen,shipped,509.0,SEK,Skurup,27431,SE,1,2020,1,24
+Klippkungen,shipped,999.0,SEK,Trångsviken,83596,SE,1,2020,1,11
+Klippkungen,shipped,644.0,SEK,Nossebro,46593,SE,1,2020,2,3
+Klippkungen,shipped,1101.0,SEK,Åsele,91931,SE,1,2020,1,12
+Klippkungen,shipped,625.0,SEK,Stockholm,11134,SE,2,2020,1,14
+Klippkungen,shipped,317.0,SEK,Orsa,79432,SE,1,2020,1,14
+Klippkungen,shipped,366.0,SEK,Ingatorp,57031,SE,1,2020,2,4
+Klippkungen,shipped,351.0,SEK,Hagfors,68332,SE,1,2020,1,16
+Klippkungen,shipped,542.4,NOK,Etne,5590,NO,1,2020,1,22
+Klippkungen,shipped,213.0,SEK,Vännäs,91132,SE,1,2020,1,18
+Klippkungen,shipped,754.0,SEK,Hägersten,12935,SE,1,2020,1,19
+Klippkungen,shipped,466.0,SEK,Gustavsberg,13440,SE,3,2020,1,27
+Klippkungen,shipped,326.0,SEK,Östersund,83176,SE,1,2020,1,20
+Klippkungen,shipped,393.9,SEK,Skoghall,66330,SE,1,2020,2,1
+Klippkungen,shipped,337.0,SEK,Fristad,51335,SE,1,2020,1,22
+Klippkungen,shipped,2919.0,SEK,Djurhamn,13973,SE,10,2020,1,22
+Klippkungen,shipped,179.14,EUR,Tampere,33340,FI,1,2020,1,22
+Klippkungen,shipped,179.14,EUR,Tampere,33340,FI,1,2020,1,22
+Klippkungen,shipped,367.0,SEK,Borlänge,78434,SE,1,2020,1,22
+Klippkungen,shipped,1723.0,SEK,Saltsjö-Boo,13240,SE,1,2020,1,25
+Klippkungen,shipped,1729.0,SEK,Östansjö,69493,SE,1,2020,1,23
+Klippkungen,shipped,500.0,SEK,Grästorp,46796,SE,1,2020,1,25
+Klippkungen,shipped,606.0,SEK,Jörn,93694,SE,1,2020,1,25
+Klippkungen,shipped,381.0,NOK,Bodø,8012,NO,1,2020,1,26
+Klippkungen,shipped,744.0,SEK,Gustavsberg,13440,SE,5,2020,2,5
+Klippkungen,shipped,327.0,SEK,Ulricehamn,52334,SE,2,2020,1,27
+Klippkungen,shipped,714.0,SEK,Sala,73330,SE,1,2020,1,28
+Klippkungen,shipped,347.0,SEK,Munkfors,68431,SE,1,2020,1,29
+Klippkungen,shipped,327.0,SEK,Sollentuna,19145,SE,2,2020,1,30
+Klippkungen,shipped,317.0,SEK,Svedala,23394,SE,1,2020,1,30
+Klippkungen,shipped,526.0,SEK,Våxtorp,31298,SE,1,2020,1,30
+Klippkungen,shipped,4312.0,SEK,Stockholm,11359,SE,1,2020,1,31
+Klippkungen,shipped,70.1,EUR,Vaasa,65350,FI,1,2020,1,31
+Klippkungen,shipped,1330.0,SEK,Västerås,72477,SE,1,2020,2,1
+Klippkungen,shipped,1330.0,SEK,Västerås,72477,SE,1,2020,2,1
+Klippkungen,shipped,198.0,SEK,Landvetter,43832,SE,1,2020,2,1
+Klippkungen,shipped,1742.0,SEK,KISTA,16474,SE,1,2020,2,3
+Klippkungen,shipped,423.0,SEK,Åmål,66230,SE,1,2020,2,4
+Klippkungen,shipped,536.0,SEK,Emmaboda,36130,SE,1,2020,2,4
+Klippkungen,shipped,317.0,SEK,Sävsjö,57632,SE,1,2020,2,5
+Klippkungen,shipped,311.0,SEK,Borlänge,78445,SE,1,2020,2,5
+Klippkungen,shipped,168.0,SEK,Ransta,73373,SE,1,2020,2,6
+Klippkungen,shipped,506.0,SEK,Sollentuna,19145,SE,2,2020,2,6
+Klippkungen,shipped,317.0,SEK,Älvsbyn,94233,SE,1,2020,2,6
+Klippkungen,shipped,347.0,SEK,Gävle,80264,SE,2,2020,2,6
+Klippkungen,shipped,168.0,SEK,Partille,43336,SE,1,2020,2,6
+Klippkungen,shipped,545.0,SEK,Uppsala,75320,SE,2,2020,2,7
+Klippkungen,shipped,437.0,SEK,Bjästa,89392,SE,1,2020,2,7
+Klippkungen,shipped,198.0,SEK,Värnamo,331 41,SE,1,2020,2,18
+Klippkungen,shipped,1043.0,SEK,Skokloster,74695,SE,1,2020,2,8
+Klippkungen,shipped,591.0,SEK,Norrtälje,76174,SE,1,2020,2,8
+Klippkungen,shipped,359.0,SEK,Hässleholm,28143,SE,1,2020,2,8
+Klippkungen,shipped,1280.01,NOK,Røst,8064,NO,1,2020,2,9
+Klippkungen,shipped,416.0,SEK,Sjöbo,27537,SE,1,2020,2,9
+Klippkungen,shipped,1450.0,SEK,Skokloster,746 96,SE,1,2020,2,10
+Klippkungen,shipped,923.0,SEK,Stockholm,11350,SE,1,2020,2,10
+Klippkungen,shipped,923.0,SEK,Stockholm,11350,SE,1,2020,2,10
+Klippkungen,shipped,554.0,SEK,Löddeköpinge,24650,SE,1,2020,2,10
+Klippkungen,shipped,646.0,SEK,Stockholm,113 33,SE,1,2020,2,11
+Klippkungen,shipped,454.0,SEK,Vittsjö,282 66,SE,1,2020,2,11
+Klippkungen,shipped,500.0,SEK,Floda,448 37,SE,1,2020,2,17
+Klippkungen,shipped,327.0,SEK,Vetlanda,574 35,SE,1,2020,2,14
+Klippkungen,shipped,327.0,SEK,Hofors,813 33,SE,1,2020,2,15
+Klippkungen,shipped,1497.0,SEK,Frändefors,462 96,SE,1,2020,2,15
+Klippkungen,shipped,565.0,SEK,Sorunda,148 97,SE,1,2020,2,15
+Klippkungen,shipped,198.0,SEK,Nordmaling,914 91,SE,1,2020,2,15
+Klippkungen,shipped,317.0,SEK,Umeå,905 87,SE,1,2020,2,15
+Klippkungen,shipped,347.0,SEK,Fellingsbro,732 73,SE,1,2020,2,15
+Klippkungen,shipped,574.0,SEK,Örsundsbro,749 62,SE,1,2020,2,15
+Klippkungen,shipped,367.0,SEK,Genarp,247 98,SE,1,2020,2,22
+Klippkungen,shipped,852.0,SEK,Liden,855 99,SE,1,2020,2,16
+Klippkungen,shipped,277.0,SEK,Fredriksdal,571 75,SE,1,2020,2,17
+Klippkungen,shipped,704.0,SEK,Västra Frölunda,421 35,SE,1,2020,2,19
+Klippkungen,shipped,456.0,SEK,Visby,621 53,SE,1,2020,2,17
+Klippkungen,shipped,654.0,SEK,Köping,731 95,SE,1,2020,2,18
+Klippkungen,shipped,654.0,SEK,Köping,731 95,SE,1,2020,2,18
+Klippkungen,shipped,844.99,NOK,Sortland,8402,NO,1,2020,2,18
+Klippkungen,shipped,51.0,EUR,Raahe,86400,FI,1,2020,2,18
+Klippkungen,shipped,6692.0,SEK,Stockholm,111 34,SE,4,2020,2,19
+Klippkungen,shipped,168.0,SEK,Saltsjö-Boo,132 41,SE,1,2020,2,19
+Klippkungen,shipped,437.0,SEK,Järfälla,177 52,SE,1,2020,2,22
+Klippkungen,shipped,496.0,SEK,Borlänge,784 68,SE,1,2020,2,20
+Klippkungen,shipped,4499.0,SEK,Edsvalla,664 93,SE,1,2020,2,21
+Klippkungen,shipped,1184.0,SEK,Kävlinge,244 31,SE,1,2020,2,20
+Klippkungen,shipped,545.0,SEK,Örsundsbro,749 62,SE,1,2020,2,20
+Klippkungen,shipped,341.0,SEK,Göteborg,418 71,SE,1,2020,2,21
+Klippkungen,shipped,306.0,SEK,Trelleborg,231 64,SE,1,2020,2,28
+Klippkungen,shipped,568.0,SEK,Storuman,923 32,SE,1,2020,2,21
+Klippkungen,shipped,530.0,SEK,Figeholm,572 95,SE,1,2020,2,22
+Klippkungen,shipped,530.0,SEK,Figeholm,572 95,SE,1,2020,2,22
+Klippkungen,shipped,377.0,SEK,Gävle,806 32,SE,1,2020,2,21
+Klippkungen,shipped,625.0,SEK,Katrineholm,641 91,SE,1,2020,2,23
+Klippkungen,shipped,642.0,SEK,Eslöv,241 33,SE,1,2020,2,27
+Klippkungen,shipped,1043.0,SEK,Härnösand,871 62,SE,1,2020,2,23
+Klippkungen,shipped,555.0,SEK,Höganäs,263 36,SE,1,2020,2,28
+Klippkungen,shipped,371.0,DKK,Frederikssund,3600,DK,1,2020,2,23
+Klippkungen,shipped,377.0,SEK,Mölndal,431 35,SE,1,2020,2,24
+Klippkungen,shipped,393.0,DKK,Hjørring,9800,DK,2,2020,2,24
+Klippkungen,shipped,424.0,SEK,Karlskoga,691 35,SE,1,2020,3,24
+Klippkungen,shipped,513.0,SEK,Kalmar,392 38,SE,1,2020,2,24
+Klippkungen,shipped,267.0,SEK,Uddevalla,451 92,SE,1,2020,3,3
+Klippkungen,shipped,2309.0,SEK,Svanesund,472 32,SE,1,2020,2,25
+Klippkungen,shipped,237.0,SEK,Sollefteå,881 31,SE,1,2020,2,28
+Klippkungen,shipped,666.0,SEK,Tun,530 30,SE,1,2020,2,26
+Klippkungen,shipped,574.0,SEK,Karlstad,656 34,SE,1,2020,2,27
+Klippkungen,shipped,574.0,SEK,Karlstad,656 34,SE,1,2020,2,27
+Klippkungen,shipped,1181.0,SEK,Tving,373 39,SE,1,2020,3,3
+Klippkungen,shipped,277.0,SEK,Alby,841 44,SE,1,2020,2,27
+Klippkungen,shipped,1084.0,SEK,Hässelby,165 74,SE,1,2020,2,28
+Klippkungen,shipped,307.0,SEK,Trosa,619 92,SE,1,2020,3,3
+Klippkungen,shipped,307.0,SEK,Stenungsund,444 47,SE,1,2020,2,29
+Klippkungen,shipped,297.0,SEK,Mariestad,542 32,SE,1,2020,2,29
+Klippkungen,shipped,341.8,SEK,Göteborg,417 13,SE,1,2020,3,1
+Klippkungen,shipped,438.0,SEK,Örby,511 92,SE,1,2020,3,2
+Klippkungen,shipped,516.0,SEK,Östra Ryd,614 96,SE,1,2020,3,2
+Klippkungen,shipped,297.0,SEK,Göteborg,411 30,SE,1,2020,3,3
+Klippkungen,shipped,993.45,SEK,Ronneby,372 73,SE,1,2020,3,3
+Klippkungen,shipped,267.0,SEK,Sandviken,811 30,SE,1,2020,3,3
+Klippkungen,shipped,505.0,SEK,Värmdö,139 56,SE,1,2020,3,3
+Klippkungen,shipped,587.5,SEK,Tumba,147 52,SE,1,2020,3,3
+Klippkungen,shipped,685.0,SEK,Säffle,661 33,SE,1,2020,3,3
+Klippkungen,shipped,730.0,SEK,Älvängen,446 32,SE,1,2020,3,4
+Klippkungen,shipped,419.0,SEK,Ullared,311 61,SE,1,2020,3,5
+Klippkungen,shipped,683.0,SEK,Nättraby,373 32,SE,1,2020,3,5
+Klippkungen,shipped,1036.0,SEK,Karlskoga,691 38,SE,1,2020,4,5
+Klippkungen,shipped,685.0,SEK,Filipstad,682 30,SE,1,2020,3,6
+Klippkungen,shipped,564.0,SEK,Åstorp,265 37,SE,1,2020,3,6
+Klippkungen,shipped,327.0,SEK,Tomelilla,273 30,SE,1,2020,3,7
+Klippkungen,shipped,1439.0,SEK,Orsa,794 92,SE,1,2020,3,19
+Klippkungen,shipped,1439.0,SEK,Orsa,794 92,SE,1,2020,3,19
+Klippkungen,shipped,1439.0,SEK,Orsa,794 92,SE,2,2020,3,19
+Klippkungen,shipped,466.0,SEK,Grödinge,147 92,SE,1,2020,3,17
+Klippkungen,shipped,715.0,SEK,Degerfors,693 31,SE,1,2020,3,8
+Klippkungen,shipped,511.0,DKK,København NV,2400,DK,1,2020,3,9
+Klippkungen,shipped,371.0,SEK,Bräcke,843 93,SE,1,2020,3,11
+Klippkungen,shipped,734.0,SEK,Hammerdal,833 48,SE,1,2020,3,10
+Klippkungen,shipped,336.0,SEK,Segeltorp,141 71,SE,1,2020,3,10
+Klippkungen,shipped,736.0,SEK,Korskrogen,827 72,SE,1,2020,3,15
+Klippkungen,shipped,725.0,SEK,Långsele,882 40,SE,1,2020,3,12
+Klippkungen,shipped,515.0,SEK,Dala-Husby,776 96,SE,1,2020,3,11
+Klippkungen,shipped,664.0,SEK,Stockholm,115 34,SE,1,2020,3,16
+Klippkungen,shipped,198.0,SEK,Stockholm,117 57,SE,1,2020,3,12
+Klippkungen,shipped,564.0,SEK,Strömsnäsbruk,287 32,SE,1,2020,3,16
+Klippkungen,shipped,582.0,SEK,Alafors,449 50,SE,1,2020,3,13
+Klippkungen,shipped,217.0,SEK,Ingatorp,570 31,SE,1,2020,3,19
+Klippkungen,shipped,476.0,SEK,Gullspång,547 92,SE,1,2020,3,13
+Klippkungen,shipped,306.0,SEK,Vinberg,311 99,SE,1,2020,3,19
+Klippkungen,shipped,1718.0,SEK,Upplands Väsby,194 57,SE,1,2020,3,13
+Klippkungen,shipped,576.0,SEK,Runhällen,744 93,SE,1,2020,3,18
+Klippkungen,shipped,1254.0,SEK,Kristianstad,291 43,SE,1,2020,3,14
+Klippkungen,shipped,446.0,SEK,Trelleborg,231 52,SE,1,2020,3,16
+Godisgruvan,shipped,447.0,SEK,Barsebäck,24657,SE,1,2020,3,15
+Klippkungen,shipped,643.0,SEK,Kinna,511 56,SE,1,2020,3,15
+Klippkungen,shipped,416.0,SEK,Sollebrunn,441 72,SE,1,2020,3,16
+Klippkungen,shipped,1181.91,SEK,Alingsås,441 32,SE,1,2020,3,16
+Klippkungen,shipped,287.0,SEK,Upplands Väsby,194 65,SE,1,2020,3,16
+Klippkungen,shipped,369.0,SEK,Svanesund,472 31,SE,1,2020,3,24
+Klippkungen,shipped,1104.99,NOK,Stavern,3294,NO,1,2020,3,17
+Klippkungen,shipped,1032.0,SEK,Uddevalla,451 71,SE,1,2020,3,21
+Klippkungen,shipped,366.0,SEK,Örsundsbro,749 63,SE,1,2020,3,17
+Klippkungen,shipped,963.0,SEK,Stenungsund,444 44,SE,1,2020,3,17
+Klippkungen,shipped,168.0,SEK,Borlänge,784 66,SE,1,2020,3,17
+Klippkungen,shipped,436.0,SEK,Tyringe,282 34,SE,1,2020,3,17
+Klippkungen,shipped,327.0,SEK,Kiruna,981 33,SE,1,2020,3,22
+Klippkungen,shipped,1234.7,SEK,Uppsala,754 39,SE,1,2020,3,18
+Klippkungen,shipped,634.0,SEK,Örebro,702 31,SE,1,2020,3,21
+Klippkungen,shipped,683.0,SEK,Ullared,311 60,SE,1,2020,3,18
+Klippkungen,shipped,516.0,SEK,Umeå,903 63,SE,1,2020,3,18
+Klippkungen,shipped,668.0,SEK,Gällivare,982 36,SE,1,2020,4,1
+Klippkungen,shipped,1266.0,SEK,Eskilstuna,632 32,SE,1,2020,3,19
+Klippkungen,shipped,466.0,SEK,Vällingby,162 71,SE,1,2020,3,19
+Klippkungen,shipped,505.0,SEK,Julita,643 96,SE,1,2020,3,20
+Klippkungen,shipped,505.0,SEK,Julita,643 96,SE,1,2020,3,20
+Klippkungen,shipped,600.0,SEK,Slite,624 46,SE,1,2020,3,21
+Klippkungen,shipped,345.0,SEK,Lindome,437 33,SE,1,2020,3,20
+Klippkungen,shipped,629.0,SEK,Kälarne,844 61,SE,1,2020,3,20
+Klippkungen,shipped,593.0,SEK,Vagnhärad,619 71,SE,1,2020,3,26
+Klippkungen,shipped,764.0,SEK,Ljung,524 96,SE,1,2020,3,21
+Klippkungen,shipped,416.0,SEK,Falkenberg,311 41,SE,1,2020,3,21
+Klippkungen,shipped,476.0,SEK,Åsele,919 91,SE,1,2020,3,21
+Klippkungen,shipped,665.0,SEK,Förslöv,269 72,SE,1,2020,3,22
+Klippkungen,shipped,860.0,SEK,Gunnebo,593 75,SE,1,2020,3,31
+Klippkungen,shipped,1398.0,SEK,Upplands Väsby,194 44,SE,1,2020,3,22
+Klippkungen,shipped,1398.0,SEK,Upplands Väsby,194 44,SE,1,2020,3,22
+Klippkungen,shipped,2583.9,SEK,Munka-Ljungby,266 92,SE,1,2020,3,21
+Klippkungen,shipped,367.0,SEK,Haparanda,953 31,SE,1,2020,3,24
+Klippkungen,shipped,616.0,SEK,Danderyd,182 50,SE,1,2020,3,22
+Klippkungen,shipped,506.0,SEK,Undrom,881 95,SE,1,2020,3,22
+Klippkungen,shipped,634.0,SEK,Norrtälje,761 31,SE,1,2020,3,23
+Klippkungen,shipped,564.0,SEK,Linköping,589 53,SE,1,2020,5,13
+Klippkungen,shipped,655.0,SEK,Åby,616 90,SE,1,2020,3,22
+Klippkungen,shipped,421.0,SEK,Stockholm,113 50,SE,1,2020,3,22
+Klippkungen,shipped,643.0,SEK,Vittsjö,282 66,SE,1,2020,3,23
+Klippkungen,shipped,1075.0,SEK,Trelleborg,231 36,SE,1,2020,3,27
+Klippkungen,shipped,405.0,SEK,Arvidsjaur,933 34,SE,1,2020,3,23
+Klippkungen,shipped,1333.0,SEK,Taberg,562 42,SE,1,2020,3,23
+Klippkungen,shipped,1180.0,SEK,Ludvika,771 90,SE,1,2020,3,27
+Klippkungen,shipped,306.0,SEK,Göteborg,415 55,SE,1,2020,3,24
+Klippkungen,shipped,603.0,SEK,Skövde,541 92,SE,1,2020,3,23
+Klippkungen,shipped,287.0,SEK,Finspång,612 42,SE,2,2020,3,23
+Klippkungen,shipped,523.0,SEK,Örnsköldsvik,891 61,SE,1,2020,3,29
+Klippkungen,shipped,914.0,SEK,Uppsala,755 91,SE,1,2020,3,25
+Klippkungen,shipped,1677.0,SEK,Oxelösund,613 32,SE,1,2020,3,25
+Klippkungen,shipped,530.0,DKK,Haslev,4690,DK,1,2020,3,24
+Klippkungen,shipped,535.0,SEK,Borlänge,784 40,SE,1,2020,3,24
+Klippkungen,shipped,211.0,DKK,Randers NØ,8930,DK,1,2020,3,24
+Klippkungen,shipped,521.0,DKK,Rønne,3700,DK,1,2020,3,24
+Klippkungen,shipped,534.0,SEK,Kolsva,731 12,SE,1,2020,3,25
+Klippkungen,shipped,912.0,SEK,Umeå,907 42,SE,1,2020,3,24
+Klippkungen,shipped,475.0,SEK,Kramfors,872 31,SE,1,2020,3,25
+Klippkungen,shipped,366.0,SEK,Trollhättan,461 91,SE,1,2020,3,26
+Klippkungen,shipped,366.0,SEK,Trollhättan,461 91,SE,1,2020,3,26
+Klippkungen,shipped,208.0,SEK,Norrhult,364 44,SE,1,2020,3,26
+Klippkungen,shipped,520.0,SEK,Bankeryd,564 31,SE,1,2020,3,31
+Klippkungen,shipped,399.0,SEK,Vega,136 58,SE,1,2020,3,26
+Klippkungen,shipped,3225.9,SEK,Ronneby,372 91,SE,1,2020,3,25
+Klippkungen,shipped,920.0,SEK,Ånge,841 92,SE,1,2020,3,25
+Klippkungen,shipped,556.0,SEK,Gideå,896 93,SE,1,2020,3,26
+Klippkungen,shipped,1143.0,SEK,Skelleftehamn,932 31,SE,1,2020,3,26
+Klippkungen,shipped,986.0,DKK,Svinninge,4520,DK,1,2020,3,26
+Klippkungen,shipped,615.0,SEK,Hemse,623 50,SE,1,2020,3,27
+Klippkungen,shipped,616.0,SEK,Järna,153 38,SE,1,2020,3,27
+Klippkungen,shipped,396.0,SEK,Slite,624 30,SE,1,2020,3,29
+Klippkungen,shipped,366.0,SEK,Karlskoga,691 42,SE,1,2020,3,27
+Klippkungen,shipped,1503.8,SEK,Täby,187 35,SE,1,2020,3,29
+Klippkungen,shipped,326.0,SEK,Ingelstad,355 71,SE,1,2020,3,28
+Klippkungen,shipped,587.0,DKK,Vejby,3210,DK,1,2020,3,27
+Klippkungen,shipped,459.0,SEK,Järlåsa,744 97,SE,1,2020,3,28
+Klippkungen,shipped,526.0,SEK,Harlösa,241 64,SE,1,2020,3,28
+Klippkungen,shipped,384.0,SEK,Bålsta,746 92,SE,1,2020,3,31
+Klippkungen,shipped,525.0,SEK,Tingsryd,362 30,SE,1,2020,3,28
+Klippkungen,shipped,639.0,DKK,Hvidovre,2650,DK,1,2020,3,28
+Klippkungen,shipped,1381.01,NOK,Oppdal,7340,NO,1,2020,3,28
+Klippkungen,shipped,267.0,SEK,Tidan,549 31,SE,1,2020,3,28
+Klippkungen,shipped,3118.9,SEK,Arboga,732 30,SE,1,2020,3,28
+Klippkungen,shipped,1072.0,DKK,Juelsminde,7130,DK,1,2020,3,28
+Klippkungen,shipped,238.0,SEK,Skultuna,726 30,SE,1,2020,3,29
+Klippkungen,shipped,592.0,SEK,Arvidsjaur,933 33,SE,1,2020,3,31
+Klippkungen,shipped,786.0,SEK,Skellefteå,931 91,SE,1,2020,3,29
+Klippkungen,shipped,1148.0,SEK,Vissefjärda,361 54,SE,1,2020,3,30
+Klippkungen,shipped,893.0,SEK,Varberg,432 92,SE,1,2020,3,29
+Klippkungen,shipped,675.0,SEK,Göteborg,418 75,SE,1,2020,3,29
+Klippkungen,shipped,475.0,SEK,Orsa,794 31,SE,1,2020,3,30
+Klippkungen,ready,814.0,SEK,Virserum,577 72,SE,1,2020,3,30
+Klippkungen,shipped,435.0,NOK,Nesodden,1459,NO,1,2020,4,2
+Klippkungen,shipped,558.0,SEK,Kisa,590 39,SE,1,2020,3,30
+Klippkungen,shipped,718.0,SEK,Trelleborg,231 32,SE,1,2020,3,31
+Klippkungen,shipped,396.0,SEK,Hallstavik,763 40,SE,1,2020,3,31
+Klippkungen,ready,76.23,EUR,Alavus,63600,FI,1,2020,3,31
+Klippkungen,shipped,636.8,SEK,Stockholm,115 34,SE,1,2020,4,1
+Klippkungen,shipped,257.0,SEK,Jönköping,553 21,SE,1,2020,3,31
+Klippkungen,shipped,955.0,SEK,Eslöv,241 35,SE,1,2020,3,31
+Klippkungen,shipped,390.0,SEK,Hunnebostrand,456 92,SE,1,2020,3,31
+Klippkungen,shipped,725.0,SEK,Karlstad,653 48,SE,1,2020,4,1
+Klippkungen,shipped,454.0,SEK,Malmberget,983 34,SE,1,2020,4,2
+Klippkungen,shipped,1151.0,SEK,Södertälje,152 49,SE,1,2020,4,2
+Klippkungen,shipped,655.0,SEK,Kållekärr,471 94,SE,1,2020,4,1
+Klippkungen,shipped,494.0,SEK,Västra Frölunda,421 35,SE,1,2020,4,5
+Klippkungen,shipped,1055.0,SEK,Nusnäs,792 77,SE,1,2020,4,3
+Klippkungen,shipped,2098.56,NOK,Kongsvinger,2209,NO,1,2020,4,2
+Godisgruvan,shipped,380.0,SEK,Öjersjö,43352,SE,1,2020,4,3
+Klippkungen,shipped,675.0,SEK,Löttorp,387 73,SE,1,2020,4,2
+Klippkungen,shipped,375.0,SEK,Klippan,264 93,SE,1,2020,4,3
+Klippkungen,shipped,635.0,SEK,Vollsjö,275 68,SE,1,2020,4,3
+Klippkungen,shipped,960.0,SEK,Örebro,703 74,SE,1,2020,4,3
+Klippkungen,shipped,632.0,SEK,Sandviken,811 36,SE,1,2020,4,4
+Klippkungen,shipped,659.0,SEK,Malmberget,983 34,SE,1,2020,4,3
+Klippkungen,shipped,168.0,SEK,Linköping,587 31,SE,1,2020,4,4
+Klippkungen,shipped,865.0,SEK,Ursviken,932 36,SE,1,2020,4,4
+Klippkungen,shipped,307.0,SEK,Köping,731 36,SE,1,2020,4,8
+Klippkungen,shipped,675.0,SEK,Sundsvall,857 30,SE,1,2020,4,5
+Klippkungen,shipped,535.0,DKK,Horsens,8700,DK,1,2020,4,5
+Klippkungen,shipped,484.0,SEK,Kolmården,618 33,SE,1,2020,4,7
+Klippkungen,shipped,1171.0,SEK,Transtrand,780 68,SE,1,2020,4,5
+Klippkungen,shipped,451.0,SEK,Gusum,615 72,SE,1,2020,4,5
+Klippkungen,shipped,1195.0,DKK,Thorsø,8881,DK,2,2020,4,6
+Klippkungen,shipped,457.0,SEK,Visby,621 40,SE,1,2020,4,6
+Klippkungen,shipped,585.0,SEK,Husum,896 32,SE,1,2020,4,7
+Klippkungen,shipped,267.0,SEK,Gränna,563 93,SE,1,2020,4,7
+Klippkungen,shipped,476.0,SEK,Göteborg,418 71,SE,1,2020,4,7
+Klippkungen,shipped,524.0,SEK,Stugun,844 96,SE,1,2020,4,12
+Klippkungen,shipped,524.0,SEK,Stugun,844 96,SE,1,2020,4,12
+Klippkungen,shipped,1318.0,SEK,Göteborg,417 64,SE,2,2020,4,18
+Klippkungen,shipped,168.0,SEK,Strängnäs,645 34,SE,1,2020,4,8
+Klippkungen,shipped,636.0,SEK,Hallstahammar,734 36,SE,1,2020,4,8
+Klippkungen,shipped,695.0,SEK,Sollerön,792 90,SE,1,2020,4,8
+Klippkungen,shipped,377.0,SEK,Ronneby,372 32,SE,1,2020,4,8
+Klippkungen,shipped,644.0,SEK,Valla,641 61,SE,1,2020,5,18
+Klippkungen,shipped,2294.0,SEK,Överlida,512 60,SE,1,2020,4,10
+Klippkungen,shipped,1014.0,SEK,Norrtälje,761 97,SE,1,2020,4,11
+Klippkungen,shipped,496.0,SEK,Norrtälje,761 97,SE,1,2020,4,19
+Klippkungen,shipped,499.0,DKK,Rødby,4970,DK,1,2020,4,11
+Klippkungen,shipped,356.0,SEK,Sågmyra,790 22,SE,1,2020,4,14
+Klippkungen,shipped,736.0,SEK,Göteborg,416 66,SE,1,2020,4,15
+Klippkungen,shipped,475.0,SEK,Ösmo,148 34,SE,1,2020,4,15
+Klippkungen,shipped,555.0,SEK,Stora Mellösa,715 92,SE,1,2020,4,22
+Klippkungen,shipped,267.0,SEK,Bodafors,571 61,SE,1,2020,4,19
+Klippkungen,shipped,558.0,NOK,Glesvær,5381,NO,1,2020,4,17
+Klippkungen,shipped,506.0,SEK,Junsele,880 37,SE,2,2020,4,17
+Klippkungen,shipped,406.0,SEK,Örnsköldsvik,891 35,SE,1,2020,4,17
+Klippkungen,shipped,1741.0,SEK,Falun,791 33,SE,1,2020,4,20
+Klippkungen,shipped,337.0,SEK,Västerås,725 91,SE,1,2020,4,18
+Klippkungen,shipped,337.0,SEK,Åkers Styckebruk,647 52,SE,1,2020,4,18
+Klippkungen,shipped,552.0,SEK,Ljusterö,184 97,SE,1,2020,4,19
+Klippkungen,shipped,556.0,SEK,Älmhult,343 32,SE,1,2020,4,19
+Klippkungen,shipped,1008.0,SEK,Vimmerby,598 93,SE,1,2020,4,20
+Klippkungen,shipped,605.0,SEK,Borlänge,784 68,SE,1,2020,4,20
+Klippkungen,shipped,679.0,SEK,Åkers Styckebruk,647 51,SE,1,2020,4,21
+Klippkungen,shipped,1517.0,NOK,Kråkerøy,1679,NO,1,2020,4,21
+Klippkungen,shipped,941.0,NOK,Flesberg,3620,NO,1,2020,4,22
+Klippkungen,shipped,834.0,SEK,Hälleforsnäs,648 30,SE,1,2020,4,22
+Klippkungen,shipped,282.0,SEK,Ljusne,826 75,SE,1,2020,4,22
+Klippkungen,shipped,1541.0,DKK,Vordingborg,4760,DK,2,2020,4,22
+Klippkungen,shipped,911.0,DKK,København S,2300,DK,1,2020,4,22
+Klippkungen,shipped,512.0,SEK,Fjärås,439 72,SE,1,2020,4,27
+Klippkungen,shipped,506.0,SEK,Arboga,732 32,SE,1,2020,4,26
+Klippkungen,shipped,704.0,SEK,Vittsjö,282 66,SE,1,2020,4,25
+Klippkungen,shipped,752.0,SEK,Västerås,722 45,SE,1,2020,4,29
+Klippkungen,shipped,530.0,SEK,Hoting,833 59,SE,1,2020,5,3
+Klippkungen,shipped,228.0,SEK,Mjölby,595 40,SE,1,2020,4,24
+Klippkungen,shipped,794.0,SEK,Stockholm,107 87,SE,5,2020,4,24
+Klippkungen,shipped,2166.0,NOK,Brumunddal,2385,NO,1,2020,4,25
+Klippkungen,shipped,168.0,SEK,Tun,530 30,SE,1,2020,4,25
+Klippkungen,shipped,1265.0,SEK,Skövde,541 63,SE,1,2020,4,26
+Klippkungen,shipped,1598.0,SEK,Linköping,589 29,SE,1,2020,4,26
+Klippkungen,shipped,584.0,SEK,Umeå,906 52,SE,1,2020,5,4
+Klippkungen,shipped,253.0,SEK,Malmö,213 61,SE,1,2020,4,27
+Klippkungen,shipped,168.0,SEK,Borlänge,784 66,SE,1,2020,4,27
+Klippkungen,shipped,207.0,SEK,Barsebäck,246 57,SE,1,2020,4,27
+Klippkungen,shipped,366.0,SEK,Ruda,570 76,SE,1,2020,4,27
+Klippkungen,shipped,262.0,SEK,Ljusterö,184 95,SE,1,2020,5,6
+Klippkungen,shipped,197.0,SEK,Tumba,147 55,SE,1,2020,4,28
+Klippkungen,shipped,427.0,SEK,Åtorp,693 70,SE,1,2020,5,6
+Klippkungen,shipped,537.0,SEK,Skogås,142 35,SE,1,2020,4,29
+Klippkungen,shipped,246.0,SEK,Vagnhärad,619 71,SE,1,2020,4,29
+Klippkungen,shipped,533.0,SEK,Trensum,374 96,SE,1,2020,5,15
+Klippkungen,shipped,527.0,SEK,Grängesberg,772 31,SE,1,2020,4,30
+Klippkungen,shipped,228.0,SEK,Norrköping,602 13,SE,1,2020,5,4
+Klippkungen,shipped,675.0,SEK,Sunne,686 33,SE,1,2020,4,29
+Klippkungen,shipped,675.0,SEK,Sunne,686 33,SE,1,2020,4,29
+Klippkungen,shipped,616.0,SEK,Bromma,168 32,SE,1,2020,4,30
+Klippkungen,shipped,981.0,SEK,Oxelösund,613 30,SE,1,2020,5,1
+Klippkungen,shipped,1297.0,DKK,København S,2300,DK,1,2020,5,1
+Klippkungen,shipped,396.0,SEK,Älvdalen,796 91,SE,1,2020,5,1
+Klippkungen,shipped,277.0,SEK,Mörrum,375 30,SE,1,2020,5,1
+Klippkungen,shipped,228.0,SEK,Husum,896 31,SE,1,2020,5,2
+Klippkungen,shipped,906.0,SEK,Överkalix,956 32,SE,1,2020,5,2
+Klippkungen,shipped,1067.98,NOK,Sortland,8402,NO,1,2020,5,3
+Klippkungen,shipped,508.9,SEK,Tived,695 96,SE,1,2020,5,3
+Klippkungen,shipped,503.0,SEK,Göteborg,415 14,SE,1,2020,5,3
+Klippkungen,shipped,416.0,SEK,Västervik,593 37,SE,1,2020,5,4
+Klippkungen,shipped,1008.9,SEK,Nacka,131 31,SE,1,2020,5,4
+Klippkungen,shipped,1008.9,SEK,Nacka,131 31,SE,1,2020,5,4
+Klippkungen,shipped,535.0,SEK,Stenhamra,179 61,SE,1,2020,5,4
+Klippkungen,shipped,1004.0,SEK,Hallstahammar,734 40,SE,1,2020,5,4
+Klippkungen,shipped,178.0,SEK,Eskilstuna,635 19,SE,1,2020,5,5
+Klippkungen,shipped,455.0,SEK,Hamrångefjärden,817 93,SE,1,2020,5,13
+Klippkungen,shipped,347.0,SEK,Olofström,293 91,SE,1,2020,5,5
+Klippkungen,shipped,875.0,SEK,Eskilstuna,632 29,SE,1,2020,5,5
+Klippkungen,shipped,59.91,EUR,Porvoo,06830,FI,1,2020,5,5
+Klippkungen,shipped,412.8,SEK,Holsljunga,512 64,SE,1,2020,5,6
+Klippkungen,shipped,217.0,SEK,Halmstad,302 51,SE,1,2020,5,18
+Klippkungen,shipped,1522.0,SEK,Trångsviken,835 96,SE,1,2020,5,6
+Klippkungen,shipped,915.0,SEK,Saltsjö-Boo,132 30,SE,1,2020,5,6
+Klippkungen,shipped,406.0,SEK,Katrineholm,641 31,SE,1,2020,5,7
+Klippkungen,shipped,1246.97,NOK,Brumunddal,2385,NO,1,2020,5,7
+Klippkungen,shipped,168.0,SEK,Deje,669 31,SE,1,2020,5,7
+Klippkungen,shipped,886.0,DKK,Dianalund,4293,DK,2,2020,5,7
+Klippkungen,shipped,379.0,SEK,Klippan,264 94,SE,1,2020,5,7
+Klippkungen,shipped,513.7,SEK,Ellös,474 93,SE,1,2020,5,8
+Klippkungen,shipped,353.0,SEK,Västra Frölunda,426 51,SE,1,2020,5,8
+Klippkungen,shipped,346.0,SEK,Sigtuna,193 36,SE,1,2020,5,8
+Klippkungen,ready,595.0,SEK,Mariestad,542 94,SE,1,2020,5,8
+Klippkungen,shipped,317.0,SEK,Landvetter,438 39,SE,1,2020,5,9
+Klippkungen,shipped,148.0,SEK,Hofors,813 31,SE,1,2020,5,18
+Klippkungen,shipped,377.0,SEK,Sundsvall,857 30,SE,1,2020,5,9
+Klippkungen,shipped,327.0,SEK,Sollentuna,192 75,SE,1,2020,5,9
+Klippkungen,shipped,446.0,SEK,Sollefteå,881 91,SE,1,2020,5,9
+Klippkungen,shipped,1088.0,SEK,Kungsbacka,434 99,SE,1,2020,5,10
+Klippkungen,shipped,645.0,SEK,Gävle,804 24,SE,1,2020,5,10
+Klippkungen,shipped,496.0,SEK,Falkenberg,311 42,SE,1,2020,5,10
+Klippkungen,shipped,496.0,SEK,Falkenberg,311 42,SE,1,2020,5,10
+Klippkungen,shipped,1461.0,SEK,Gällivare,982 31,SE,2,2020,5,14
+Klippkungen,shipped,736.0,DKK,Haslev,4690,DK,1,2020,5,11
+Klippkungen,shipped,579.0,SEK,Luleå,976 33,SE,1,2020,5,12
+Klippkungen,shipped,769.0,DKK,Spøttrup,7860,DK,1,2020,5,12
+Klippkungen,shipped,406.0,SEK,Lundsbrunn,533 92,SE,1,2020,5,12
+Klippkungen,shipped,435.0,SEK,Falköping,521 37,SE,1,2020,5,12
+Klippkungen,shipped,227.0,SEK,Västervik,593 41,SE,1,2020,5,18
+Klippkungen,shipped,246.0,SEK,Boden,961 32,SE,1,2020,5,18
+Klippkungen,shipped,659.0,SEK,Munkfors,684 92,SE,1,2020,5,21
+Klippkungen,shipped,534.0,SEK,Gusum,615 71,SE,1,2020,5,13
+Klippkungen,shipped,1003.0,NOK,Uthaug,7142,NO,1,2020,5,14
+Klippkungen,shipped,769.0,SEK,Älvdalen,796 90,SE,1,2020,5,16
+Klippkungen,shipped,566.0,SEK,Gällö,843 94,SE,1,2020,5,13
+Klippkungen,shipped,540.0,SEK,Torsby,685 33,SE,1,2020,5,14
+Klippkungen,shipped,499.0,SEK,Klippan,264 94,SE,1,2020,5,18
+Klippkungen,ready,2066.0,SEK,Värmdö,139 53,SE,1,2020,5,14
+Klippkungen,shipped,714.0,SEK,Överhörnäs,894 93,SE,1,2020,5,15
+Klippkungen,shipped,570.0,SEK,Bjuråker,824 78,SE,1,2020,5,14
+Klippkungen,shipped,148.0,SEK,Hagfors,683 32,SE,1,2020,5,18
+Klippkungen,shipped,321.0,SEK,Skurup,274 31,SE,1,2020,5,18
+Klippkungen,shipped,5270.0,SEK,Partille,433 48,SE,1,2020,5,15
+Klippkungen,shipped,5270.0,SEK,Partille,433 48,SE,1,2020,5,15
+Klippkungen,shipped,5270.0,SEK,Partille,433 48,SE,1,2020,5,15
+Klippkungen,shipped,619.0,SEK,Arjeplog,938 32,SE,1,2020,5,15
+Klippkungen,shipped,527.0,SEK,Eskilstuna,635 13,SE,1,2020,5,15
+Klippkungen,shipped,813.0,SEK,Malmö,212 50,SE,1,2020,5,31
+Klippkungen,shipped,645.0,SEK,Mölnlycke,435 32,SE,1,2020,5,15
+Klippkungen,shipped,148.0,SEK,Uppsala,752 21,SE,1,2020,5,18
+Klippkungen,shipped,1034.0,SEK,Matfors,864 31,SE,1,2020,5,16
+Klippkungen,shipped,535.0,SEK,Sölvesborg,294 95,SE,1,2020,5,21
+Klippkungen,shipped,168.0,SEK,Västerås,724 80,SE,1,2020,5,16
+Klippkungen,shipped,602.0,DKK,Rødekro,6230,DK,1,2020,5,16
+Klippkungen,shipped,585.0,SEK,Norrtälje,761 31,SE,1,2020,5,18
+Klippkungen,shipped,463.0,SEK,Tibro,543 37,SE,1,2020,5,18
+Klippkungen,shipped,574.0,SEK,Arjeplog,938 31,SE,1,2020,5,17
+Klippkungen,shipped,207.0,SEK,Vikmanshyttan,776 70,SE,1,2020,5,18
+Klippkungen,shipped,446.0,SEK,Vimmerby,598 38,SE,1,2020,5,18
+Klippkungen,shipped,198.0,DKK,Kokkedal,2980,DK,1,2020,5,18
+Klippkungen,shipped,376.0,SEK,Katrineholm,641 36,SE,1,2020,5,18
+Klippkungen,shipped,376.0,SEK,Katrineholm,641 36,SE,1,2020,5,18
+Klippkungen,shipped,420.0,SEK,Vissefjärda,361 54,SE,1,2020,5,18
+Klippkungen,shipped,442.0,SEK,Göteborg,418 71,SE,1,2020,5,18
+Klippkungen,shipped,337.0,SEK,Tierp,815 44,SE,1,2020,5,18
+Klippkungen,shipped,177.0,SEK,Uppsala,755 50,SE,1,2020,5,18
+Klippkungen,shipped,322.0,SEK,Ludvika,771 92,SE,1,2020,5,21
+Klippkungen,shipped,296.0,SEK,Bureå,932 52,SE,1,2020,5,18
+Klippkungen,shipped,148.0,SEK,Enköping,749 42,SE,1,2020,5,18
+Klippkungen,shipped,207.0,SEK,Säffle,661 93,SE,1,2020,5,18
+Klippkungen,ready,907.0,SEK,Hova,548 32,SE,1,2020,5,21
+Klippkungen,shipped,561.91,SEK,Hisings Backa,422 03,SE,1,2020,5,18
+Klippkungen,shipped,554.0,SEK,Sölvesborg,294 93,SE,1,2020,5,19
+Klippkungen,ready,642.0,SEK,Vällingby,162 53,SE,1,2020,5,21
+Klippkungen,shipped,1054.0,SEK,Linköping,582 55,SE,1,2020,6,1
+Klippkungen,shipped,338.0,SEK,Rönneshytta,694 97,SE,1,2020,5,19
+Klippkungen,shipped,943.0,SEK,Hässelby,165 74,SE,2,2020,5,24
+Klippkungen,shipped,802.0,SEK,Göteborg,412 65,SE,1,2020,5,19
+Klippkungen,shipped,294.0,SEK,Alingsås,441 32,SE,1,2020,5,20
+Klippkungen,shipped,2134.9,SEK,Vallentuna,186 93,SE,1,2020,5,20
+Klippkungen,shipped,426.0,SEK,Örnsköldsvik,891 35,SE,1,2020,5,20
+Klippkungen,shipped,335.0,SEK,Piteå,944 72,SE,1,2020,5,20
+Klippkungen,shipped,987.0,SEK,Linköping,589 21,SE,1,2020,5,20
+Klippkungen,shipped,376.0,SEK,Perstorp,284 32,SE,1,2020,5,24
+Klippkungen,shipped,168.0,SEK,Skene,511 61,SE,1,2020,5,20
+Klippkungen,shipped,387.0,SEK,Ludvika,771 34,SE,1,2020,5,20
+Klippkungen,shipped,1193.0,SEK,Oskarshamn,57293,SE,1,2020,5,20
+Klippkungen,shipped,1241.0,SEK,Hudiksvall,824 56,SE,1,2020,5,26
+Klippkungen,shipped,256.0,SEK,Brunflo,834 97,SE,1,2020,5,21
+Klippkungen,shipped,848.0,SEK,Ludvika,771 52,SE,1,2020,5,21
+Klippkungen,shipped,365.0,SEK,Glumslöv,261 62,SE,1,2020,5,21
+Klippkungen,shipped,227.0,SEK,Torsåker,813 94,SE,1,2020,5,21
+Klippkungen,shipped,407.0,SEK,Harlösa,241 64,SE,1,2020,5,26
+Klippkungen,shipped,839.0,SEK,Svenstavik,845 31,SE,1,2020,5,21
+Klippkungen,shipped,839.0,SEK,Svenstavik,845 31,SE,1,2020,5,21
+Klippkungen,shipped,347.0,SEK,Söderköping,614 92,SE,1,2020,5,22
+Klippkungen,shipped,1435.0,SEK,Hudiksvall,824 43,SE,1,2020,5,22
+Klippkungen,shipped,1435.0,SEK,Hudiksvall,824 43,SE,1,2020,5,22
+Klippkungen,shipped,213.0,SEK,Sollebrunn,441 74,SE,1,2020,5,25
+Klippkungen,shipped,371.0,SEK,Bollnäs,821 34,SE,1,2020,5,22
+Klippkungen,shipped,956.0,SEK,Vällingby,162 66,SE,1,2020,5,23
+Klippkungen,shipped,956.0,SEK,Vällingby,162 66,SE,1,2020,5,23
+Klippkungen,shipped,1369.8,SEK,Brastad,454 30,SE,1,2020,5,23
+Klippkungen,shipped,347.0,SEK,Arboga,732 96,SE,1,2020,5,23
+Klippkungen,shipped,642.0,SEK,Stugun,844 95,SE,1,2020,5,30
+Klippkungen,shipped,495.0,SEK,Saltsjö-Boo,132 30,SE,1,2020,5,24
+Klippkungen,shipped,2078.0,SEK,Hestra,335 72,SE,1,2020,5,24
+Klippkungen,shipped,473.0,DKK,Rude,4243,DK,1,2020,5,24
+Klippkungen,shipped,545.0,SEK,Gävle,805 96,SE,1,2020,5,24
+Klippkungen,shipped,574.0,SEK,Henån,473 93,SE,1,2020,5,24
+Klippkungen,shipped,448.0,SEK,Uppsala,753 16,SE,1,2020,5,24
+Klippkungen,shipped,456.0,NOK,Koppang,2480,NO,1,2020,5,25
+Klippkungen,shipped,483.0,DKK,Grenaa,8500,DK,1,2020,5,25
+Klippkungen,shipped,629.8,SEK,Valdemarsvik,615 92,SE,1,2020,5,25
+Klippkungen,shipped,495.0,SEK,Älvsbyn,942 33,SE,1,2020,5,26
+Klippkungen,shipped,1093.0,SEK,Sommen,573 61,SE,1,2020,5,26
+Klippkungen,shipped,1093.0,SEK,Sommen,573 61,SE,1,2020,5,26
+Klippkungen,shipped,198.0,SEK,Bonässund,891 78,SE,1,2020,5,26
+Klippkungen,shipped,426.0,SEK,Helsingborg,254 49,SE,1,2020,5,26
+Klippkungen,shipped,377.0,SEK,Vingåker,643 93,SE,1,2020,5,26
+Klippkungen,shipped,1091.0,SEK,Allerum,254 76,SE,2,2020,5,26
+Klippkungen,shipped,1091.0,SEK,Allerum,254 76,SE,1,2020,5,26
+Klippkungen,shipped,745.0,SEK,Ludvika,771 90,SE,1,2020,5,27
+Klippkungen,shipped,663.0,SEK,Hoting,833 59,SE,1,2020,6,15
+Klippkungen,shipped,762.0,SEK,Bjuråker,824 78,SE,1,2020,5,28
+Klippkungen,shipped,416.0,SEK,Halmstad,302 53,SE,1,2020,5,29
+Klippkungen,shipped,615.0,SEK,Mellerud,464 66,SE,1,2020,5,29
+Klippkungen,shipped,1055.0,SEK,Stockholm,115 34,SE,1,2020,6,2
+Klippkungen,shipped,1055.0,SEK,Stockholm,115 34,SE,1,2020,6,2
+Klippkungen,shipped,634.0,SEK,Nyköping,611 55,SE,1,2020,5,30
+Klippkungen,shipped,634.0,SEK,Nyköping,611 55,SE,1,2020,5,30
+Klippkungen,shipped,536.0,SEK,Koler,942 03,SE,1,2020,6,7
+Klippkungen,shipped,297.0,SEK,Öjersjö,433 51,SE,1,2020,5,30
+Klippkungen,shipped,456.0,SEK,Örebro,703 44,SE,1,2020,5,30
+Klippkungen,shipped,2231.0,SEK,Hällefors,712 30,SE,1,2020,5,31
+Klippkungen,shipped,496.0,SEK,Finspång,612 36,SE,1,2020,5,31
+Klippkungen,shipped,544.0,SEK,Sundbyberg,172 41,SE,1,2020,6,4
+Klippkungen,shipped,640.0,DKK,Grenaa,8500,DK,1,2020,5,31
+Klippkungen,shipped,599.0,SEK,Rottne,363 30,SE,1,2020,6,1
+Klippkungen,shipped,474.0,SEK,Julita,643 96,SE,1,2020,6,1
+Klippkungen,shipped,1316.0,SEK,Norrtälje,761 63,SE,1,2020,6,1
+Klippkungen,shipped,1316.0,SEK,Norrtälje,761 63,SE,1,2020,6,1
+Klippkungen,shipped,1371.0,SEK,Skillingaryd,568 30,SE,1,2020,6,2
+Klippkungen,shipped,445.0,SEK,Motala,591 70,SE,1,2020,6,2
+Klippkungen,shipped,357.0,SEK,Skelleftehamn,932 31,SE,1,2020,6,3
+Klippkungen,shipped,228.0,SEK,Oskarshamn,572 42,SE,1,2020,6,3
+Klippkungen,shipped,414.0,SEK,Genarp,247 98,SE,1,2020,6,3
+Klippkungen,shipped,575.0,SEK,Ramnäs,730 60,SE,1,2020,6,3
+Klippkungen,shipped,833.0,SEK,Huddinge,141 49,SE,1,2020,6,3
+Klippkungen,shipped,794.0,DKK,Kastrup,2770,DK,1,2020,6,4
+Klippkungen,shipped,930.0,SEK,Skellefteå,931 40,SE,1,2020,6,4
+Klippkungen,shipped,1557.8,SEK,Kisa,590 39,SE,1,2020,6,5
+Klippkungen,shipped,584.0,SEK,Grums,664 34,SE,1,2020,6,6
+Klippkungen,shipped,584.0,SEK,Grums,664 34,SE,1,2020,6,6
+Klippkungen,shipped,762.0,SEK,Charlottenberg,67331,SE,1,2020,6,6
+Klippkungen,shipped,366.0,SEK,Bromma,168 32,SE,1,2020,8,17
+Klippkungen,shipped,664.0,SEK,Bjärnum,282 65,SE,1,2020,6,7
+Klippkungen,shipped,951.0,SEK,Gunnarskog,670 35,SE,2,2020,6,8
+Klippkungen,shipped,1320.0,NOK,Trondheim,7048,NO,1,2020,6,14
+Klippkungen,shipped,628.0,DKK,Nakskov,4900,DK,1,2020,6,9
+Klippkungen,shipped,4739.9,SEK,Väddö,764 92,SE,1,2020,6,11
+Klippkungen,shipped,4739.9,SEK,Väddö,764 92,SE,1,2020,6,11
+Klippkungen,shipped,340.0,DKK,Grenaa,8500,DK,1,2020,6,10
+Klippkungen,shipped,580.0,DKK,Hals,9370,DK,1,2020,6,10
+Klippkungen,shipped,510.0,SEK,Älvdalen,796 91,SE,1,2020,6,11
+Klippkungen,shipped,1752.0,SEK,Österbybruk,748 91,SE,1,2020,6,13
+Klippkungen,shipped,287.0,SEK,Norrtälje,761 74,SE,1,2020,6,11
+Klippkungen,shipped,190.0,SEK,Åkersberga,184 94,SE,1,2020,6,12
+Klippkungen,shipped,1768.0,SEK,Norrsundet,817 30,SE,1,2020,6,14
+Klippkungen,shipped,415.0,SEK,Sundbyberg,172 72,SE,1,2020,6,12
+Klippkungen,shipped,894.0,SEK,Korskrogen,827 72,SE,1,2020,6,15
+Klippkungen,shipped,566.0,SEK,Onsala,439 33,SE,1,2020,6,13
+Klippkungen,shipped,566.0,SEK,Onsala,439 33,SE,1,2020,6,13
+Klippkungen,shipped,804.0,SEK,Enviken,790 26,SE,1,2020,6,13
+Klippkungen,shipped,636.0,SEK,Västra Frölunda,421 45,SE,1,2020,6,13
+Klippkungen,shipped,400.9,SEK,Ronneby,372 32,SE,1,2020,6,13
+Klippkungen,shipped,228.0,SEK,Lerum,443 31,SE,1,2020,6,21
+Klippkungen,shipped,655.0,SEK,Västra Frölunda,421 35,SE,1,2020,7,2
+Klippkungen,shipped,2048.98,NOK,Træna,8770,NO,1,2020,6,15
+Klippkungen,shipped,726.0,SEK,Vedum,534 61,SE,1,2020,6,15
+Klippkungen,shipped,525.0,DKK,Hammel,8450,DK,1,2020,6,16
+Klippkungen,ready,2920.0,SEK,Vissefjärda,361 96,SE,1,2020,6,16
+Klippkungen,ready,2920.0,SEK,Vissefjärda,361 96,SE,1,2020,6,16
+Klippkungen,shipped,228.0,SEK,Säffle,661 32,SE,1,2020,6,17
+Klippkungen,shipped,198.0,SEK,Saltsjö-Boo,132 41,SE,1,2020,6,17
+Klippkungen,shipped,779.0,SEK,Gislaved,332 31,SE,1,2020,6,17
+Klippkungen,shipped,514.0,SEK,Eslöv,241 30,SE,1,2020,6,18
+Klippkungen,shipped,675.0,SEK,Trensum,374 96,SE,1,2020,6,18
+Klippkungen,shipped,347.0,SEK,Hässleholm,281 32,SE,2,2020,6,18
+Klippkungen,shipped,168.0,SEK,Strängnäs,645 91,SE,1,2020,6,18
+Klippkungen,shipped,517.0,NOK,Egersund,4373,NO,1,2020,6,20
+Klippkungen,shipped,759.0,NOK,Kråkerøy,1679,NO,1,2020,6,20
+Klippkungen,shipped,715.0,SEK,Västerås,72592,SE,1,2020,6,20
+Klippkungen,shipped,934.0,SEK,Jönköping,555 94,SE,1,2020,6,20
+Klippkungen,shipped,934.0,SEK,Jönköping,555 94,SE,1,2020,6,20
+Klippkungen,shipped,911.0,NOK,Snertingdal,2838,NO,3,2020,6,21
+Klippkungen,shipped,545.0,SEK,utö,130 56,SE,1,2020,6,21
+Klippkungen,shipped,646.3,NOK,Kristiansand S,4633,NO,1,2020,6,21
+Klippkungen,shipped,335.0,SEK,Vinslöv,288 34,SE,1,2020,6,21
+Klippkungen,shipped,620.0,SEK,Kungsängen,196 34,SE,1,2020,6,21
+Klippkungen,ready,522.0,SEK,Trelleborg,231 63,SE,1,2020,6,22
+Klippkungen,shipped,31.85,EUR,Lohja,08700,FI,1,2020,6,22
+Klippkungen,ready,967.0,SEK,Möja,130 43,SE,1,2020,6,22
+Klippkungen,shipped,426.0,SEK,Sollentuna,191 64,SE,1,2020,6,29
+Klippkungen,shipped,377.0,SEK,Laholm,312 32,SE,1,2020,6,24
+Klippkungen,shipped,604.0,SEK,Orsa,794 31,SE,1,2020,6,28
+Klippkungen,shipped,332.0,SEK,Huskvarna,561 36,SE,1,2020,6,25
+Klippkungen,shipped,1015.04,NOK,Alsvåg,8432,NO,1,2020,6,24
+Klippkungen,shipped,475.0,SEK,Skutskär,814 40,SE,1,2020,6,24
+Klippkungen,shipped,4390.0,SEK,Malmö,215 32,SE,1,2020,6,24
+Klippkungen,shipped,853.0,SEK,Osby,283 34,SE,1,2020,6,29
+Klippkungen,shipped,868.98,NOK,Oslo,1063,NO,1,2020,6,25
+Klippkungen,shipped,584.0,SEK,Ljungby,341 41,SE,1,2020,6,28
+Klippkungen,shipped,1406.8,SEK,Älvsbyn,94293,SE,1,2020,6,25
+Klippkungen,shipped,491.0,SEK,Forsheda,331 71,SE,1,2020,7,1
+Klippkungen,shipped,2047.0,SEK,Bollnäs,821 50,SE,1,2020,6,27
+Klippkungen,shipped,317.0,SEK,Glumslöv,261 62,SE,1,2020,6,29
+Klippkungen,shipped,576.0,SEK,Kvidinge,265 71,SE,1,2020,6,28
+Klippkungen,shipped,1538.0,SEK,Unnaryd,31451,SE,1,2020,7,1
+Klippkungen,shipped,1024.0,SEK,Hällefors,712 91,SE,1,2020,6,28
+Klippkungen,shipped,1262.01,NOK,Gol,3550,NO,1,2020,6,28
+Klippkungen,shipped,478.0,SEK,Järfälla,175 46,SE,1,2020,6,29
+Klippkungen,shipped,478.0,SEK,Järfälla,175 46,SE,1,2020,6,29
+Klippkungen,shipped,986.0,SEK,Gusum,615 72,SE,1,2020,6,29
+Klippkungen,shipped,476.0,SEK,Skelleftehamn,932 32,SE,1,2020,6,30
+Klippkungen,shipped,233.0,SEK,Dalstorp,514 60,SE,1,2020,6,29
+Klippkungen,shipped,753.0,SEK,Köping,731 95,SE,1,2020,6,30
+Klippkungen,shipped,514.0,SEK,Ängelholm,262 37,SE,1,2020,6,30
+Klippkungen,shipped,514.0,SEK,Ängelholm,262 37,SE,1,2020,6,30
+Klippkungen,shipped,546.0,SEK,Risögrund,952 70,SE,1,2020,6,30
+Klippkungen,shipped,386.0,SEK,Åtvidaberg,597 96,SE,1,2020,6,30
+Klippkungen,shipped,235.0,SEK,Lidköping,531 38,SE,1,2020,7,1
+Klippkungen,shipped,257.0,SEK,Skruv,365 94,SE,1,2020,7,6
+Klippkungen,shipped,753.0,SEK,Ekerö,178 90,SE,1,2020,7,1
+Klippkungen,shipped,728.0,SEK,Genevad,312 40,SE,1,2020,7,1
+Klippkungen,shipped,267.0,SEK,Sörberge,861 43,SE,1,2020,7,1
+Klippkungen,shipped,316.0,SEK,Getinge,305 75,SE,1,2020,7,2
+Klippkungen,shipped,618.0,SEK,Falkenberg,311 74,SE,1,2020,7,2
+Klippkungen,shipped,287.0,SEK,Junsele,880 37,SE,2,2020,7,2
+Klippkungen,shipped,2168.0,NOK,Arendal,4844,NO,1,2020,7,2
+Klippkungen,shipped,382.0,SEK,Bjurholm,916 93,SE,1,2020,7,7
+Klippkungen,shipped,628.0,SEK,Vallentuna,186 91,SE,1,2020,7,3
+Klippkungen,shipped,1609.26,SEK,Asarum,374 91,SE,1,2020,7,3
+Klippkungen,shipped,1031.01,NOK,Hunndalen,2827,NO,1,2020,7,3
+Klippkungen,shipped,1861.0,SEK,Kode,442 96,SE,1,2020,7,6
+Klippkungen,shipped,385.0,SEK,Gävle,806 48,SE,1,2020,7,8
+Klippkungen,shipped,535.0,SEK,Helsingborg,256 61,SE,1,2020,7,4
+Klippkungen,shipped,337.0,SEK,Norrtälje,761 97,SE,1,2020,7,4
+Klippkungen,shipped,690.0,SEK,Ösmo,148 33,SE,1,2020,7,4
+Klippkungen,shipped,445.0,SEK,Valbo,818 32,SE,1,2020,7,5
+Klippkungen,shipped,865.0,SEK,Bastuträsk,930 61,SE,1,2020,7,8
+Klippkungen,shipped,513.0,SEK,Mariestad,542 75,SE,1,2020,7,5
+Klippkungen,shipped,666.0,SEK,Kälarne,844 61,SE,1,2020,7,10
+Klippkungen,shipped,794.0,SEK,Skellefteå,931 97,SE,1,2020,7,5
+Klippkungen,shipped,1409.0,SEK,Värmdö,139 32,SE,1,2020,7,6
+Klippkungen,shipped,55.98,EUR,Maalahti,66100,FI,1,2020,7,16
+Klippkungen,shipped,734.99,NOK,Vikebukt,6392,NO,1,2020,7,6
+Klippkungen,shipped,1095.0,SEK,Aplared,516 96,SE,1,2020,7,7
+Klippkungen,shipped,465.0,SEK,Älvdalen,796 91,SE,1,2020,7,7
+Klippkungen,shipped,473.8,SEK,Åby,616 30,SE,1,2020,7,7
+Klippkungen,shipped,376.9,SEK,Huddinge,141 92,SE,1,2020,7,7
+Klippkungen,shipped,1898.0,SEK,Järfälla,175 63,SE,1,2020,7,7
+Klippkungen,shipped,546.0,SEK,Östra Ryd,614 96,SE,1,2020,7,7
+Klippkungen,shipped,959.0,SEK,Linköping,585 97,SE,1,2020,7,7
+Klippkungen,shipped,376.0,SEK,Hjo,544 93,SE,1,2020,7,7
+Klippkungen,shipped,495.0,SEK,Löberöd,241 61,SE,1,2020,7,9
+Klippkungen,shipped,534.0,SEK,Bredaryd,33373,SE,1,2020,7,8
+Klippkungen,shipped,1168.99,NOK,Tau,4120,NO,1,2020,7,8
+Klippkungen,shipped,431.0,SEK,Borlänge,784 31,SE,1,2020,7,9
+Klippkungen,shipped,54.62,EUR,Pori,28760,FI,1,2020,7,9
+Klippkungen,shipped,346.0,SEK,Gustafs,781 60,SE,1,2020,7,20
+Klippkungen,shipped,1015.0,NOK,Kristiansand S,4639,NO,1,2020,7,9
+Klippkungen,shipped,33.77,EUR,Pensala,66840,FI,1,2020,7,13
+Klippkungen,shipped,287.0,SEK,Ingatorp,575 97,SE,1,2020,7,13
+Klippkungen,ready,208.63,EUR,Ytteresse,68810,FI,1,2020,7,10
+Klippkungen,shipped,1641.5,SEK,Skelleftehamn,932 33,SE,1,2020,7,10
+Klippkungen,shipped,500.0,DKK,Skagen,9990,DK,1,2020,7,10
+Klippkungen,shipped,1435.0,NOK,Spongdal,7074,NO,1,2020,7,10
+Klippkungen,shipped,720.8,SEK,Söderfors,815 75,SE,1,2020,7,11
+Klippkungen,shipped,694.0,SEK,Månstad,514 53,SE,1,2020,7,11
+Klippkungen,ready,995.0,SEK,Sölvesborg,294 93,SE,1,2020,7,13
+Klippkungen,shipped,298.0,NOK,Risøyhamn,8493,NO,1,2020,7,12
+Klippkungen,shipped,515.0,SEK,Mariestad,542 32,SE,1,2020,7,22
+Klippkungen,shipped,60.95,EUR,Maalahti,66100,FI,1,2020,7,13
+Klippkungen,shipped,396.0,SEK,Genarp,247 99,SE,1,2020,7,13
+Klippkungen,shipped,426.0,SEK,Transtrand,780 68,SE,1,2020,7,13
+Klippkungen,shipped,356.0,SEK,Falun,791 92,SE,1,2020,7,14
+Klippkungen,shipped,373.0,DKK,Grenaa,8500,DK,2,2020,7,14
+Klippkungen,shipped,1227.0,SEK,Skärplinge,819 61,SE,1,2020,7,14
+Klippkungen,shipped,1101.0,SEK,Virestad,343 73,SE,1,2020,7,14
+Klippkungen,shipped,1034.0,SEK,Sturkö,373 62,SE,1,2020,7,14
+Klippkungen,shipped,477.0,SEK,Mölndal,431 35,SE,1,2020,7,14
+Klippkungen,shipped,476.0,SEK,Göteborg,415 23,SE,1,2020,7,14
+Klippkungen,shipped,521.0,SEK,Södertälje,152 71,SE,1,2020,7,15
+Klippkungen,shipped,592.0,SEK,Eskilstuna,633 41,SE,1,2020,7,15
+Klippkungen,shipped,257.0,SEK,Bräkne-Hoby,37260,SE,1,2020,7,15
+Klippkungen,shipped,852.0,SEK,Gällivare,982 34,SE,1,2020,7,23
+Klippkungen,shipped,303.0,SEK,Klintehamn,623 77,SE,1,2020,7,21
+Klippkungen,shipped,1024.01,NOK,Brumunddal,2387,NO,1,2020,7,16
+Klippkungen,shipped,873.0,SEK,Stånga,623 48,SE,1,2020,7,18
+Klippkungen,shipped,840.0,SEK,Blidö,760 17,SE,1,2020,7,17
+Klippkungen,shipped,983.0,SEK,Tving,373 39,SE,1,2020,7,18
+Klippkungen,shipped,666.0,SEK,Gustavsberg,134 41,SE,1,2020,7,18
+Klippkungen,shipped,1042.0,SEK,Rättvik,795 90,SE,1,2020,7,20
+Klippkungen,shipped,774.0,SEK,Kristinehamn,681 38,SE,1,2020,7,21
+Klippkungen,shipped,1237.0,SEK,Skultuna,726 30,SE,1,2020,7,20
+Klippkungen,ready,3121.0,SEK,Knislinge,289 31,SE,1,2020,7,20
+Klippkungen,ready,979.0,SEK,Bua,432 64,SE,1,2020,7,20
+Klippkungen,shipped,287.0,SEK,Norrköping,602 42,SE,1,2020,7,20
+Klippkungen,ready,1074.98,NOK,Gran,2750,NO,1,2020,7,20
+Klippkungen,ready,366.0,SEK,Munkfors,684 31,SE,1,2020,7,20
+Klippkungen,shipped,525.0,SEK,Eksjö,575 36,SE,1,2020,7,21
+Klippkungen,shipped,516.0,SEK,Furudal,790 70,SE,1,2020,7,21
+Klippkungen,shipped,506.0,SEK,Kramfors,872 31,SE,1,2020,7,22
+Klippkungen,shipped,630.0,SEK,Löddeköpinge,246 34,SE,1,2020,7,23
+Klippkungen,shipped,1128.0,SEK,Tandsbyn,834 99,SE,1,2020,7,23
+Klippkungen,shipped,864.0,SEK,Linköping,582 55,SE,1,2020,7,24
+Klippkungen,shipped,525.0,SEK,Stenhamra,179 61,SE,1,2020,7,25
+Klippkungen,shipped,970.0,SEK,Nusnäs,792 77,SE,1,2020,7,25
+Klippkungen,shipped,536.0,SEK,Göteborg,414 75,SE,1,2020,7,26
+Klippkungen,shipped,288.0,SEK,Huddinge,141 92,SE,1,2020,7,26
+Klippkungen,shipped,1123.0,SEK,Hällefors,712 30,SE,2,2020,7,26
+Klippkungen,shipped,377.0,SEK,Ekolsund,749 50,SE,1,2020,7,26
+Klippkungen,shipped,760.98,NOK,Tverlandet,8050,NO,1,2020,7,26
+Klippkungen,shipped,975.0,SEK,Västra Frölunda,426 51,SE,1,2020,7,27
+Klippkungen,shipped,237.0,SEK,Norsborg,145 70,SE,1,2020,7,27
+Klippkungen,shipped,297.0,SEK,Lindesberg,711 36,SE,1,2020,7,28
+Klippkungen,shipped,596.0,SEK,Sala,733 35,SE,1,2020,7,30
+Klippkungen,shipped,526.8,SEK,Skurup,274 31,SE,1,2020,8,10
+Klippkungen,shipped,1077.0,SEK,Brottby,186 70,SE,1,2020,7,29
+Klippkungen,shipped,496.0,SEK,Karl Gustav,432 69,SE,1,2020,7,29
+Klippkungen,shipped,496.0,SEK,Karl Gustav,432 69,SE,1,2020,7,29
+Klippkungen,shipped,665.0,SEK,Linköping,582 27,SE,1,2020,7,30
+Klippkungen,shipped,665.0,SEK,Linköping,582 27,SE,1,2020,7,30
+Klippkungen,shipped,654.0,SEK,Köping,731 95,SE,1,2020,7,29
+Klippkungen,shipped,654.0,SEK,Köping,731 95,SE,1,2020,7,29
+Klippkungen,shipped,635.0,SEK,Stockholm,11534,SE,1,2020,7,30
+Klippkungen,shipped,496.0,SEK,Lerum,443 31,SE,1,2020,7,29
+Klippkungen,shipped,496.0,SEK,Lerum,443 31,SE,1,2020,7,29
+Klippkungen,shipped,496.0,SEK,Lerum,443 31,SE,1,2020,7,29
+Klippkungen,shipped,637.0,SEK,Kungsängen,19635,SE,1,2020,7,29
+Klippkungen,shipped,728.0,SEK,Hoting,833 59,SE,1,2020,8,5
+Klippkungen,shipped,297.0,SEK,Nyköping,611 55,SE,1,2020,7,31
+Klippkungen,shipped,794.0,SEK,Gällö,843 94,SE,1,2020,7,31
+Klippkungen,shipped,286.9,SEK,Ronneby,372 32,SE,1,2020,8,1
+Klippkungen,shipped,1054.0,NOK,Oslo,0686,NO,2,2020,8,10
+Klippkungen,shipped,1076.99,NOK,Sistranda,7260,NO,1,2020,8,6
+Klippkungen,shipped,595.0,SEK,Tenhult,561 63,SE,1,2020,8,4
+Klippkungen,shipped,1416.02,NOK,Fannrem,7320,NO,1,2020,8,4
+Klippkungen,shipped,504.0,SEK,Edsbyn,828 32,SE,1,2020,8,6
+Klippkungen,ready,982.0,SEK,Skellefteå,931 63,SE,1,2020,8,9
+Klippkungen,shipped,720.0,SEK,Bollnäs,821 92,SE,1,2020,8,6
+Klippkungen,shipped,670.0,SEK,Halmstad,302 20,SE,1,2020,8,6
+Klippkungen,shipped,198.0,SEK,Trollhättan,461 33,SE,1,2020,8,6
+Klippkungen,shipped,198.0,SEK,Ringarum,615 74,SE,1,2020,8,6
+Klippkungen,shipped,346.0,SEK,Säffle,661 31,SE,1,2020,8,6
+Klippkungen,shipped,90.43,EUR,Harrström,66290,FI,1,2020,8,6
+Klippkungen,shipped,85.18,EUR,Vähäkyrö,66500,FI,1,2020,8,6
+Klippkungen,shipped,956.0,NOK,Hauglandshella,5310,NO,1,2020,8,7
+Klippkungen,shipped,674.0,SEK,Gällö,843 94,SE,1,2020,8,6
+Klippkungen,shipped,674.0,SEK,Gällö,843 94,SE,1,2020,8,6
+Klippkungen,shipped,168.0,SEK,Mariestad,542 92,SE,1,2020,8,14
+Klippkungen,shipped,438.0,SEK,Piteå,941 43,SE,1,2020,8,10
+Klippkungen,shipped,436.0,SEK,Malmö,212 36,SE,1,2020,8,10
+Klippkungen,shipped,672.0,SEK,Alfta,822 92,SE,1,2020,8,10
+Klippkungen,shipped,510.0,SEK,Finspång,612 34,SE,1,2020,8,9
+Klippkungen,shipped,677.0,SEK,Årsta,120 39,SE,1,2020,8,10
+Klippkungen,shipped,378.0,SEK,Sölvesborg,294 93,SE,1,2020,8,10
+Klippkungen,shipped,297.0,SEK,Vimmerby,598 36,SE,1,2020,8,10
+Klippkungen,shipped,927.0,SEK,Bollnäs,821 51,SE,1,2020,8,11
+Klippkungen,shipped,387.0,SEK,Karlskoga,691 35,SE,1,2020,8,11
+Klippkungen,shipped,506.0,SEK,Umeå,903 63,SE,1,2020,8,10
+Klippkungen,shipped,531.0,NOK,Ostereidet,5993,NO,1,2020,8,10
+Klippkungen,shipped,685.0,SEK,Karlshamn,374 38,SE,1,2020,8,11
+Klippkungen,shipped,615.0,SEK,Husum,896 31,SE,1,2020,8,11
+Klippkungen,shipped,605.0,SEK,Åkersberga,184 62,SE,1,2020,8,11
+Klippkungen,shipped,435.0,SEK,Rimbo,76291,SE,1,2020,8,12
+Klippkungen,shipped,367.0,SEK,Riala,761 13,SE,1,2020,8,16
+Klippkungen,shipped,638.9,SEK,Gräddö,760 15,SE,1,2020,8,13
+Klippkungen,shipped,903.0,SEK,Norsjö,93531,SE,1,2020,8,12
+Klippkungen,shipped,620.0,DKK,Farsø,9640,DK,1,2020,8,14
+Klippkungen,shipped,357.0,SEK,Åkers Styckebruk,647 52,SE,1,2020,8,14
+Klippkungen,shipped,643.0,SEK,Tun,530 30,SE,1,2020,8,14
+Klippkungen,shipped,1008.0,SEK,Göteborg,411 24,SE,1,2020,8,15
+Klippkungen,shipped,406.0,SEK,Vilhelmina,912 92,SE,1,2020,8,16
+Klippkungen,shipped,644.0,SEK,Järna,153 38,SE,1,2020,8,17
+Klippkungen,shipped,395.0,SEK,Bispgården,844 41,SE,1,2020,8,17
+Klippkungen,shipped,365.0,SEK,Örebro,702 31,SE,1,2020,8,17
+Klippkungen,shipped,457.0,SEK,Ramnäs,730 60,SE,2,2020,8,17
+Klippkungen,shipped,605.0,SEK,Figeholm,572 95,SE,1,2020,8,18
+Klippkungen,shipped,514.0,SEK,Enebyberg,182 46,SE,1,2020,8,18
+Klippkungen,shipped,483.0,SEK,Göteborg,417 48,SE,1,2020,8,19
+Klippkungen,shipped,426.0,SEK,Västerås,723 44,SE,1,2020,8,19
+Klippkungen,shipped,1240.0,SEK,Henån,473 93,SE,2,2020,8,19
+Klippkungen,shipped,72.27,EUR,Hangonkylä,10940,FI,1,2020,8,19
+Klippkungen,shipped,370.0,SEK,Karlskoga,691 35,SE,1,2020,11,27
+Klippkungen,shipped,534.0,SEK,Alunda,74791,SE,1,2020,8,20
+Klippkungen,shipped,376.0,SEK,Grums,664 32,SE,1,2020,8,20
+Klippkungen,ready,723.0,SEK,Byske,934 52,SE,1,2020,8,21
+Klippkungen,shipped,1032.0,SEK,Malmö,212 36,SE,1,2020,8,24
+Klippkungen,shipped,347.0,SEK,Bromma,16835,SE,2,2020,8,22
+Klippkungen,shipped,515.0,SEK,Ödeshög,599 93,SE,1,2020,8,23
+Klippkungen,shipped,793.0,SEK,Älvsjö,125 54,SE,1,2020,8,23
+Klippkungen,shipped,436.0,SEK,Blidö,760 17,SE,1,2020,8,24
+Klippkungen,shipped,248.0,SEK,Karlholmsbruk,819 40,SE,1,2020,8,25
+Klippkungen,ready,987.0,SEK,Stugun,844 95,SE,1,2020,8,25
+Klippkungen,shipped,544.0,SEK,Sörberge,861 43,SE,1,2020,8,25
+Klippkungen,shipped,827.0,SEK,Julita,643 96,SE,1,2020,8,25
+Klippkungen,shipped,343.0,SEK,Älmeboda,362 98,SE,1,2020,8,25
+Klippkungen,shipped,363.0,SEK,Farsta,123 52,SE,1,2020,8,25
+Klippkungen,shipped,626.0,SEK,Marmaverken,826 66,SE,1,2020,8,25
+Klippkungen,shipped,482.0,NOK,Kvam,2642,NO,1,2020,8,25
+Klippkungen,shipped,233.0,SEK,Enköping,749 43,SE,1,2020,8,26
+Klippkungen,shipped,709.0,SEK,Nossebro,465 91,SE,1,2020,8,26
+Klippkungen,shipped,434.0,SEK,Skattkärr,656 72,SE,1,2020,8,26
+Klippkungen,shipped,848.0,SEK,Göteborg,414 81,SE,1,2020,8,26
+Klippkungen,shipped,1756.0,SEK,Kinnared,314 95,SE,1,2020,9,2
+Klippkungen,shipped,883.01,NOK,Mo i Rana,8618,NO,1,2020,8,26
+Klippkungen,shipped,198.0,SEK,Göteborg,413 18,SE,1,2020,8,27
+Klippkungen,shipped,561.0,SEK,Charlottenberg,673 31,SE,1,2020,8,27
+Klippkungen,shipped,1110.0,SEK,Umeå,906 51,SE,1,2020,8,27
+Klippkungen,shipped,326.0,SEK,Svedala,233 41,SE,1,2020,8,27
+Klippkungen,shipped,971.0,SEK,Löberöd,241 61,SE,1,2020,8,28
+Klippkungen,shipped,168.0,SEK,Hofors,813 31,SE,1,2020,8,29
+Klippkungen,shipped,880.0,SEK,Älgarås,545 72,SE,1,2020,9,1
+Klippkungen,shipped,409.0,SEK,Trelleborg,231 38,SE,1,2020,9,10
+Klippkungen,shipped,684.0,NOK,Oslo,0686,NO,1,2020,8,30
+Klippkungen,shipped,721.0,SEK,Malmö,212 36,SE,1,2020,8,31
+Klippkungen,shipped,480.0,SEK,Ankarsrum,593 70,SE,1,2020,8,31
+Klippkungen,shipped,228.0,SEK,Lindome,437 92,SE,1,2020,8,31
+Klippkungen,shipped,1198.99,NOK,Hovet,3577,NO,1,2020,9,1
+Klippkungen,shipped,656.0,SEK,Gusum,615 71,SE,1,2020,9,2
+Klippkungen,shipped,464.0,SEK,Älvsbyn,942 31,SE,1,2020,9,1
+Klippkungen,shipped,702.0,SEK,Umeå,903 34,SE,1,2020,9,1
+Klippkungen,shipped,377.0,SEK,Lindesberg,711 36,SE,1,2020,9,1
+Klippkungen,shipped,1071.99,NOK,Skien,3711,NO,1,2020,9,2
+Klippkungen,shipped,814.0,SEK,Åsele,919 32,SE,1,2020,9,2
+Klippkungen,shipped,278.0,SEK,Västra Frölunda,421 43,SE,1,2020,9,3
+Klippkungen,shipped,397.0,SEK,Västra Frölunda,421 45,SE,1,2020,9,5
+Klippkungen,shipped,1169.0,SEK,Hönö,475 41,SE,1,2020,9,3
+Klippkungen,shipped,1007.01,NOK,Vikersund,3370,NO,1,2020,9,3
+Klippkungen,shipped,1023.01,NOK,Kolbu,2847,NO,1,2020,9,3
+Klippkungen,shipped,485.0,SEK,Sollefteå,881 92,SE,1,2020,9,4
+Klippkungen,shipped,58.36,EUR,Kuggom,07945,FI,1,2020,9,4
+Klippkungen,shipped,228.0,SEK,Helsingborg,254 61,SE,1,2020,9,4
+Klippkungen,shipped,336.0,SEK,Arjeplog,938 31,SE,1,2020,9,4
+Klippkungen,shipped,267.0,SEK,Ludvika,771 34,SE,1,2020,9,4
+Klippkungen,shipped,551.0,SEK,Norrköping,602 29,SE,1,2020,9,4
+Klippkungen,shipped,551.0,SEK,Norrköping,602 29,SE,1,2020,9,4
+Klippkungen,shipped,938.98,NOK,Oslo,0956,NO,1,2020,9,4
+Klippkungen,shipped,1596.0,SEK,Kungsängen,196 33,SE,1,2020,9,9
+Klippkungen,shipped,1174.0,SEK,Ruda,579 95,SE,1,2020,9,6
+Klippkungen,shipped,368.0,SEK,Hällefors,712 33,SE,1,2020,9,7
+Klippkungen,shipped,1578.0,SEK,Västerås,722 31,SE,1,2020,9,6
+Klippkungen,shipped,467.0,SEK,Riala,761 13,SE,1,2020,9,11
+Klippkungen,shipped,994.0,SEK,Skövde,541 77,SE,1,2020,9,20
+Klippkungen,shipped,1245.0,DKK,Dalmose,4261,DK,1,2020,9,6
+Klippkungen,shipped,484.0,SEK,Lidköping,531 58,SE,1,2020,9,7
+Klippkungen,shipped,851.0,SEK,Boden,961 36,SE,1,2020,9,7
+Klippkungen,shipped,516.0,SEK,Kvänum,535 30,SE,1,2020,9,7
+Klippkungen,shipped,1082.0,SEK,Ullatti,980 42,SE,1,2020,9,7
+Klippkungen,shipped,376.0,SEK,Visby,621 73,SE,1,2020,9,10
+Klippkungen,shipped,441.0,SEK,Kiruna,981 33,SE,1,2020,9,8
+Klippkungen,shipped,168.0,SEK,Simrishamn,272 94,SE,1,2020,9,8
+Klippkungen,shipped,436.0,SEK,Västra Frölunda,421 43,SE,1,2020,9,8
+Klippkungen,shipped,51.31,EUR,Ödkarby,22320,FI,1,2020,9,8
+Klippkungen,shipped,714.0,SEK,Alfta,822 91,SE,1,2020,9,8
+Klippkungen,shipped,780.0,SEK,Överhörnäs,894 93,SE,1,2020,9,9
+Klippkungen,shipped,703.0,SEK,Göteborg,414 75,SE,1,2020,9,9
+Klippkungen,shipped,703.0,SEK,Göteborg,414 75,SE,1,2020,9,9
+Klippkungen,shipped,566.0,SEK,Göteborg,417 23,SE,1,2020,9,9
+Klippkungen,shipped,396.0,SEK,Kramfors,872 31,SE,1,2020,9,9
+Klippkungen,shipped,506.0,SEK,Gusum,615 72,SE,1,2020,9,9
+Klippkungen,shipped,674.0,SEK,Kramfors,872 31,SE,1,2020,9,16
+Klippkungen,shipped,1805.99,NOK,Oslo,0254,NO,1,2020,9,10
+Klippkungen,shipped,953.0,SEK,Olofström,293 41,SE,1,2020,9,10
+Klippkungen,shipped,676.0,NOK,Oslo,0361,NO,1,2020,9,11
+Klippkungen,shipped,1400.0,SEK,Arkelstorp,291 57,SE,1,2020,9,11
+Klippkungen,shipped,2178.0,SEK,Lärbro,624 53,SE,1,2020,9,11
+Klippkungen,shipped,435.0,NOK,Rørvik,7900,NO,1,2020,9,11
+Klippkungen,shipped,754.0,SEK,Lund,223 62,SE,2,2020,9,16
+Klippkungen,shipped,668.0,DKK,Struer,7600,DK,1,2020,9,11
+Klippkungen,shipped,631.98,NOK,Træna,8770,NO,1,2020,9,11
+Klippkungen,shipped,509.0,SEK,Södertälje,151 68,SE,1,2020,10,16
+Klippkungen,shipped,1199.0,SEK,Södertälje,152 49,SE,1,2020,9,14
+Klippkungen,shipped,991.0,SEK,Tranås,573 41,SE,1,2020,9,14
+Klippkungen,shipped,625.0,SEK,Vilhelmina,912 92,SE,1,2020,9,14
+Klippkungen,shipped,999.9,SEK,Åkersberga,184 44,SE,1,2020,9,25
+Klippkungen,shipped,506.0,SEK,Hallstahammar,734 36,SE,1,2020,9,15
+Klippkungen,shipped,674.0,SEK,Munsö,178 91,SE,1,2020,9,15
+Klippkungen,shipped,863.0,SEK,Bengtsfors,666 92,SE,1,2020,9,15
+Klippkungen,shipped,228.0,SEK,Norrköping,602 26,SE,1,2020,9,15
+Klippkungen,shipped,807.0,SEK,Kinna,511 58,SE,1,2020,9,15
+Klippkungen,shipped,465.0,SEK,Glumslöv,261 62,SE,1,2020,9,15
+Klippkungen,shipped,1158.0,SEK,Bettna,642 98,SE,1,2020,9,16
+Klippkungen,shipped,366.0,SEK,Töcksfors,670 10,SE,1,2020,9,15
+Klippkungen,shipped,502.0,SEK,Klippan,264 93,SE,1,2020,9,22
+Klippkungen,shipped,1067.02,NOK,Furuflaten,9062,NO,1,2020,9,16
+Klippkungen,shipped,643.0,SEK,Arbrå,821 61,SE,1,2020,9,16
+Klippkungen,shipped,377.0,SEK,Hamrångefjärden,817 93,SE,1,2020,9,16
+Klippkungen,shipped,456.0,SEK,Lindome,437 32,SE,1,2020,9,17
+Klippkungen,shipped,1479.8,SEK,Stråtjära,826 69,SE,1,2020,9,17
+Klippkungen,shipped,267.0,SEK,Hällnäs,922 73,SE,1,2020,9,17
+Klippkungen,shipped,552.0,SEK,Länghem,514 43,SE,1,2020,9,23
+Klippkungen,shipped,575.0,SEK,Rö,762 93,SE,1,2020,9,17
+Klippkungen,shipped,526.0,SEK,Göteborg,414 81,SE,1,2020,9,17
+Klippkungen,shipped,504.0,SEK,Nyköping,611 46,SE,1,2020,9,18
+Klippkungen,shipped,514.0,SEK,Torsåker,813 94,SE,1,2020,9,18
+Klippkungen,shipped,589.0,SEK,Norrhult,364 44,SE,1,2020,9,18
+Klippkungen,shipped,538.0,SEK,Vålberg,664 51,SE,1,2020,9,18
+Klippkungen,shipped,606.0,SEK,Borås,507 52,SE,1,2020,9,19
+Klippkungen,shipped,400.0,DKK,Aalborg Øst,9220,DK,1,2020,9,19
+Klippkungen,shipped,535.0,SEK,Töreboda,545 91,SE,1,2020,9,20
+Klippkungen,shipped,332.0,SEK,Ronneby,372 32,SE,1,2020,9,24
+Klippkungen,shipped,525.0,SEK,Bodafors,571 62,SE,1,2020,9,20
+Klippkungen,shipped,478.0,SEK,Rönninge,144 64,SE,1,2020,9,21
+Klippkungen,shipped,626.0,SEK,Blidö,760 17,SE,1,2020,9,21
+Klippkungen,shipped,416.0,SEK,Fagersta,737 46,SE,1,2020,9,21
+Klippkungen,shipped,550.0,SEK,Laxå,695 32,SE,1,2020,9,21
+Klippkungen,shipped,545.0,SEK,Trosa,619 32,SE,1,2020,9,21
+Klippkungen,shipped,277.0,SEK,Falun,791 92,SE,1,2020,9,22
+Klippkungen,shipped,507.0,SEK,Krylbo,775 50,SE,1,2020,9,29
+Klippkungen,shipped,486.0,SEK,Allerum,254 76,SE,1,2020,9,22
+Klippkungen,shipped,198.0,SEK,Göteborg,413 18,SE,1,2020,9,22
+Klippkungen,shipped,337.0,SEK,Ed,668 32,SE,1,2020,9,22
+Klippkungen,shipped,287.0,SEK,Glumslöv,261 63,SE,1,2020,10,7
